@@ -1,0 +1,9 @@
+{'Fonte': 'IBGE',
+ 'descricao': 'Variação em relação ao mesmo período do ano anterior',
+ 'indice': 'PIM_PF_REGIONAL',
+ 'nome': 'Pesquisa Industrial Mensal - Produção Física - PIM PF - Regional',
+ 'peridodicidades': 39,
+ 'referencia': 'set/2020',
+ 'referencia_validacao': 202009,
+ 'serie_historica_regional': 'serie_hist_regional_json',
+ 'valor_goias_mes_ref': '2.5%'}
