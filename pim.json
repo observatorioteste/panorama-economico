@@ -1856,10 +1856,7 @@
                 "mes": 202010,
                 "valor": "..."
             }
-        ],
-        "peridodicidades": 39
-    },
-    "brasil": {
+        ],d
         "indice": "PIM_PF_BR",
         "nome": "Pesquisa Industrial Mensal - ProduÃ§Ã£o FÃ­sica - PIM PF - Brasil",
         "descricao": "VariaÃ§Ã£o em relaÃ§Ã£o ao mesmo perÃ­odo do ano anterior",
