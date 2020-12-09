@@ -1,5 +1,11 @@
 {
-   c",
+    "goias": {
+        "indice": "PIM_PF_REGIONAL",
+        "nome": "Pesquisa Industrial Mensal - Produção Física - PIM PF - Regional",
+        "descricao": "Variação em relação ao mesmo período do ano anterior",
+        "fonte": "IBGE",
+        "referencia": "out/2020",
+        "valor_goias_mes_ref": "0.7%",
         "serie_historica_regional": [
             {
                 "cod_estado": 13,
@@ -107,7 +113,7 @@
                 "cod_estado": 13,
                 "nome_estado": "Amazonas",
                 "mes": 202006,
-                "valor": "-19.6"
+                "valor": "-19.7"
             },
             {
                 "cod_estado": 13,
@@ -119,7 +125,7 @@
                 "cod_estado": 13,
                 "nome_estado": "Amazonas",
                 "mes": 202008,
-                "valor": "-13.8"
+                "valor": "-13.9"
             },
             {
                 "cod_estado": 13,
@@ -131,7 +137,7 @@
                 "cod_estado": 13,
                 "nome_estado": "Amazonas",
                 "mes": 202010,
-                "valor": "..."
+                "valor": "-8.9"
             },
             {
                 "cod_estado": 29,
@@ -257,13 +263,13 @@
                 "cod_estado": 29,
                 "nome_estado": "Bahia",
                 "mes": 202009,
-                "valor": "-7.0"
+                "valor": "-6.9"
             },
             {
                 "cod_estado": 29,
                 "nome_estado": "Bahia",
                 "mes": 202010,
-                "valor": "..."
+                "valor": "-6.9"
             },
             {
                 "cod_estado": 23,
@@ -395,7 +401,7 @@
                 "cod_estado": 23,
                 "nome_estado": "Ceará",
                 "mes": 202010,
-                "valor": "..."
+                "valor": "-9.8"
             },
             {
                 "cod_estado": 32,
@@ -515,7 +521,7 @@
                 "cod_estado": 32,
                 "nome_estado": "Espírito Santo",
                 "mes": 202008,
-                "valor": "-18.9"
+                "valor": "-18.8"
             },
             {
                 "cod_estado": 32,
@@ -527,7 +533,7 @@
                 "cod_estado": 32,
                 "nome_estado": "Espírito Santo",
                 "mes": 202010,
-                "valor": "..."
+                "valor": "-17.0"
             },
             {
                 "cod_estado": 52,
@@ -641,25 +647,25 @@
                 "cod_estado": 52,
                 "nome_estado": "Goiás",
                 "mes": 202007,
-                "valor": "1.8"
+                "valor": "1.6"
             },
             {
                 "cod_estado": 52,
                 "nome_estado": "Goiás",
                 "mes": 202008,
-                "valor": "2.1"
+                "valor": "1.8"
             },
             {
                 "cod_estado": 52,
                 "nome_estado": "Goiás",
                 "mes": 202009,
-                "valor": "2.5"
+                "valor": "2.1"
             },
             {
                 "cod_estado": 52,
                 "nome_estado": "Goiás",
                 "mes": 202010,
-                "valor": "..."
+                "valor": "0.7"
             },
             {
                 "cod_estado": 51,
@@ -767,31 +773,31 @@
                 "cod_estado": 51,
                 "nome_estado": "Mato Grosso",
                 "mes": 202006,
-                "valor": "-1.3"
+                "valor": "-1.4"
             },
             {
                 "cod_estado": 51,
                 "nome_estado": "Mato Grosso",
                 "mes": 202007,
-                "valor": "-2.0"
+                "valor": "-2.3"
             },
             {
                 "cod_estado": 51,
                 "nome_estado": "Mato Grosso",
                 "mes": 202008,
-                "valor": "-2.5"
+                "valor": "-3.3"
             },
             {
                 "cod_estado": 51,
                 "nome_estado": "Mato Grosso",
                 "mes": 202009,
-                "valor": "-2.9"
+                "valor": "-3.7"
             },
             {
                 "cod_estado": 51,
                 "nome_estado": "Mato Grosso",
                 "mes": 202010,
-                "valor": "..."
+                "valor": "-4.6"
             },
             {
                 "cod_estado": 31,
@@ -911,19 +917,19 @@
                 "cod_estado": 31,
                 "nome_estado": "Minas Gerais",
                 "mes": 202008,
-                "valor": "-7.8"
+                "valor": "-7.9"
             },
             {
                 "cod_estado": 31,
                 "nome_estado": "Minas Gerais",
                 "mes": 202009,
-                "valor": "-6.5"
+                "valor": "-6.6"
             },
             {
                 "cod_estado": 31,
                 "nome_estado": "Minas Gerais",
                 "mes": 202010,
-                "valor": "..."
+                "valor": "-5.8"
             },
             {
                 "cod_estado": 15,
@@ -1055,7 +1061,7 @@
                 "cod_estado": 15,
                 "nome_estado": "Pará",
                 "mes": 202010,
-                "valor": "..."
+                "valor": "0.1"
             },
             {
                 "cod_estado": 41,
@@ -1175,19 +1181,19 @@
                 "cod_estado": 41,
                 "nome_estado": "Paraná",
                 "mes": 202008,
-                "valor": "-8.5"
+                "valor": "-8.7"
             },
             {
                 "cod_estado": 41,
                 "nome_estado": "Paraná",
                 "mes": 202009,
-                "valor": "-7.2"
+                "valor": "-7.3"
             },
             {
                 "cod_estado": 41,
                 "nome_estado": "Paraná",
                 "mes": 202010,
-                "valor": "..."
+                "valor": "-6.0"
             },
             {
                 "cod_estado": 26,
@@ -1313,13 +1319,13 @@
                 "cod_estado": 26,
                 "nome_estado": "Pernambuco",
                 "mes": 202009,
-                "valor": "1.8"
+                "valor": "1.7"
             },
             {
                 "cod_estado": 26,
                 "nome_estado": "Pernambuco",
                 "mes": 202010,
-                "valor": "..."
+                "valor": "2.4"
             },
             {
                 "cod_estado": 33,
@@ -1427,31 +1433,31 @@
                 "cod_estado": 33,
                 "nome_estado": "Rio de Janeiro",
                 "mes": 202006,
-                "valor": "2.3"
-            },
-            {
-                "cod_estado": 33,
-                "nome_estado": "Rio de Janeiro",
-                "mes": 202007,
-                "valor": "2.1"
-            },
-            {
-                "cod_estado": 33,
-                "nome_estado": "Rio de Janeiro",
-                "mes": 202008,
                 "valor": "2.4"
             },
             {
                 "cod_estado": 33,
                 "nome_estado": "Rio de Janeiro",
-                "mes": 202009,
+                "mes": 202007,
                 "valor": "2.2"
             },
             {
                 "cod_estado": 33,
                 "nome_estado": "Rio de Janeiro",
+                "mes": 202008,
+                "valor": "2.5"
+            },
+            {
+                "cod_estado": 33,
+                "nome_estado": "Rio de Janeiro",
+                "mes": 202009,
+                "valor": "2.3"
+            },
+            {
+                "cod_estado": 33,
+                "nome_estado": "Rio de Janeiro",
                 "mes": 202010,
-                "valor": "..."
+                "valor": "1.4"
             },
             {
                 "cod_estado": 43,
@@ -1571,19 +1577,19 @@
                 "cod_estado": 43,
                 "nome_estado": "Rio Grande do Sul",
                 "mes": 202008,
-                "valor": "-12.3"
+                "valor": "-12.4"
             },
             {
                 "cod_estado": 43,
                 "nome_estado": "Rio Grande do Sul",
                 "mes": 202009,
-                "valor": "-10.4"
+                "valor": "-10.3"
             },
             {
                 "cod_estado": 43,
                 "nome_estado": "Rio Grande do Sul",
                 "mes": 202010,
-                "valor": "..."
+                "valor": "-9.0"
             },
             {
                 "cod_estado": 42,
@@ -1691,19 +1697,19 @@
                 "cod_estado": 42,
                 "nome_estado": "Santa Catarina",
                 "mes": 202006,
-                "valor": "-15.0"
+                "valor": "-15.1"
             },
             {
                 "cod_estado": 42,
                 "nome_estado": "Santa Catarina",
                 "mes": 202007,
-                "valor": "-13.5"
+                "valor": "-13.6"
             },
             {
                 "cod_estado": 42,
                 "nome_estado": "Santa Catarina",
                 "mes": 202008,
-                "valor": "-11.9"
+                "valor": "-12.0"
             },
             {
                 "cod_estado": 42,
@@ -1715,7 +1721,7 @@
                 "cod_estado": 42,
                 "nome_estado": "Santa Catarina",
                 "mes": 202010,
-                "valor": "..."
+                "valor": "-7.8"
             },
             {
                 "cod_estado": 35,
@@ -1847,7 +1853,7 @@
                 "cod_estado": 35,
                 "nome_estado": "São Paulo",
                 "mes": 202010,
-                "valor": "..."
+                "valor": "-8.2"
             }
         ],
         "peridodicidades": 39
@@ -1858,8 +1864,97 @@
         "descricao": "Variação em relação ao mesmo período do ano anterior",
         "fonte": "IBGE",
         "referencia": "out/2020",
-        "referencia_validacao": 202010,
         "valor_nacional_mes_ref": "-6.3",
+        "serie_historica_nacional": [
+            {
+                "mes": 201901,
+                "valor": "-1.9"
+            },
+            {
+                "mes": 201902,
+                "valor": "0.1"
+            },
+            {
+                "mes": 201903,
+                "valor": "-2.0"
+            },
+            {
+                "mes": 201904,
+                "valor": "-2.5"
+            },
+            {
+                "mes": 201905,
+                "valor": "-0.4"
+            },
+            {
+                "mes": 201906,
+                "valor": "-1.3"
+            },
+            {
+                "mes": 201907,
+                "valor": "-1.5"
+            },
+            {
+                "mes": 201908,
+                "valor": "-1.6"
+            },
+            {
+                "mes": 201909,
+                "valor": "-1.3"
+            },
+            {
+                "mes": 201910,
+                "valor": "-1.0"
+            },
+            {
+                "mes": 201911,
+                "valor": "-1.1"
+            },
+            {
+                "mes": 201912,
+                "valor": "-1.1"
+            },
+            {
+                "mes": 202001,
+                "valor": "-0.9"
+            },
+            {
+                "mes": 202002,
+                "valor": "-0.6"
+            },
+            {
+                "mes": 202003,
+                "valor": "-1.7"
+            },
+            {
+                "mes": 202004,
+                "valor": "-8.3"
+            },
+            {
+                "mes": 202005,
+                "valor": "-11.3"
+            },
+            {
+                "mes": 202006,
+                "valor": "-10.9"
+            },
+            {
+                "mes": 202007,
+                "valor": "-9.6"
+            },
+            {
+                "mes": 202008,
+                "valor": "-8.6"
+            },
+            {
+                "mes": 202009,
+                "valor": "-7.1"
+            },
+            {
+                "mes": 202010,
+                "valor": "-6.3"
+            }
+        ],
         "peridodicidade": 30
     }
 }
