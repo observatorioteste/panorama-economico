@@ -5,7 +5,7 @@
         "descricao": "Variação em relação ao mesmo período do ano anterior",
         "fonte": "IBGE",
         "referencia": "out/2020",
-        "referencia_validacao": 2020d10,
+        "referencia_validacao": 202010,
         "valor_goias_mes_ref": "2.5%",
         "serie_historica_regional": [
             {
