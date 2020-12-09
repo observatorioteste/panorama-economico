@@ -1,6 +1,6 @@
 {
     "goias": {
-        "indice": "PIMPF_REGIONAL",
+        "indice": "PIM_PF_REGIONAL",
         "nome": "Pesquisa Industrial Mensal - Produção Física - PIM PF - Regional",
         "descricao": "Variação em relação ao mesmo período do ano anterior",
         "fonte": "IBGE",
