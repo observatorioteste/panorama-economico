@@ -4,10 +4,7 @@
         "nome": "Pesquisa Industrial Mensal - Produção Física - PIM PF - Regional",
         "descricao": "Variação em relação ao mesmo período do ano anterior",
         "fonte": "IBGE",
-        "referencia": "out/2020",
-        "referencia_validacao": 202010,
-        "valor_goias_mes_ref": "2.5%",
-        "serie_historica_regional": [
+        "referencia": "out/2020"d
             {
                 "cod_estado": 13,
                 "nome_estado": "Amazonas",
