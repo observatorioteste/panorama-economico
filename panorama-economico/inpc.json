@@ -1,0 +1,103 @@
+{
+    "indice": "IPCA",
+    "fonte": "SIDRA - IBGE",
+    "referencia": 202011,
+    "referencia_extenso": "Nov/2020",
+    "valor": "0.95",
+    "descricao": "Variação em relação ao mesmo período do ano anterior",
+    "serie_inpc": [
+        {
+            "mes": 201901,
+            "valor": "0.36"
+        },
+        {
+            "mes": 201902,
+            "valor": "0.54"
+        },
+        {
+            "mes": 201903,
+            "valor": "0.77"
+        },
+        {
+            "mes": 201904,
+            "valor": "0.60"
+        },
+        {
+            "mes": 201905,
+            "valor": "0.15"
+        },
+        {
+            "mes": 201906,
+            "valor": "0.01"
+        },
+        {
+            "mes": 201907,
+            "valor": "0.10"
+        },
+        {
+            "mes": 201908,
+            "valor": "0.12"
+        },
+        {
+            "mes": 201909,
+            "valor": "-0.05"
+        },
+        {
+            "mes": 201910,
+            "valor": "0.04"
+        },
+        {
+            "mes": 201911,
+            "valor": "0.54"
+        },
+        {
+            "mes": 201912,
+            "valor": "1.22"
+        },
+        {
+            "mes": 202001,
+            "valor": "0.19"
+        },
+        {
+            "mes": 202002,
+            "valor": "0.17"
+        },
+        {
+            "mes": 202003,
+            "valor": "0.18"
+        },
+        {
+            "mes": 202004,
+            "valor": "-0.23"
+        },
+        {
+            "mes": 202005,
+            "valor": "-0.25"
+        },
+        {
+            "mes": 202006,
+            "valor": "0.30"
+        },
+        {
+            "mes": 202007,
+            "valor": "0.44"
+        },
+        {
+            "mes": 202008,
+            "valor": "0.36"
+        },
+        {
+            "mes": 202009,
+            "valor": "0.87"
+        },
+        {
+            "mes": 202010,
+            "valor": "0.89"
+        },
+        {
+            "mes": 202011,
+            "valor": "0.95"
+        }
+    ],
+    "periodicidade": 30
+}
