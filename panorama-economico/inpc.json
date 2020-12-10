@@ -1,6 +1,7 @@
 {
-    "indice": "IPCA - Índice Nacional de Preços ao Consumidor Amplo",
+    "nome_indice": "IPCA - Índice Nacional de Preços ao Consumidor Amplo",
     "fonte": "SIDRA - IBGE",
+    "ultimo_indice": "0.95",
     "referencia": 202011,
     "referencia_extenso": "Nov/2020",
     "valor": "0.95",
