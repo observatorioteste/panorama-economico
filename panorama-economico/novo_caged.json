@@ -7,11 +7,13 @@
         "referencia": "202010",
         "saldo_ultimo_mes_br": {
             "desligamentos": -187065,
-            "admissoes": 269730
+            "admissoes": 269730,
+            "saldo": 82665
         },
         "saldo_ultimo_mes_go": {
             "desligamentos": -7584,
-            "admissoes": 9386
+            "admissoes": 9386,
+            "saldo": 1802
         },
         "periodicidade": "mensal"
     }
