@@ -1,1 +1,1180 @@
-
+{
+    "brasil": {
+        "indice": "taxa_de_desocupacao_br",
+        "valor": "14.6",
+        "referencia": "3º trimestre 2020",
+        "descricao": "Percentual no trimestre (IBGE)",
+        "serie_brasil": [
+            {
+                "mes": 201901,
+                "valor": "12.7"
+            },
+            {
+                "mes": 201902,
+                "valor": "12.0"
+            },
+            {
+                "mes": 201903,
+                "valor": "11.8"
+            },
+            {
+                "mes": 201904,
+                "valor": "11.0"
+            },
+            {
+                "mes": 202001,
+                "valor": "12.2"
+            },
+            {
+                "mes": 202002,
+                "valor": "13.3"
+            },
+            {
+                "mes": 202003,
+                "valor": "14.6"
+            }
+        ]
+    },
+    "goias": {
+        "indice": "taxa_de_desocupacao_go",
+        "valor": "13.2",
+        "referencia": "3º trimestre 2020",
+        "serie_goias": [
+            {
+                "cod_estado": 12,
+                "nome_estado": "Acre",
+                "mes": 201901,
+                "valor": "18.0"
+            },
+            {
+                "cod_estado": 12,
+                "nome_estado": "Acre",
+                "mes": 201902,
+                "valor": "13.6"
+            },
+            {
+                "cod_estado": 12,
+                "nome_estado": "Acre",
+                "mes": 201903,
+                "valor": "12.8"
+            },
+            {
+                "cod_estado": 12,
+                "nome_estado": "Acre",
+                "mes": 201904,
+                "valor": "13.6"
+            },
+            {
+                "cod_estado": 12,
+                "nome_estado": "Acre",
+                "mes": 202001,
+                "valor": "13.5"
+            },
+            {
+                "cod_estado": 12,
+                "nome_estado": "Acre",
+                "mes": 202002,
+                "valor": "14.2"
+            },
+            {
+                "cod_estado": 12,
+                "nome_estado": "Acre",
+                "mes": 202003,
+                "valor": "17.1"
+            },
+            {
+                "cod_estado": 27,
+                "nome_estado": "Alagoas",
+                "mes": 201901,
+                "valor": "16.0"
+            },
+            {
+                "cod_estado": 27,
+                "nome_estado": "Alagoas",
+                "mes": 201902,
+                "valor": "14.6"
+            },
+            {
+                "cod_estado": 27,
+                "nome_estado": "Alagoas",
+                "mes": 201903,
+                "valor": "15.4"
+            },
+            {
+                "cod_estado": 27,
+                "nome_estado": "Alagoas",
+                "mes": 201904,
+                "valor": "13.6"
+            },
+            {
+                "cod_estado": 27,
+                "nome_estado": "Alagoas",
+                "mes": 202001,
+                "valor": "16.5"
+            },
+            {
+                "cod_estado": 27,
+                "nome_estado": "Alagoas",
+                "mes": 202002,
+                "valor": "17.8"
+            },
+            {
+                "cod_estado": 27,
+                "nome_estado": "Alagoas",
+                "mes": 202003,
+                "valor": "20.0"
+            },
+            {
+                "cod_estado": 16,
+                "nome_estado": "Amapá",
+                "mes": 201901,
+                "valor": "20.2"
+            },
+            {
+                "cod_estado": 16,
+                "nome_estado": "Amapá",
+                "mes": 201902,
+                "valor": "16.9"
+            },
+            {
+                "cod_estado": 16,
+                "nome_estado": "Amapá",
+                "mes": 201903,
+                "valor": "16.7"
+            },
+            {
+                "cod_estado": 16,
+                "nome_estado": "Amapá",
+                "mes": 201904,
+                "valor": "15.6"
+            },
+            {
+                "cod_estado": 16,
+                "nome_estado": "Amapá",
+                "mes": 202001,
+                "valor": "17.2"
+            },
+            {
+                "cod_estado": 16,
+                "nome_estado": "Amapá",
+                "mes": 202002,
+                "valor": "11.4"
+            },
+            {
+                "cod_estado": 16,
+                "nome_estado": "Amapá",
+                "mes": 202003,
+                "valor": "15.2"
+            },
+            {
+                "cod_estado": 13,
+                "nome_estado": "Amazonas",
+                "mes": 201901,
+                "valor": "15.9"
+            },
+            {
+                "cod_estado": 13,
+                "nome_estado": "Amazonas",
+                "mes": 201902,
+                "valor": "13.9"
+            },
+            {
+                "cod_estado": 13,
+                "nome_estado": "Amazonas",
+                "mes": 201903,
+                "valor": "13.3"
+            },
+            {
+                "cod_estado": 13,
+                "nome_estado": "Amazonas",
+                "mes": 201904,
+                "valor": "12.9"
+            },
+            {
+                "cod_estado": 13,
+                "nome_estado": "Amazonas",
+                "mes": 202001,
+                "valor": "14.5"
+            },
+            {
+                "cod_estado": 13,
+                "nome_estado": "Amazonas",
+                "mes": 202002,
+                "valor": "16.5"
+            },
+            {
+                "cod_estado": 13,
+                "nome_estado": "Amazonas",
+                "mes": 202003,
+                "valor": "16.6"
+            },
+            {
+                "cod_estado": 29,
+                "nome_estado": "Bahia",
+                "mes": 201901,
+                "valor": "18.3"
+            },
+            {
+                "cod_estado": 29,
+                "nome_estado": "Bahia",
+                "mes": 201902,
+                "valor": "17.3"
+            },
+            {
+                "cod_estado": 29,
+                "nome_estado": "Bahia",
+                "mes": 201903,
+                "valor": "16.8"
+            },
+            {
+                "cod_estado": 29,
+                "nome_estado": "Bahia",
+                "mes": 201904,
+                "valor": "16.4"
+            },
+            {
+                "cod_estado": 29,
+                "nome_estado": "Bahia",
+                "mes": 202001,
+                "valor": "18.7"
+            },
+            {
+                "cod_estado": 29,
+                "nome_estado": "Bahia",
+                "mes": 202002,
+                "valor": "19.9"
+            },
+            {
+                "cod_estado": 29,
+                "nome_estado": "Bahia",
+                "mes": 202003,
+                "valor": "20.7"
+            },
+            {
+                "cod_estado": 23,
+                "nome_estado": "Ceará",
+                "mes": 201901,
+                "valor": "11.4"
+            },
+            {
+                "cod_estado": 23,
+                "nome_estado": "Ceará",
+                "mes": 201902,
+                "valor": "10.9"
+            },
+            {
+                "cod_estado": 23,
+                "nome_estado": "Ceará",
+                "mes": 201903,
+                "valor": "11.3"
+            },
+            {
+                "cod_estado": 23,
+                "nome_estado": "Ceará",
+                "mes": 201904,
+                "valor": "10.1"
+            },
+            {
+                "cod_estado": 23,
+                "nome_estado": "Ceará",
+                "mes": 202001,
+                "valor": "12.1"
+            },
+            {
+                "cod_estado": 23,
+                "nome_estado": "Ceará",
+                "mes": 202002,
+                "valor": "12.1"
+            },
+            {
+                "cod_estado": 23,
+                "nome_estado": "Ceará",
+                "mes": 202003,
+                "valor": "14.1"
+            },
+            {
+                "cod_estado": 53,
+                "nome_estado": "Distrito Federal",
+                "mes": 201901,
+                "valor": "14.1"
+            },
+            {
+                "cod_estado": 53,
+                "nome_estado": "Distrito Federal",
+                "mes": 201902,
+                "valor": "13.7"
+            },
+            {
+                "cod_estado": 53,
+                "nome_estado": "Distrito Federal",
+                "mes": 201903,
+                "valor": "13.2"
+            },
+            {
+                "cod_estado": 53,
+                "nome_estado": "Distrito Federal",
+                "mes": 201904,
+                "valor": "12.5"
+            },
+            {
+                "cod_estado": 53,
+                "nome_estado": "Distrito Federal",
+                "mes": 202001,
+                "valor": "13.6"
+            },
+            {
+                "cod_estado": 53,
+                "nome_estado": "Distrito Federal",
+                "mes": 202002,
+                "valor": "15.6"
+            },
+            {
+                "cod_estado": 53,
+                "nome_estado": "Distrito Federal",
+                "mes": 202003,
+                "valor": "15.6"
+            },
+            {
+                "cod_estado": 32,
+                "nome_estado": "Espírito Santo",
+                "mes": 201901,
+                "valor": "12.1"
+            },
+            {
+                "cod_estado": 32,
+                "nome_estado": "Espírito Santo",
+                "mes": 201902,
+                "valor": "10.9"
+            },
+            {
+                "cod_estado": 32,
+                "nome_estado": "Espírito Santo",
+                "mes": 201903,
+                "valor": "10.6"
+            },
+            {
+                "cod_estado": 32,
+                "nome_estado": "Espírito Santo",
+                "mes": 201904,
+                "valor": "10.3"
+            },
+            {
+                "cod_estado": 32,
+                "nome_estado": "Espírito Santo",
+                "mes": 202001,
+                "valor": "11.1"
+            },
+            {
+                "cod_estado": 32,
+                "nome_estado": "Espírito Santo",
+                "mes": 202002,
+                "valor": "12.3"
+            },
+            {
+                "cod_estado": 32,
+                "nome_estado": "Espírito Santo",
+                "mes": 202003,
+                "valor": "13.9"
+            },
+            {
+                "cod_estado": 52,
+                "nome_estado": "Goiás",
+                "mes": 201901,
+                "valor": "10.7"
+            },
+            {
+                "cod_estado": 52,
+                "nome_estado": "Goiás",
+                "mes": 201902,
+                "valor": "10.5"
+            },
+            {
+                "cod_estado": 52,
+                "nome_estado": "Goiás",
+                "mes": 201903,
+                "valor": "10.8"
+            },
+            {
+                "cod_estado": 52,
+                "nome_estado": "Goiás",
+                "mes": 201904,
+                "valor": "10.4"
+            },
+            {
+                "cod_estado": 52,
+                "nome_estado": "Goiás",
+                "mes": 202001,
+                "valor": "11.3"
+            },
+            {
+                "cod_estado": 52,
+                "nome_estado": "Goiás",
+                "mes": 202002,
+                "valor": "12.8"
+            },
+            {
+                "cod_estado": 52,
+                "nome_estado": "Goiás",
+                "mes": 202003,
+                "valor": "13.2"
+            },
+            {
+                "cod_estado": 21,
+                "nome_estado": "Maranhão",
+                "mes": 201901,
+                "valor": "16.3"
+            },
+            {
+                "cod_estado": 21,
+                "nome_estado": "Maranhão",
+                "mes": 201902,
+                "valor": "14.6"
+            },
+            {
+                "cod_estado": 21,
+                "nome_estado": "Maranhão",
+                "mes": 201903,
+                "valor": "14.1"
+            },
+            {
+                "cod_estado": 21,
+                "nome_estado": "Maranhão",
+                "mes": 201904,
+                "valor": "12.1"
+            },
+            {
+                "cod_estado": 21,
+                "nome_estado": "Maranhão",
+                "mes": 202001,
+                "valor": "16.1"
+            },
+            {
+                "cod_estado": 21,
+                "nome_estado": "Maranhão",
+                "mes": 202002,
+                "valor": "16.0"
+            },
+            {
+                "cod_estado": 21,
+                "nome_estado": "Maranhão",
+                "mes": 202003,
+                "valor": "16.9"
+            },
+            {
+                "cod_estado": 51,
+                "nome_estado": "Mato Grosso",
+                "mes": 201901,
+                "valor": "9.1"
+            },
+            {
+                "cod_estado": 51,
+                "nome_estado": "Mato Grosso",
+                "mes": 201902,
+                "valor": "8.3"
+            },
+            {
+                "cod_estado": 51,
+                "nome_estado": "Mato Grosso",
+                "mes": 201903,
+                "valor": "8.0"
+            },
+            {
+                "cod_estado": 51,
+                "nome_estado": "Mato Grosso",
+                "mes": 201904,
+                "valor": "6.4"
+            },
+            {
+                "cod_estado": 51,
+                "nome_estado": "Mato Grosso",
+                "mes": 202001,
+                "valor": "8.5"
+            },
+            {
+                "cod_estado": 51,
+                "nome_estado": "Mato Grosso",
+                "mes": 202002,
+                "valor": "10.2"
+            },
+            {
+                "cod_estado": 51,
+                "nome_estado": "Mato Grosso",
+                "mes": 202003,
+                "valor": "9.9"
+            },
+            {
+                "cod_estado": 50,
+                "nome_estado": "Mato Grosso do Sul",
+                "mes": 201901,
+                "valor": "9.5"
+            },
+            {
+                "cod_estado": 50,
+                "nome_estado": "Mato Grosso do Sul",
+                "mes": 201902,
+                "valor": "8.3"
+            },
+            {
+                "cod_estado": 50,
+                "nome_estado": "Mato Grosso do Sul",
+                "mes": 201903,
+                "valor": "7.5"
+            },
+            {
+                "cod_estado": 50,
+                "nome_estado": "Mato Grosso do Sul",
+                "mes": 201904,
+                "valor": "6.5"
+            },
+            {
+                "cod_estado": 50,
+                "nome_estado": "Mato Grosso do Sul",
+                "mes": 202001,
+                "valor": "7.6"
+            },
+            {
+                "cod_estado": 50,
+                "nome_estado": "Mato Grosso do Sul",
+                "mes": 202002,
+                "valor": "11.4"
+            },
+            {
+                "cod_estado": 50,
+                "nome_estado": "Mato Grosso do Sul",
+                "mes": 202003,
+                "valor": "11.5"
+            },
+            {
+                "cod_estado": 31,
+                "nome_estado": "Minas Gerais",
+                "mes": 201901,
+                "valor": "11.2"
+            },
+            {
+                "cod_estado": 31,
+                "nome_estado": "Minas Gerais",
+                "mes": 201902,
+                "valor": "9.6"
+            },
+            {
+                "cod_estado": 31,
+                "nome_estado": "Minas Gerais",
+                "mes": 201903,
+                "valor": "9.9"
+            },
+            {
+                "cod_estado": 31,
+                "nome_estado": "Minas Gerais",
+                "mes": 201904,
+                "valor": "9.5"
+            },
+            {
+                "cod_estado": 31,
+                "nome_estado": "Minas Gerais",
+                "mes": 202001,
+                "valor": "11.5"
+            },
+            {
+                "cod_estado": 31,
+                "nome_estado": "Minas Gerais",
+                "mes": 202002,
+                "valor": "12.9"
+            },
+            {
+                "cod_estado": 31,
+                "nome_estado": "Minas Gerais",
+                "mes": 202003,
+                "valor": "13.3"
+            },
+            {
+                "cod_estado": 15,
+                "nome_estado": "Pará",
+                "mes": 201901,
+                "valor": "11.5"
+            },
+            {
+                "cod_estado": 15,
+                "nome_estado": "Pará",
+                "mes": 201902,
+                "valor": "11.2"
+            },
+            {
+                "cod_estado": 15,
+                "nome_estado": "Pará",
+                "mes": 201903,
+                "valor": "11.2"
+            },
+            {
+                "cod_estado": 15,
+                "nome_estado": "Pará",
+                "mes": 201904,
+                "valor": "9.2"
+            },
+            {
+                "cod_estado": 15,
+                "nome_estado": "Pará",
+                "mes": 202001,
+                "valor": "10.6"
+            },
+            {
+                "cod_estado": 15,
+                "nome_estado": "Pará",
+                "mes": 202002,
+                "valor": "9.1"
+            },
+            {
+                "cod_estado": 15,
+                "nome_estado": "Pará",
+                "mes": 202003,
+                "valor": "10.9"
+            },
+            {
+                "cod_estado": 25,
+                "nome_estado": "Paraíba",
+                "mes": 201901,
+                "valor": "11.1"
+            },
+            {
+                "cod_estado": 25,
+                "nome_estado": "Paraíba",
+                "mes": 201902,
+                "valor": "11.9"
+            },
+            {
+                "cod_estado": 25,
+                "nome_estado": "Paraíba",
+                "mes": 201903,
+                "valor": "11.2"
+            },
+            {
+                "cod_estado": 25,
+                "nome_estado": "Paraíba",
+                "mes": 201904,
+                "valor": "12.1"
+            },
+            {
+                "cod_estado": 25,
+                "nome_estado": "Paraíba",
+                "mes": 202001,
+                "valor": "13.8"
+            },
+            {
+                "cod_estado": 25,
+                "nome_estado": "Paraíba",
+                "mes": 202002,
+                "valor": "12.8"
+            },
+            {
+                "cod_estado": 25,
+                "nome_estado": "Paraíba",
+                "mes": 202003,
+                "valor": "16.8"
+            },
+            {
+                "cod_estado": 41,
+                "nome_estado": "Paraná",
+                "mes": 201901,
+                "valor": "8.9"
+            },
+            {
+                "cod_estado": 41,
+                "nome_estado": "Paraná",
+                "mes": 201902,
+                "valor": "9.0"
+            },
+            {
+                "cod_estado": 41,
+                "nome_estado": "Paraná",
+                "mes": 201903,
+                "valor": "8.9"
+            },
+            {
+                "cod_estado": 41,
+                "nome_estado": "Paraná",
+                "mes": 201904,
+                "valor": "7.3"
+            },
+            {
+                "cod_estado": 41,
+                "nome_estado": "Paraná",
+                "mes": 202001,
+                "valor": "7.9"
+            },
+            {
+                "cod_estado": 41,
+                "nome_estado": "Paraná",
+                "mes": 202002,
+                "valor": "9.6"
+            },
+            {
+                "cod_estado": 41,
+                "nome_estado": "Paraná",
+                "mes": 202003,
+                "valor": "10.2"
+            },
+            {
+                "cod_estado": 26,
+                "nome_estado": "Pernambuco",
+                "mes": 201901,
+                "valor": "16.1"
+            },
+            {
+                "cod_estado": 26,
+                "nome_estado": "Pernambuco",
+                "mes": 201902,
+                "valor": "16.0"
+            },
+            {
+                "cod_estado": 26,
+                "nome_estado": "Pernambuco",
+                "mes": 201903,
+                "valor": "15.8"
+            },
+            {
+                "cod_estado": 26,
+                "nome_estado": "Pernambuco",
+                "mes": 201904,
+                "valor": "14.0"
+            },
+            {
+                "cod_estado": 26,
+                "nome_estado": "Pernambuco",
+                "mes": 202001,
+                "valor": "14.5"
+            },
+            {
+                "cod_estado": 26,
+                "nome_estado": "Pernambuco",
+                "mes": 202002,
+                "valor": "15.0"
+            },
+            {
+                "cod_estado": 26,
+                "nome_estado": "Pernambuco",
+                "mes": 202003,
+                "valor": "18.8"
+            },
+            {
+                "cod_estado": 22,
+                "nome_estado": "Piauí",
+                "mes": 201901,
+                "valor": "12.7"
+            },
+            {
+                "cod_estado": 22,
+                "nome_estado": "Piauí",
+                "mes": 201902,
+                "valor": "12.8"
+            },
+            {
+                "cod_estado": 22,
+                "nome_estado": "Piauí",
+                "mes": 201903,
+                "valor": "12.7"
+            },
+            {
+                "cod_estado": 22,
+                "nome_estado": "Piauí",
+                "mes": 201904,
+                "valor": "13.0"
+            },
+            {
+                "cod_estado": 22,
+                "nome_estado": "Piauí",
+                "mes": 202001,
+                "valor": "13.7"
+            },
+            {
+                "cod_estado": 22,
+                "nome_estado": "Piauí",
+                "mes": 202002,
+                "valor": "12.7"
+            },
+            {
+                "cod_estado": 22,
+                "nome_estado": "Piauí",
+                "mes": 202003,
+                "valor": "12.8"
+            },
+            {
+                "cod_estado": 33,
+                "nome_estado": "Rio de Janeiro",
+                "mes": 201901,
+                "valor": "15.3"
+            },
+            {
+                "cod_estado": 33,
+                "nome_estado": "Rio de Janeiro",
+                "mes": 201902,
+                "valor": "15.1"
+            },
+            {
+                "cod_estado": 33,
+                "nome_estado": "Rio de Janeiro",
+                "mes": 201903,
+                "valor": "14.5"
+            },
+            {
+                "cod_estado": 33,
+                "nome_estado": "Rio de Janeiro",
+                "mes": 201904,
+                "valor": "13.7"
+            },
+            {
+                "cod_estado": 33,
+                "nome_estado": "Rio de Janeiro",
+                "mes": 202001,
+                "valor": "14.5"
+            },
+            {
+                "cod_estado": 33,
+                "nome_estado": "Rio de Janeiro",
+                "mes": 202002,
+                "valor": "16.4"
+            },
+            {
+                "cod_estado": 33,
+                "nome_estado": "Rio de Janeiro",
+                "mes": 202003,
+                "valor": "19.1"
+            },
+            {
+                "cod_estado": 24,
+                "nome_estado": "Rio Grande do Norte",
+                "mes": 201901,
+                "valor": "13.8"
+            },
+            {
+                "cod_estado": 24,
+                "nome_estado": "Rio Grande do Norte",
+                "mes": 201902,
+                "valor": "12.5"
+            },
+            {
+                "cod_estado": 24,
+                "nome_estado": "Rio Grande do Norte",
+                "mes": 201903,
+                "valor": "13.4"
+            },
+            {
+                "cod_estado": 24,
+                "nome_estado": "Rio Grande do Norte",
+                "mes": 201904,
+                "valor": "12.6"
+            },
+            {
+                "cod_estado": 24,
+                "nome_estado": "Rio Grande do Norte",
+                "mes": 202001,
+                "valor": "15.4"
+            },
+            {
+                "cod_estado": 24,
+                "nome_estado": "Rio Grande do Norte",
+                "mes": 202002,
+                "valor": "15.0"
+            },
+            {
+                "cod_estado": 24,
+                "nome_estado": "Rio Grande do Norte",
+                "mes": 202003,
+                "valor": "17.3"
+            },
+            {
+                "cod_estado": 43,
+                "nome_estado": "Rio Grande do Sul",
+                "mes": 201901,
+                "valor": "8.0"
+            },
+            {
+                "cod_estado": 43,
+                "nome_estado": "Rio Grande do Sul",
+                "mes": 201902,
+                "valor": "8.2"
+            },
+            {
+                "cod_estado": 43,
+                "nome_estado": "Rio Grande do Sul",
+                "mes": 201903,
+                "valor": "8.8"
+            },
+            {
+                "cod_estado": 43,
+                "nome_estado": "Rio Grande do Sul",
+                "mes": 201904,
+                "valor": "7.1"
+            },
+            {
+                "cod_estado": 43,
+                "nome_estado": "Rio Grande do Sul",
+                "mes": 202001,
+                "valor": "8.3"
+            },
+            {
+                "cod_estado": 43,
+                "nome_estado": "Rio Grande do Sul",
+                "mes": 202002,
+                "valor": "9.4"
+            },
+            {
+                "cod_estado": 43,
+                "nome_estado": "Rio Grande do Sul",
+                "mes": 202003,
+                "valor": "10.3"
+            },
+            {
+                "cod_estado": 11,
+                "nome_estado": "Rondônia",
+                "mes": 201901,
+                "valor": "8.9"
+            },
+            {
+                "cod_estado": 11,
+                "nome_estado": "Rondônia",
+                "mes": 201902,
+                "valor": "6.7"
+            },
+            {
+                "cod_estado": 11,
+                "nome_estado": "Rondônia",
+                "mes": 201903,
+                "valor": "8.2"
+            },
+            {
+                "cod_estado": 11,
+                "nome_estado": "Rondônia",
+                "mes": 201904,
+                "valor": "8.0"
+            },
+            {
+                "cod_estado": 11,
+                "nome_estado": "Rondônia",
+                "mes": 202001,
+                "valor": "8.4"
+            },
+            {
+                "cod_estado": 11,
+                "nome_estado": "Rondônia",
+                "mes": 202002,
+                "valor": "10.6"
+            },
+            {
+                "cod_estado": 11,
+                "nome_estado": "Rondônia",
+                "mes": 202003,
+                "valor": "11.4"
+            },
+            {
+                "cod_estado": 14,
+                "nome_estado": "Roraima",
+                "mes": 201901,
+                "valor": "15.0"
+            },
+            {
+                "cod_estado": 14,
+                "nome_estado": "Roraima",
+                "mes": 201902,
+                "valor": "14.9"
+            },
+            {
+                "cod_estado": 14,
+                "nome_estado": "Roraima",
+                "mes": 201903,
+                "valor": "15.0"
+            },
+            {
+                "cod_estado": 14,
+                "nome_estado": "Roraima",
+                "mes": 201904,
+                "valor": "14.8"
+            },
+            {
+                "cod_estado": 14,
+                "nome_estado": "Roraima",
+                "mes": 202001,
+                "valor": "16.5"
+            },
+            {
+                "cod_estado": 14,
+                "nome_estado": "Roraima",
+                "mes": 202002,
+                "valor": "16.3"
+            },
+            {
+                "cod_estado": 14,
+                "nome_estado": "Roraima",
+                "mes": 202003,
+                "valor": "18.5"
+            },
+            {
+                "cod_estado": 42,
+                "nome_estado": "Santa Catarina",
+                "mes": 201901,
+                "valor": "7.2"
+            },
+            {
+                "cod_estado": 42,
+                "nome_estado": "Santa Catarina",
+                "mes": 201902,
+                "valor": "6.0"
+            },
+            {
+                "cod_estado": 42,
+                "nome_estado": "Santa Catarina",
+                "mes": 201903,
+                "valor": "5.8"
+            },
+            {
+                "cod_estado": 42,
+                "nome_estado": "Santa Catarina",
+                "mes": 201904,
+                "valor": "5.3"
+            },
+            {
+                "cod_estado": 42,
+                "nome_estado": "Santa Catarina",
+                "mes": 202001,
+                "valor": "5.7"
+            },
+            {
+                "cod_estado": 42,
+                "nome_estado": "Santa Catarina",
+                "mes": 202002,
+                "valor": "6.9"
+            },
+            {
+                "cod_estado": 42,
+                "nome_estado": "Santa Catarina",
+                "mes": 202003,
+                "valor": "6.6"
+            },
+            {
+                "cod_estado": 35,
+                "nome_estado": "São Paulo",
+                "mes": 201901,
+                "valor": "13.5"
+            },
+            {
+                "cod_estado": 35,
+                "nome_estado": "São Paulo",
+                "mes": 201902,
+                "valor": "12.8"
+            },
+            {
+                "cod_estado": 35,
+                "nome_estado": "São Paulo",
+                "mes": 201903,
+                "valor": "12.0"
+            },
+            {
+                "cod_estado": 35,
+                "nome_estado": "São Paulo",
+                "mes": 201904,
+                "valor": "11.5"
+            },
+            {
+                "cod_estado": 35,
+                "nome_estado": "São Paulo",
+                "mes": 202001,
+                "valor": "12.2"
+            },
+            {
+                "cod_estado": 35,
+                "nome_estado": "São Paulo",
+                "mes": 202002,
+                "valor": "13.6"
+            },
+            {
+                "cod_estado": 35,
+                "nome_estado": "São Paulo",
+                "mes": 202003,
+                "valor": "15.1"
+            },
+            {
+                "cod_estado": 28,
+                "nome_estado": "Sergipe",
+                "mes": 201901,
+                "valor": "15.5"
+            },
+            {
+                "cod_estado": 28,
+                "nome_estado": "Sergipe",
+                "mes": 201902,
+                "valor": "15.3"
+            },
+            {
+                "cod_estado": 28,
+                "nome_estado": "Sergipe",
+                "mes": 201903,
+                "valor": "14.7"
+            },
+            {
+                "cod_estado": 28,
+                "nome_estado": "Sergipe",
+                "mes": 201904,
+                "valor": "14.8"
+            },
+            {
+                "cod_estado": 28,
+                "nome_estado": "Sergipe",
+                "mes": 202001,
+                "valor": "15.5"
+            },
+            {
+                "cod_estado": 28,
+                "nome_estado": "Sergipe",
+                "mes": 202002,
+                "valor": "19.8"
+            },
+            {
+                "cod_estado": 28,
+                "nome_estado": "Sergipe",
+                "mes": 202003,
+                "valor": "20.3"
+            },
+            {
+                "cod_estado": 17,
+                "nome_estado": "Tocantins",
+                "mes": 201901,
+                "valor": "12.3"
+            },
+            {
+                "cod_estado": 17,
+                "nome_estado": "Tocantins",
+                "mes": 201902,
+                "valor": "11.4"
+            },
+            {
+                "cod_estado": 17,
+                "nome_estado": "Tocantins",
+                "mes": 201903,
+                "valor": "10.5"
+            },
+            {
+                "cod_estado": 17,
+                "nome_estado": "Tocantins",
+                "mes": 201904,
+                "valor": "9.1"
+            },
+            {
+                "cod_estado": 17,
+                "nome_estado": "Tocantins",
+                "mes": 202001,
+                "valor": "11.2"
+            },
+            {
+                "cod_estado": 17,
+                "nome_estado": "Tocantins",
+                "mes": 202002,
+                "valor": "12.6"
+            },
+            {
+                "cod_estado": 17,
+                "nome_estado": "Tocantins",
+                "mes": 202003,
+                "valor": "12.2"
+            }
+        ],
+        "descricao": "Percentual no trimestre (IBGE)"
+    }
+}
