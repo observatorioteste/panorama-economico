@@ -6,10 +6,12 @@
         "fonte": "Ministério do Trabalho",
         "referencia": "202010",
         "saldo_ultimo_mes_br": {
+            "saldo": 82665,
             "desligamentos": -187065,
             "admissoes": 269730
         },
         "saldo_ultimo_mes_go": {
+            "saldo": 1802,
             "desligamentos": -7584,
             "admissoes": 9386
         },
