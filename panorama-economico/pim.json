@@ -1,8 +1,7 @@
 {
     "cartao": {
-        "indice": "PIM_PF_REGIONAL",
         "nome": "Pesquisa Industrial Mensal - Produção Física - PIM PF - Regional",
-        "descricao": "Variação percentual mensal (Base: igual mês do ano anterior)",
+        "descricao": "Variação percentual acumulada no ano (Base: igual período do ano anterior)",
         "fonte": "IBGE",
         "cartao_dados": [
             "referencia_go",
@@ -13,9 +12,8 @@
         "peridodicidades": "-"
     },
     "serie": {
-        "indice": "PIM_PF_REGIONAL",
         "nome": "Pesquisa Industrial Mensal - Produção Física - PIM PF - Regional",
-        "descricao": "Variação percentual acumulada no ano (Base: igual período do ano anterior)",
+        "descricao": "Variação percentual mensal (Base: igual mês do ano anterior)",
         "fonte": "IBGE",
         "referencia": 202010,
         "serie_historica_regional": [
