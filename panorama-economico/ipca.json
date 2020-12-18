@@ -4,7 +4,7 @@
     "referencia": 202011,
     "referencia_extenso": "Nov/2020",
     "valor": "0.89",
-    "descricao": "Variação em relação ao mesmo período do ano anterior",
+    "descricao": "Variação mensal (%)",
     "serie_inpc": [
         {
             "mes": 201901,
@@ -99,5 +99,5 @@
             "valor": "0.89"
         }
     ],
-    "periodicidade": 30
+    "periodicidade": "-"
 }
