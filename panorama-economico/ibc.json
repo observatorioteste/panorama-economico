@@ -6,6 +6,107 @@
         "fonte": "IBC",
         "referencia": "Jan-Out/2020",
         "valor": "-4.92",
-        "periodicidade": 45
+        "periodicidade": "-",
+        "variacao_mensal": {
+            "Fev/2018": {
+                "variacao_mensal": -1.6410799364743212
+            },
+            "Mar/2018": {
+                "variacao_mensal": 9.072735660464403
+            },
+            "Abr/2018": {
+                "variacao_mensal": -1.9103341322430634
+            },
+            "Mai/2018": {
+                "variacao_mensal": -4.86525332375135
+            },
+            "Jun/2018": {
+                "variacao_mensal": 3.6561414110892976
+            },
+            "Jul/2018": {
+                "variacao_mensal": 2.893164261769421
+            },
+            "Ago/2018": {
+                "variacao_mensal": 1.6715064806289481
+            },
+            "Set/2018": {
+                "variacao_mensal": -5.238592824799726
+            },
+            "Out/2018": {
+                "variacao_mensal": 2.8890685878115274
+            },
+            "Nov/2018": {
+                "variacao_mensal": -1.5504429837096434
+            },
+            "Dez/2018": {
+                "variacao_mensal": -0.9652369547862527
+            },
+            "Jan/2019": {
+                "variacao_mensal": -2.0298988714641752
+            },
+            "Fev/2019": {
+                "variacao_mensal": -0.1869997756002717
+            },
+            "Mar/2019": {
+                "variacao_mensal": 3.747002398081545
+            },
+            "Abr/2019": {
+                "variacao_mensal": 0.28171048829819245
+            },
+            "Mai/2019": {
+                "variacao_mensal": 0.28812216379743294
+            },
+            "Jun/2019": {
+                "variacao_mensal": -2.9519500107735297
+            },
+            "Jul/2019": {
+                "variacao_mensal": 5.743043220840738
+            },
+            "Ago/2019": {
+                "variacao_mensal": -0.4689249720044697
+            },
+            "Set/2019": {
+                "variacao_mensal": -2.4470852963926704
+            },
+            "Out/2019": {
+                "variacao_mensal": 3.1572118503568225
+            },
+            "Nov/2019": {
+                "variacao_mensal": -2.7810774928376913
+            },
+            "Dez/2019": {
+                "variacao_mensal": -0.7906274707108474
+            },
+            "Jan/2020": {
+                "variacao_mensal": -3.100775193798455
+            },
+            "Fev/2020": {
+                "variacao_mensal": 0.276635514018686
+            },
+            "Mar/2020": {
+                "variacao_mensal": 1.260065612883987
+            },
+            "Abr/2020": {
+                "variacao_mensal": -12.80465356012076
+            },
+            "Mai/2020": {
+                "variacao_mensal": 1.3933457186286136
+            },
+            "Jun/2020": {
+                "variacao_mensal": 5.221953860248196
+            },
+            "Jul/2020": {
+                "variacao_mensal": 7.741016305208159
+            },
+            "Ago/2020": {
+                "variacao_mensal": 0.03673229503378117
+            },
+            "Set/2020": {
+                "variacao_mensal": 0.8225012851582614
+            },
+            "Out/2020": {
+                "variacao_mensal": 1.515041153762109
+            }
+        }
     }
 }
