@@ -7,7 +7,7 @@
     "descricao": "Variação em relação ao mesmo período do ano anterior",
     "serie_inpc": [
         {
-            "mes":901,
+            "mes": 201901,
             "valor": "0.36"
         },
         {
