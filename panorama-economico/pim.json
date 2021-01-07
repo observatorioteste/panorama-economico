@@ -3,7 +3,8 @@
         "indice": "PIM_PF_REGIONAL",
         "nome": "Pesquisa Industrial Mensal - Produção Física - PIM PF - Regional",
         "descricao": "Variação em relação ao mesmo período do ano anterior",
-        "fonte": "IBGE",d
+        "fonte": "IBGE",
+        "referencia": "out/2020",
         "valor_goias_mes_ref": "0.7%",
         "serie_historica_regional": [
             {
