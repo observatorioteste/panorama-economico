@@ -1,8 +1,7 @@
 {
     "novo_caged": {
         "indice": "NOVO CAGED",
-        "nome": "Cadastro Geral de Empregados e Desempregados - CAGED",
-        "descricao": "-",
+        "nome": "Cadastro Geral 
         "fonte": "Ministério do Trabalho",
         "referencia": "202011",
         "saldo_ultimo_mes_br": {
