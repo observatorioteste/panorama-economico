@@ -1,8 +1,9 @@
 {
     "nome_indice": "ICC - Índice de Confiança do Consumidor",
     "fonte": "FecomercioSP - Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo",
-    "referencia": "9/2020",dt/2020",
-    "valor": 7.12,
+    "referencia": "11/2020",
+    "referencia_extenso": "Nov/2020",
+    "valor": 6.72,
     "descricao": "Variação em relação ao mesmo período do ano anterior",
     "serie_inpc": [
         {
@@ -88,6 +89,14 @@
         {
             "mes": "202009",
             "valor": 108.35548115513461
+        },
+        {
+            "mes": "202010",
+            "valor": 107.61298816486044
+        },
+        {
+            "mes": "202011",
+            "valor": 111.6531935517352
         }
     ],
     "periodicidade": 30
