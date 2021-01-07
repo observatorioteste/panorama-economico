@@ -1,6 +1,6 @@
 {
     "brasil": {
-        "indice": "taxa_de_desocupacao_br",
+        "indice": "taxa_de_desocupacao",
         "valor": "14.6",
         "referencia": "3º trimestre 2020",
         "descricao": "Percentual no trimestre (IBGE)",
