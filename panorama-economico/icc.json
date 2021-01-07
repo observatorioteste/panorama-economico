@@ -3,9 +3,7 @@
     "fonte": "FecomercioSP - Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo",
     "referencia": "11/2020",
     "referencia_extenso": "Nov/2020",
-    "valor": 6.72,
-    "descricao": "Variação em relação ao mesmo período do ano anterior",
-    "serie_inpc": [
+    "valor": 6.72,x
         {
             "mes": "201901",
             "valor": 128.63719587242423
