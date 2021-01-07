@@ -3,669 +3,101 @@
     "fonte": "SIDRA - IBGE",
     "referencia": 202011,
     "referencia_extenso": "Nov/2020",
-    "valor_goiania": "1.40",
-    "descricao": "Variação mensal",
+    "valor": "0.95",
+    "descricao": "Variação em relação ao mesmo período do ano anterior",
     "serie_inpc": [
         {
-            "cod_municipio": 2901,
-            "nome_municipio": "Salvador",
-            "mes": 202001,
-            "valor": "0.31"
-        },
-        {
-            "cod_municipio": 2901,
-            "nome_municipio": "Salvador",
-            "mes": 202002,
-            "valor": "0.16"
-        },
-        {
-            "cod_municipio": 2901,
-            "nome_municipio": "Salvador",
-            "mes": 202003,
-            "valor": "0.29"
-        },
-        {
-            "cod_municipio": 2901,
-            "nome_municipio": "Salvador",
-            "mes": 202004,
-            "valor": "-0.12"
-        },
-        {
-            "cod_municipio": 2901,
-            "nome_municipio": "Salvador",
-            "mes": 202005,
-            "valor": "-0.30"
-        },
-        {
-            "cod_municipio": 2901,
-            "nome_municipio": "Salvador",
-            "mes": 202006,
-            "valor": "0.60"
-        },
-        {
-            "cod_municipio": 2901,
-            "nome_municipio": "Salvador",
-            "mes": 202007,
-            "valor": "0.67"
-        },
-        {
-            "cod_municipio": 2901,
-            "nome_municipio": "Salvador",
-            "mes": 202008,
-            "valor": "0.24"
-        },
-        {
-            "cod_municipio": 2901,
-            "nome_municipio": "Salvador",
-            "mes": 202009,
-            "valor": "0.47"
-        },
-        {
-            "cod_municipio": 2901,
-            "nome_municipio": "Salvador",
-            "mes": 202010,
-            "valor": "0.46"
-        },
-        {
-            "cod_municipio": 2901,
-            "nome_municipio": "Salvador",
-            "mes": 202011,
-            "valor": "1.16"
-        },
-        {
-            "cod_municipio": 2301,
-            "nome_municipio": "Fortaleza",
-            "mes": 202001,
-            "valor": "0.30"
-        },
-        {
-            "cod_municipio": 2301,
-            "nome_municipio": "Fortaleza",
-            "mes": 202002,
-            "valor": "0.84"
-        },
-        {
-            "cod_municipio": 2301,
-            "nome_municipio": "Fortaleza",
-            "mes": 202003,
-            "valor": "0.20"
-        },
-        {
-            "cod_municipio": 2301,
-            "nome_municipio": "Fortaleza",
-            "mes": 202004,
-            "valor": "-0.04"
-        },
-        {
-            "cod_municipio": 2301,
-            "nome_municipio": "Fortaleza",
-            "mes": 202005,
-            "valor": "-0.51"
-        },
-        {
-            "cod_municipio": 2301,
-            "nome_municipio": "Fortaleza",
-            "mes": 202006,
-            "valor": "0.34"
-        },
-        {
-            "cod_municipio": 2301,
-            "nome_municipio": "Fortaleza",
-            "mes": 202007,
-            "valor": "0.60"
-        },
-        {
-            "cod_municipio": 2301,
-            "nome_municipio": "Fortaleza",
-            "mes": 202008,
-            "valor": "-0.16"
-        },
-        {
-            "cod_municipio": 2301,
-            "nome_municipio": "Fortaleza",
-            "mes": 202009,
-            "valor": "1.36"
-        },
-        {
-            "cod_municipio": 2301,
-            "nome_municipio": "Fortaleza",
-            "mes": 202010,
-            "valor": "0.86"
-        },
-        {
-            "cod_municipio": 2301,
-            "nome_municipio": "Fortaleza",
-            "mes": 202011,
-            "valor": "0.92"
-        },
-        {
-            "cod_municipio": 3201,
-            "nome_municipio": "Grande Vitória",
-            "mes": 202001,
-            "valor": "0.25"
-        },
-        {
-            "cod_municipio": 3201,
-            "nome_municipio": "Grande Vitória",
-            "mes": 202002,
+            "mes": 201901,
             "valor": "0.36"
         },
         {
-            "cod_municipio": 3201,
-            "nome_municipio": "Grande Vitória",
-            "mes": 202003,
-            "valor": "0.19"
+            "mes": 201902,
+            "valor": "0.54"
         },
         {
-            "cod_municipio": 3201,
-            "nome_municipio": "Grande Vitória",
-            "mes": 202004,
-            "valor": "-0.18"
-        },
-        {
-            "cod_municipio": 3201,
-            "nome_municipio": "Grande Vitória",
-            "mes": 202005,
-            "valor": "-0.29"
-        },
-        {
-            "cod_municipio": 3201,
-            "nome_municipio": "Grande Vitória",
-            "mes": 202006,
-            "valor": "0.85"
-        },
-        {
-            "cod_municipio": 3201,
-            "nome_municipio": "Grande Vitória",
-            "mes": 202007,
-            "valor": "0.30"
-        },
-        {
-            "cod_municipio": 3201,
-            "nome_municipio": "Grande Vitória",
-            "mes": 202008,
-            "valor": "0.29"
-        },
-        {
-            "cod_municipio": 3201,
-            "nome_municipio": "Grande Vitória",
-            "mes": 202009,
-            "valor": "1.07"
-        },
-        {
-            "cod_municipio": 3201,
-            "nome_municipio": "Grande Vitória",
-            "mes": 202010,
-            "valor": "0.94"
-        },
-        {
-            "cod_municipio": 3201,
-            "nome_municipio": "Grande Vitória",
-            "mes": 202011,
-            "valor": "1.18"
-        },
-        {
-            "cod_municipio": 3101,
-            "nome_municipio": "Belo Horizonte",
-            "mes": 202001,
-            "valor": "0.27"
-        },
-        {
-            "cod_municipio": 3101,
-            "nome_municipio": "Belo Horizonte",
-            "mes": 202002,
-            "valor": "0.42"
-        },
-        {
-            "cod_municipio": 3101,
-            "nome_municipio": "Belo Horizonte",
-            "mes": 202003,
-            "valor": "0.14"
-        },
-        {
-            "cod_municipio": 3101,
-            "nome_municipio": "Belo Horizonte",
-            "mes": 202004,
-            "valor": "-0.20"
-        },
-        {
-            "cod_municipio": 3101,
-            "nome_municipio": "Belo Horizonte",
-            "mes": 202005,
-            "valor": "-0.45"
-        },
-        {
-            "cod_municipio": 3101,
-            "nome_municipio": "Belo Horizonte",
-            "mes": 202006,
-            "valor": "0.10"
-        },
-        {
-            "cod_municipio": 3101,
-            "nome_municipio": "Belo Horizonte",
-            "mes": 202007,
-            "valor": "0.43"
-        },
-        {
-            "cod_municipio": 3101,
-            "nome_municipio": "Belo Horizonte",
-            "mes": 202008,
-            "valor": "0.38"
-        },
-        {
-            "cod_municipio": 3101,
-            "nome_municipio": "Belo Horizonte",
-            "mes": 202009,
-            "valor": "0.88"
-        },
-        {
-            "cod_municipio": 3101,
-            "nome_municipio": "Belo Horizonte",
-            "mes": 202010,
-            "valor": "1.09"
-        },
-        {
-            "cod_municipio": 3101,
-            "nome_municipio": "Belo Horizonte",
-            "mes": 202011,
-            "valor": "0.99"
-        },
-        {
-            "cod_municipio": 1501,
-            "nome_municipio": "Belém",
-            "mes": 202001,
-            "valor": "0.55"
-        },
-        {
-            "cod_municipio": 1501,
-            "nome_municipio": "Belém",
-            "mes": 202002,
-            "valor": "0.16"
-        },
-        {
-            "cod_municipio": 1501,
-            "nome_municipio": "Belém",
-            "mes": 202003,
-            "valor": "-0.12"
-        },
-        {
-            "cod_municipio": 1501,
-            "nome_municipio": "Belém",
-            "mes": 202004,
-            "valor": "-0.17"
-        },
-        {
-            "cod_municipio": 1501,
-            "nome_municipio": "Belém",
-            "mes": 202005,
-            "valor": "-0.13"
-        },
-        {
-            "cod_municipio": 1501,
-            "nome_municipio": "Belém",
-            "mes": 202006,
-            "valor": "-0.05"
-        },
-        {
-            "cod_municipio": 1501,
-            "nome_municipio": "Belém",
-            "mes": 202007,
-            "valor": "0.63"
-        },
-        {
-            "cod_municipio": 1501,
-            "nome_municipio": "Belém",
-            "mes": 202008,
-            "valor": "0.05"
-        },
-        {
-            "cod_municipio": 1501,
-            "nome_municipio": "Belém",
-            "mes": 202009,
-            "valor": "0.81"
-        },
-        {
-            "cod_municipio": 1501,
-            "nome_municipio": "Belém",
-            "mes": 202010,
-            "valor": "0.94"
-        },
-        {
-            "cod_municipio": 1501,
-            "nome_municipio": "Belém",
-            "mes": 202011,
-            "valor": "0.36"
-        },
-        {
-            "cod_municipio": 2601,
-            "nome_municipio": "Recife",
-            "mes": 202001,
-            "valor": "0.25"
-        },
-        {
-            "cod_municipio": 2601,
-            "nome_municipio": "Recife",
-            "mes": 202002,
-            "valor": "0.42"
-        },
-        {
-            "cod_municipio": 2601,
-            "nome_municipio": "Recife",
-            "mes": 202003,
-            "valor": "0.52"
-        },
-        {
-            "cod_municipio": 2601,
-            "nome_municipio": "Recife",
-            "mes": 202004,
-            "valor": "0.11"
-        },
-        {
-            "cod_municipio": 2601,
-            "nome_municipio": "Recife",
-            "mes": 202005,
-            "valor": "-0.13"
-        },
-        {
-            "cod_municipio": 2601,
-            "nome_municipio": "Recife",
-            "mes": 202006,
-            "valor": "0.45"
-        },
-        {
-            "cod_municipio": 2601,
-            "nome_municipio": "Recife",
-            "mes": 202007,
-            "valor": "0.31"
-        },
-        {
-            "cod_municipio": 2601,
-            "nome_municipio": "Recife",
-            "mes": 202008,
-            "valor": "0.51"
-        },
-        {
-            "cod_municipio": 2601,
-            "nome_municipio": "Recife",
-            "mes": 202009,
-            "valor": "1.01"
-        },
-        {
-            "cod_municipio": 2601,
-            "nome_municipio": "Recife",
-            "mes": 202010,
-            "valor": "0.85"
-        },
-        {
-            "cod_municipio": 2601,
-            "nome_municipio": "Recife",
-            "mes": 202011,
-            "valor": "0.41"
-        },
-        {
-            "cod_municipio": 4101,
-            "nome_municipio": "Curitiba",
-            "mes": 202001,
-            "valor": "-0.01"
-        },
-        {
-            "cod_municipio": 4101,
-            "nome_municipio": "Curitiba",
-            "mes": 202002,
-            "valor": "-0.06"
-        },
-        {
-            "cod_municipio": 4101,
-            "nome_municipio": "Curitiba",
-            "mes": 202003,
-            "valor": "0.24"
-        },
-        {
-            "cod_municipio": 4101,
-            "nome_municipio": "Curitiba",
-            "mes": 202004,
-            "valor": "-1.21"
-        },
-        {
-            "cod_municipio": 4101,
-            "nome_municipio": "Curitiba",
-            "mes": 202005,
-            "valor": "-0.49"
-        },
-        {
-            "cod_municipio": 4101,
-            "nome_municipio": "Curitiba",
-            "mes": 202006,
-            "valor": "0.86"
-        },
-        {
-            "cod_municipio": 4101,
-            "nome_municipio": "Curitiba",
-            "mes": 202007,
-            "valor": "0.50"
-        },
-        {
-            "cod_municipio": 4101,
-            "nome_municipio": "Curitiba",
-            "mes": 202008,
-            "valor": "0.40"
-        },
-        {
-            "cod_municipio": 4101,
-            "nome_municipio": "Curitiba",
-            "mes": 202009,
-            "valor": "0.86"
-        },
-        {
-            "cod_municipio": 4101,
-            "nome_municipio": "Curitiba",
-            "mes": 202010,
-            "valor": "1.09"
-        },
-        {
-            "cod_municipio": 4101,
-            "nome_municipio": "Curitiba",
-            "mes": 202011,
-            "valor": "0.97"
-        },
-        {
-            "cod_municipio": 3301,
-            "nome_municipio": "Rio de Janeiro",
-            "mes": 202001,
-            "valor": "-0.17"
-        },
-        {
-            "cod_municipio": 3301,
-            "nome_municipio": "Rio de Janeiro",
-            "mes": 202002,
-            "valor": "-0.21"
-        },
-        {
-            "cod_municipio": 3301,
-            "nome_municipio": "Rio de Janeiro",
-            "mes": 202003,
-            "valor": "0.57"
-        },
-        {
-            "cod_municipio": 3301,
-            "nome_municipio": "Rio de Janeiro",
-            "mes": 202004,
-            "valor": "0.25"
-        },
-        {
-            "cod_municipio": 3301,
-            "nome_municipio": "Rio de Janeiro",
-            "mes": 202005,
-            "valor": "-0.07"
-        },
-        {
-            "cod_municipio": 3301,
-            "nome_municipio": "Rio de Janeiro",
-            "mes": 202006,
-            "valor": "0.09"
-        },
-        {
-            "cod_municipio": 3301,
-            "nome_municipio": "Rio de Janeiro",
-            "mes": 202007,
-            "valor": "0.26"
-        },
-        {
-            "cod_municipio": 3301,
-            "nome_municipio": "Rio de Janeiro",
-            "mes": 202008,
-            "valor": "0.07"
-        },
-        {
-            "cod_municipio": 3301,
-            "nome_municipio": "Rio de Janeiro",
-            "mes": 202009,
-            "valor": "0.84"
-        },
-        {
-            "cod_municipio": 3301,
-            "nome_municipio": "Rio de Janeiro",
-            "mes": 202010,
-            "valor": "0.69"
-        },
-        {
-            "cod_municipio": 3301,
-            "nome_municipio": "Rio de Janeiro",
-            "mes": 202011,
-            "valor": "0.79"
-        },
-        {
-            "cod_municipio": 4301,
-            "nome_municipio": "Porto Alegre",
-            "mes": 202001,
-            "valor": "0.25"
-        },
-        {
-            "cod_municipio": 4301,
-            "nome_municipio": "Porto Alegre",
-            "mes": 202002,
-            "valor": "0.10"
-        },
-        {
-            "cod_municipio": 4301,
-            "nome_municipio": "Porto Alegre",
-            "mes": 202003,
-            "valor": "-0.23"
-        },
-        {
-            "cod_municipio": 4301,
-            "nome_municipio": "Porto Alegre",
-            "mes": 202004,
-            "valor": "-0.03"
-        },
-        {
-            "cod_municipio": 4301,
-            "nome_municipio": "Porto Alegre",
-            "mes": 202005,
-            "valor": "-0.31"
-        },
-        {
-            "cod_municipio": 4301,
-            "nome_municipio": "Porto Alegre",
-            "mes": 202006,
-            "valor": "0.06"
-        },
-        {
-            "cod_municipio": 4301,
-            "nome_municipio": "Porto Alegre",
-            "mes": 202007,
-            "valor": "0.55"
-        },
-        {
-            "cod_municipio": 4301,
-            "nome_municipio": "Porto Alegre",
-            "mes": 202008,
-            "valor": "0.48"
-        },
-        {
-            "cod_municipio": 4301,
-            "nome_municipio": "Porto Alegre",
-            "mes": 202009,
-            "valor": "0.82"
-        },
-        {
-            "cod_municipio": 4301,
-            "nome_municipio": "Porto Alegre",
-            "mes": 202010,
-            "valor": "0.68"
-        },
-        {
-            "cod_municipio": 4301,
-            "nome_municipio": "Porto Alegre",
-            "mes": 202011,
-            "valor": "0.81"
-        },
-        {
-            "cod_municipio": 3501,
-            "nome_municipio": "São Paulo",
-            "mes": 202001,
-            "valor": "0.25"
-        },
-        {
-            "cod_municipio": 3501,
-            "nome_municipio": "São Paulo",
-            "mes": 202002,
-            "valor": "0.04"
-        },
-        {
-            "cod_municipio": 3501,
-            "nome_municipio": "São Paulo",
-            "mes": 202003,
-            "valor": "0.20"
-        },
-        {
-            "cod_municipio": 3501,
-            "nome_municipio": "São Paulo",
-            "mes": 202004,
-            "valor": "-0.32"
-        },
-        {
-            "cod_municipio": 3501,
-            "nome_municipio": "São Paulo",
-            "mes": 202005,
-            "valor": "-0.14"
-        },
-        {
-            "cod_municipio": 3501,
-            "nome_municipio": "São Paulo",
-            "mes": 202006,
-            "valor": "0.41"
-        },
-        {
-            "cod_municipio": 3501,
-            "nome_municipio": "São Paulo",
-            "mes": 202007,
-            "valor": "0.34"
-        },
-        {
-            "cod_municipio": 3501,
-            "nome_municipio": "São Paulo",
-            "mes": 202008,
-            "valor": "0.51"
-        },
-        {
-            "cod_municipio": 3501,
-            "nome_municipio": "São Paulo",
-            "mes": 202009,
+            "mes": 201903,
             "valor": "0.77"
         },
         {
-            "cod_municipio": 3501,
-            "nome_municipio": "São Paulo",
-            "mes": 202010,
-            "valor": "0.95"
+            "mes": 201904,
+            "valor": "0.60"
         },
         {
-            "cod_municipio": 3501,
-            "nome_municipio": "São Paulo",
+            "mes": 201905,
+            "valor": "0.15"
+        },
+        {
+            "mes": 201906,
+            "valor": "0.01"
+        },
+        {
+            "mes": 201907,
+            "valor": "0.10"
+        },
+        {
+            "mes": 201908,
+            "valor": "0.12"
+        },
+        {
+            "mes": 201909,
+            "valor": "-0.05"
+        },
+        {
+            "mes": 201910,
+            "valor": "0.04"
+        },
+        {
+            "mes": 201911,
+            "valor": "0.54"
+        },
+        {
+            "mes": 201912,
+            "valor": "1.22"
+        },
+        {
+            "mes": 202001,
+            "valor": "0.19"
+        },
+        {
+            "mes": 202002,
+            "valor": "0.17"
+        },
+        {
+            "mes": 202003,
+            "valor": "0.18"
+        },
+        {
+            "mes": 202004,
+            "valor": "-0.23"
+        },
+        {
+            "mes": 202005,
+            "valor": "-0.25"
+        },
+        {
+            "mes": 202006,
+            "valor": "0.30"
+        },
+        {
+            "mes": 202007,
+            "valor": "0.44"
+        },
+        {
+            "mes": 202008,
+            "valor": "0.36"
+        },
+        {
+            "mes": 202009,
+            "valor": "0.87"
+        },
+        {
+            "mes": 202010,
+            "valor": "0.89"
+        },
+        {
             "mes": 202011,
-            "valor": "1.21"
+            "valor": "0.95"
         }
     ],
-    "periodicidade": "-"
+    "periodicidade": 30
 }
