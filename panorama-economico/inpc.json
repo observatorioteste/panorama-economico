@@ -2,9 +2,9 @@
     "inpc_nacional": {
         "nome_indice": "INPC - Índice Nacional de Preços ao Consumidor",
         "fonte": "SIDRA - IBGE",
-        "referencia": 202011,
-        "referencia_extenso": "Nov/2020",
-        "cartao_nacional": "0.95",
+        "referencia": 202012,
+        "referencia_extenso": "Dez/2020",
+        "cartao_nacional": "1.46",
         "descricao_cartao": "Variação mensal (%)",
         "serie_nacional": [
             {
@@ -98,6 +98,10 @@
             {
                 "mes": 202011,
                 "valor": "0.95"
+            },
+            {
+                "mes": 202012,
+                "valor": "1.46"
             }
         ],
         "periodicidade": "-"
@@ -105,9 +109,9 @@
     "inpc_regional": {
         "nome_indice": "INPC - Índice Nacional de Preços ao Consumidor",
         "fonte": "SIDRA - IBGE",
-        "referencia": 202011,
-        "referencia_extenso": "Nov/2020",
-        "cartao_regional": "3.61",
+        "referencia": 202012,
+        "referencia_extenso": "Dez/2020",
+        "cartao_regional": "5.05",
         "descricao_cartao": "Variação mensal (%)",
         "serie_regional": [
             {
@@ -153,6 +157,10 @@
             {
                 "mes": 202011,
                 "valor": "1.40"
+            },
+            {
+                "mes": 202012,
+                "valor": "1.39"
             }
         ],
         "periodicidade": "-"
