@@ -1,7 +1,12 @@
 {
-    "brasil": {
-        "indice": "taxa_de_desocupacao",
-        "valor": "14.6",d
+    "desocupacao_nacional": {
+        "indice": "taxa_de_desocupacao_br",
+        "cartao_nacional": "14.6",
+        "referencia": "3º trimestre 2020",
+        "descricao": "Percentual no trimestre (IBGE)",
+        "serie_brasil": [
+            {
+                "mes": 201901,
                 "valor": "12.7"
             },
             {
@@ -30,9 +35,9 @@
             }
         ]
     },
-    "goias": {
+    "desocupacao_regional": {
         "indice": "taxa_de_desocupacao_go",
-        "valor": "13.2",
+        "cartao_regional": "13.2",
         "referencia": "3º trimestre 2020",
         "serie_goias": [
             {
