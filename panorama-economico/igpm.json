@@ -4,7 +4,15 @@
             "2020": [
                 {
                     "acumulado_mes": "0,48",
-                    "mes": "Janeiro",d
+                    "mes": "Janeiro",
+                    "mensal": "0,48"
+                },
+                {
+                    "acumulado_mes": "0,4398",
+                    "mes": "Fevereiro",
+                    "mensal": "-0,04"
+                },
+                {
                     "acumulado_mes": "1,6853",
                     "mes": "Março",
                     "mensal": "1,24"
