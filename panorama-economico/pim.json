@@ -6,7 +6,9 @@
         "fonte": "IBGE",
         "referencia": "nov/2020",
         "cartao_regional": "0.7%",
-        "serie_historica_regionad
+        "serie_historica_regional": [
+            {
+                "cod_estado": 13,
                 "nome_estado": "Amazonas",
                 "mes": 202001,
                 "valor": "5.2"
