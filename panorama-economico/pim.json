@@ -4,8 +4,8 @@
         "nome": "Pesquisa Industrial Mensal - Produção Física - PIM PF - Regional",
         "descricao": "Variação em relação ao mesmo período do ano anterior",
         "fonte": "IBGE",
-        "referencia": "out/2020",
-        "valor_goias_mes_ref": "0.7%",
+        "referencia": "nov/2020",
+        "cartao_regional": "0.7%",
         "serie_historica_regional": [
             {
                 "cod_estado": 13,
@@ -68,6 +68,12 @@
                 "valor": "-8.9"
             },
             {
+                "cod_estado": 13,
+                "nome_estado": "Amazonas",
+                "mes": 202011,
+                "valor": "..."
+            },
+            {
                 "cod_estado": 29,
                 "nome_estado": "Bahia",
                 "mes": 202001,
@@ -126,6 +132,12 @@
                 "nome_estado": "Bahia",
                 "mes": 202010,
                 "valor": "-6.9"
+            },
+            {
+                "cod_estado": 29,
+                "nome_estado": "Bahia",
+                "mes": 202011,
+                "valor": "..."
             },
             {
                 "cod_estado": 23,
@@ -188,6 +200,12 @@
                 "valor": "-9.8"
             },
             {
+                "cod_estado": 23,
+                "nome_estado": "Ceará",
+                "mes": 202011,
+                "valor": "..."
+            },
+            {
                 "cod_estado": 32,
                 "nome_estado": "Espírito Santo",
                 "mes": 202001,
@@ -246,6 +264,12 @@
                 "nome_estado": "Espírito Santo",
                 "mes": 202010,
                 "valor": "-17.0"
+            },
+            {
+                "cod_estado": 32,
+                "nome_estado": "Espírito Santo",
+                "mes": 202011,
+                "valor": "..."
             },
             {
                 "cod_estado": 52,
@@ -308,6 +332,12 @@
                 "valor": "0.7"
             },
             {
+                "cod_estado": 52,
+                "nome_estado": "Goiás",
+                "mes": 202011,
+                "valor": "..."
+            },
+            {
                 "cod_estado": 51,
                 "nome_estado": "Mato Grosso",
                 "mes": 202001,
@@ -366,6 +396,12 @@
                 "nome_estado": "Mato Grosso",
                 "mes": 202010,
                 "valor": "-4.6"
+            },
+            {
+                "cod_estado": 51,
+                "nome_estado": "Mato Grosso",
+                "mes": 202011,
+                "valor": "..."
             },
             {
                 "cod_estado": 31,
@@ -428,6 +464,12 @@
                 "valor": "-5.8"
             },
             {
+                "cod_estado": 31,
+                "nome_estado": "Minas Gerais",
+                "mes": 202011,
+                "valor": "..."
+            },
+            {
                 "cod_estado": 15,
                 "nome_estado": "Pará",
                 "mes": 202001,
@@ -486,6 +528,12 @@
                 "nome_estado": "Pará",
                 "mes": 202010,
                 "valor": "0.1"
+            },
+            {
+                "cod_estado": 15,
+                "nome_estado": "Pará",
+                "mes": 202011,
+                "valor": "..."
             },
             {
                 "cod_estado": 41,
@@ -548,6 +596,12 @@
                 "valor": "-6.0"
             },
             {
+                "cod_estado": 41,
+                "nome_estado": "Paraná",
+                "mes": 202011,
+                "valor": "..."
+            },
+            {
                 "cod_estado": 26,
                 "nome_estado": "Pernambuco",
                 "mes": 202001,
@@ -606,6 +660,12 @@
                 "nome_estado": "Pernambuco",
                 "mes": 202010,
                 "valor": "2.4"
+            },
+            {
+                "cod_estado": 26,
+                "nome_estado": "Pernambuco",
+                "mes": 202011,
+                "valor": "..."
             },
             {
                 "cod_estado": 33,
@@ -668,6 +728,12 @@
                 "valor": "1.4"
             },
             {
+                "cod_estado": 33,
+                "nome_estado": "Rio de Janeiro",
+                "mes": 202011,
+                "valor": "..."
+            },
+            {
                 "cod_estado": 43,
                 "nome_estado": "Rio Grande do Sul",
                 "mes": 202001,
@@ -726,6 +792,12 @@
                 "nome_estado": "Rio Grande do Sul",
                 "mes": 202010,
                 "valor": "-9.0"
+            },
+            {
+                "cod_estado": 43,
+                "nome_estado": "Rio Grande do Sul",
+                "mes": 202011,
+                "valor": "..."
             },
             {
                 "cod_estado": 42,
@@ -788,6 +860,12 @@
                 "valor": "-7.8"
             },
             {
+                "cod_estado": 42,
+                "nome_estado": "Santa Catarina",
+                "mes": 202011,
+                "valor": "..."
+            },
+            {
                 "cod_estado": 35,
                 "nome_estado": "São Paulo",
                 "mes": 202001,
@@ -846,6 +924,12 @@
                 "nome_estado": "São Paulo",
                 "mes": 202010,
                 "valor": "-8.2"
+            },
+            {
+                "cod_estado": 35,
+                "nome_estado": "São Paulo",
+                "mes": 202011,
+                "valor": "..."
             }
         ],
         "peridodicidades": 39
@@ -855,8 +939,8 @@
         "nome": "Pesquisa Industrial Mensal - Produção Física - PIM PF - Brasil",
         "descricao": "Variação em relação ao mesmo período do ano anterior",
         "fonte": "IBGE",
-        "referencia": "out/2020",
-        "valor_nacional_mes_ref": "-6.3",
+        "referencia": "nov/2020",
+        "cartao_nacional": "-5.5",
         "serie_historica_nacional": [
             {
                 "mes": 202001,
@@ -897,6 +981,10 @@
             {
                 "mes": 202010,
                 "valor": "-6.3"
+            },
+            {
+                "mes": 202011,
+                "valor": "-5.5"
             }
         ],
         "peridodicidade": 30
