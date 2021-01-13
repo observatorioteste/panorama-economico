@@ -5,9 +5,7 @@
         "referencia": 202011,
         "referencia_extenso": "Nov/2020",
         "cartao_nacional": "3.93",
-        "descricao_cartao": "Variação mensal (%)",
-        "serie_nacional": [
-            {
+        "descricao_cartao": "Vad
                 "mes": 201901,
                 "valor": "0.32"
             },
