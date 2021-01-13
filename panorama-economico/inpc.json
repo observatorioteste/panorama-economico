@@ -3,19 +3,7 @@
         "nome_indice": "INPC - Índice Nacional de Preços ao Consumidor",
         "fonte": "SIDRA - IBGE",
         "referencia": 202012,
-        "referencia_extenso": "Dez/2020",
-        "cartao_nacional": "1.46",
-        "descricao_cartao": "Variação mensal (%)",
-        "serie_nacional": [
-            {
-                "mes": 201901,
-                "valor": "0.36"
-            },
-            {
-                "mes": 201902,
-                "valor": "0.54"
-            },
-            {
+        "referencia_extenso": "Dez/2020",c
                 "mes": 201903,
                 "valor": "0.77"
             },
