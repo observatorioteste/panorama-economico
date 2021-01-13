@@ -2,9 +2,7 @@
     "nome_indice": "ICC - Índice de Confiança do Consumidor",
     "fonte": "FecomercioSP - Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo",
     "referencia": "11/2020",
-    "referencia_extenso": "Nov/2020",
-    "valor_cartao": -6.72,
-    "descricao_cartao": "Variação em relação ao mesmo período do ano anterior",
+    "referencia_extenso": "Nov/2020",so mesmo período do ano anterior",
     "descricao_serie": "Variação mensal",
     "serie_icc": [
         {
