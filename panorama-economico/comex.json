@@ -1,5 +1,16 @@
 {
     "dados_brasil": {
+        "dados_cards_br": {
+            "exportacoes_absoluto_br": "209.817,4",
+            "importacoes_absoluto_br": "158.930,5",
+            "corrente_absoluto_br": "368.747,9",
+            "saldo_absoluto_br": "50.886,9",
+            "exportacoes_porcentagem_br": "-6,9",
+            "importacoes_porcentagem_br": "-10,4",
+            "corrente_porcentagem_br": "-8,4"
+        },
+        "descricao": "Variação em relação ao mesmo período do ano anterior - Medic",
+        "descricao_cards": "\"Saldo (US$ Milhões),  Importações (US$ Milhões), Exportações (US$ Milhões), Corrente (US$ Milhões), Importações (%Var), Exportações (%Var), Corrente (%Var)",
         "serie_historica_brasil": {
             "x": {
                 "data": [
@@ -4711,8 +4722,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
-                        "VL_FOB": 14494605904,
-                        "var_abs": -3507301112,
+                        "VL_FOB": 14494583508,
+                        "var_abs": -3507323508,
                         "var_per": "-19,5%",
                         "PERIODO2": "2020/01/01"
                     },
@@ -4720,8 +4731,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "IMP",
-                        "VL_FOB": 16178212254,
-                        "var_abs": -209617706,
+                        "VL_FOB": 16178220668,
+                        "var_abs": -209609292,
                         "var_per": " -1,3%",
                         "PERIODO2": "2020/01/01"
                     },
@@ -4729,8 +4740,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
-                        "VL_FOB": -1683606350,
-                        "var_abs": -3297683406,
+                        "VL_FOB": -1683637160,
+                        "var_abs": -3297714216,
                         "var_per": "-",
                         "PERIODO2": "2020/01/01"
                     },
@@ -4738,8 +4749,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 30672818158,
-                        "var_abs": -3716918818,
+                        "VL_FOB": 30672804176,
+                        "var_abs": -3716932800,
                         "var_per": "-10,8%",
                         "PERIODO2": "2020/01/01"
                     },
@@ -4747,8 +4758,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
-                        "VL_FOB": 15582409248,
-                        "var_abs": -154965752,
+                        "VL_FOB": 15582390653,
+                        "var_abs": -154984347,
                         "var_per": " -1,0%",
                         "PERIODO2": "2020/02/01"
                     },
@@ -4756,8 +4767,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "IMP",
-                        "VL_FOB": 13257156735,
-                        "var_abs": 635393898,
+                        "VL_FOB": 13257289830,
+                        "var_abs": 635526993,
                         "var_per": "  5,0%",
                         "PERIODO2": "2020/02/01"
                     },
@@ -4765,8 +4776,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
-                        "VL_FOB": 2325252513,
-                        "var_abs": -790359650,
+                        "VL_FOB": 2325100823,
+                        "var_abs": -790511340,
                         "var_per": "-",
                         "PERIODO2": "2020/02/01"
                     },
@@ -4774,8 +4785,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 28839565983,
-                        "var_abs": 480428146,
+                        "VL_FOB": 28839680483,
+                        "var_abs": 480542646,
                         "var_per": "  1,7%",
                         "PERIODO2": "2020/02/01"
                     },
@@ -4783,8 +4794,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
-                        "VL_FOB": 18348211019,
-                        "var_abs": 919512539,
+                        "VL_FOB": 18347477151,
+                        "var_abs": 918778671,
                         "var_per": "  5,3%",
                         "PERIODO2": "2020/03/01"
                     },
@@ -4792,8 +4803,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "IMP",
-                        "VL_FOB": 14515572034,
-                        "var_abs": 1382573231,
+                        "VL_FOB": 14515656454,
+                        "var_abs": 1382657651,
                         "var_per": " 10,5%",
                         "PERIODO2": "2020/03/01"
                     },
@@ -4801,8 +4812,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
-                        "VL_FOB": 3832638985,
-                        "var_abs": -463060692,
+                        "VL_FOB": 3831820697,
+                        "var_abs": -463878980,
                         "var_per": "-",
                         "PERIODO2": "2020/03/01"
                     },
@@ -4810,8 +4821,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 32863783053,
-                        "var_abs": 2302085770,
+                        "VL_FOB": 32863133605,
+                        "var_abs": 2301436322,
                         "var_per": "  7,5%",
                         "PERIODO2": "2020/03/01"
                     },
@@ -4819,8 +4830,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
-                        "VL_FOB": 17610426475,
-                        "var_abs": -1671307963,
+                        "VL_FOB": 17612476835,
+                        "var_abs": -1669257603,
                         "var_per": " -8,7%",
                         "PERIODO2": "2020/04/01"
                     },
@@ -4828,8 +4839,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "IMP",
-                        "VL_FOB": 11610976700,
-                        "var_abs": -2017642023,
+                        "VL_FOB": 11610871137,
+                        "var_abs": -2017747586,
                         "var_per": "-14,8%",
                         "PERIODO2": "2020/04/01"
                     },
@@ -4837,8 +4848,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
-                        "VL_FOB": 5999449775,
-                        "var_abs": 346334060,
+                        "VL_FOB": 6001605698,
+                        "var_abs": 348489983,
                         "var_per": "-",
                         "PERIODO2": "2020/04/01"
                     },
@@ -4846,8 +4857,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 29221403175,
-                        "var_abs": -3688949986,
+                        "VL_FOB": 29223347972,
+                        "var_abs": -3687005189,
                         "var_per": "-11,2%",
                         "PERIODO2": "2020/04/01"
                     },
@@ -4855,8 +4866,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
-                        "VL_FOB": 17543679577,
-                        "var_abs": -3048729610,
+                        "VL_FOB": 17546386795,
+                        "var_abs": -3046022392,
                         "var_per": "-14,8%",
                         "PERIODO2": "2020/05/01"
                     },
@@ -4864,8 +4875,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "IMP",
-                        "VL_FOB": 13391105461,
-                        "var_abs": -1576946406,
+                        "VL_FOB": 13390915390,
+                        "var_abs": -1577136477,
                         "var_per": "-10,5%",
                         "PERIODO2": "2020/05/01"
                     },
@@ -4873,8 +4884,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
-                        "VL_FOB": 4152574116,
-                        "var_abs": -1471783204,
+                        "VL_FOB": 4155471405,
+                        "var_abs": -1468885915,
                         "var_per": "-",
                         "PERIODO2": "2020/05/01"
                     },
@@ -4882,8 +4893,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 30934785038,
-                        "var_abs": -4625676016,
+                        "VL_FOB": 30937302185,
+                        "var_abs": -4623158869,
                         "var_per": "-13,0%",
                         "PERIODO2": "2020/05/01"
                     },
@@ -4891,8 +4902,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
-                        "VL_FOB": 17516069564,
-                        "var_abs": -889940969,
+                        "VL_FOB": 17514974770,
+                        "var_abs": -891035763,
                         "var_per": " -4,8%",
                         "PERIODO2": "2020/06/01"
                     },
@@ -4900,8 +4911,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "IMP",
-                        "VL_FOB": 10448775569,
-                        "var_abs": -2579853789,
+                        "VL_FOB": 10449294354,
+                        "var_abs": -2579335004,
                         "var_per": "-19,8%",
                         "PERIODO2": "2020/06/01"
                     },
@@ -4909,8 +4920,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
-                        "VL_FOB": 7067293995,
-                        "var_abs": 1689912820,
+                        "VL_FOB": 7065680416,
+                        "var_abs": 1688299241,
                         "var_per": "-",
                         "PERIODO2": "2020/06/01"
                     },
@@ -4918,8 +4929,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 27964845133,
-                        "var_abs": -3469794758,
+                        "VL_FOB": 27964269124,
+                        "var_abs": -3470370767,
                         "var_per": "-11,0%",
                         "PERIODO2": "2020/06/01"
                     },
@@ -4927,17 +4938,17 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
-                        "VL_FOB": 19461713439,
-                        "var_abs": -689169730,
-                        "var_per": " -3,4%",
+                        "VL_FOB": 19453592020,
+                        "var_abs": -697291149,
+                        "var_per": " -3,5%",
                         "PERIODO2": "2020/07/01"
                     },
                     {
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "IMP",
-                        "VL_FOB": 11506595834,
-                        "var_abs": -6252880887,
+                        "VL_FOB": 11508172753,
+                        "var_abs": -6251303968,
                         "var_per": "-35,2%",
                         "PERIODO2": "2020/07/01"
                     },
@@ -4945,8 +4956,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
-                        "VL_FOB": 7955117605,
-                        "var_abs": 5563711157,
+                        "VL_FOB": 7945419267,
+                        "var_abs": 5554012819,
                         "var_per": "-",
                         "PERIODO2": "2020/07/01"
                     },
@@ -4954,8 +4965,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 30968309273,
-                        "var_abs": -6942050617,
+                        "VL_FOB": 30961764773,
+                        "var_abs": -6948595117,
                         "var_per": "-18,3%",
                         "PERIODO2": "2020/07/01"
                     },
@@ -4963,8 +4974,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
-                        "VL_FOB": 17480305089,
-                        "var_abs": -2189220159,
+                        "VL_FOB": 17484221076,
+                        "var_abs": -2185304172,
                         "var_per": "-11,1%",
                         "PERIODO2": "2020/08/01"
                     },
@@ -4972,8 +4983,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "IMP",
-                        "VL_FOB": 11132634020,
-                        "var_abs": -4437287716,
+                        "VL_FOB": 11132508190,
+                        "var_abs": -4437413546,
                         "var_per": "-28,5%",
                         "PERIODO2": "2020/08/01"
                     },
@@ -4981,8 +4992,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
-                        "VL_FOB": 6347671069,
-                        "var_abs": 2248067557,
+                        "VL_FOB": 6351712886,
+                        "var_abs": 2252109374,
                         "var_per": "-",
                         "PERIODO2": "2020/08/01"
                     },
@@ -4990,8 +5001,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 28612939109,
-                        "var_abs": -6626507875,
+                        "VL_FOB": 28616729266,
+                        "var_abs": -6622717718,
                         "var_per": "-18,8%",
                         "PERIODO2": "2020/08/01"
                     },
@@ -4999,8 +5010,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
-                        "VL_FOB": 18242179212,
-                        "var_abs": -2056228565,
+                        "VL_FOB": 18242323594,
+                        "var_abs": -2056084183,
                         "var_per": "-10,1%",
                         "PERIODO2": "2020/09/01"
                     },
@@ -5008,8 +5019,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "IMP",
-                        "VL_FOB": 12296962814,
-                        "var_abs": -4198208560,
+                        "VL_FOB": 12296832566,
+                        "var_abs": -4198338808,
                         "var_per": "-25,5%",
                         "PERIODO2": "2020/09/01"
                     },
@@ -5017,8 +5028,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
-                        "VL_FOB": 5945216398,
-                        "var_abs": 2141979995,
+                        "VL_FOB": 5945491028,
+                        "var_abs": 2142254625,
                         "var_per": "-",
                         "PERIODO2": "2020/09/01"
                     },
@@ -5026,8 +5037,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 30539142026,
-                        "var_abs": -6254437125,
+                        "VL_FOB": 30539156160,
+                        "var_abs": -6254422991,
                         "var_per": "-17,0%",
                         "PERIODO2": "2020/09/01"
                     },
@@ -5035,17 +5046,17 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
-                        "VL_FOB": 17749410384,
-                        "var_abs": -1827428847,
-                        "var_per": " -9,3%",
+                        "VL_FOB": 17727073168,
+                        "var_abs": -1849766063,
+                        "var_per": " -9,4%",
                         "PERIODO2": "2020/10/01"
                     },
                     {
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "IMP",
-                        "VL_FOB": 12382544829,
-                        "var_abs": -4644739122,
+                        "VL_FOB": 12383873650,
+                        "var_abs": -4643410301,
                         "var_per": "-27,3%",
                         "PERIODO2": "2020/10/01"
                     },
@@ -5053,8 +5064,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
-                        "VL_FOB": 5366865555,
-                        "var_abs": 2817310275,
+                        "VL_FOB": 5343199518,
+                        "var_abs": 2793644238,
                         "var_per": "-",
                         "PERIODO2": "2020/10/01"
                     },
@@ -5062,8 +5073,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 30131955213,
-                        "var_abs": -6472167969,
+                        "VL_FOB": 30110946818,
+                        "var_abs": -6493176364,
                         "var_per": "-17,7%",
                         "PERIODO2": "2020/10/01"
                     },
@@ -5071,17 +5082,17 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
-                        "VL_FOB": 17526605514,
-                        "var_abs": -210109684,
-                        "var_per": " -1,2%",
+                        "VL_FOB": 17446678403,
+                        "var_abs": -290036795,
+                        "var_per": " -1,6%",
                         "PERIODO2": "2020/11/01"
                     },
                     {
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "IMP",
-                        "VL_FOB": 13798846907,
-                        "var_abs": -373255882,
+                        "VL_FOB": 13800025463,
+                        "var_abs": -372077326,
                         "var_per": " -2,6%",
                         "PERIODO2": "2020/11/01"
                     },
@@ -5089,8 +5100,8 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
-                        "VL_FOB": 3727758607,
-                        "var_abs": 163146198,
+                        "VL_FOB": 3646652940,
+                        "var_abs": 82040531,
                         "var_per": "-",
                         "PERIODO2": "2020/11/01"
                     },
@@ -5098,10 +5109,46 @@
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 31325452421,
-                        "var_abs": -583365566,
-                        "var_per": " -1,8%",
+                        "VL_FOB": 31246703866,
+                        "var_abs": -662114121,
+                        "var_per": " -2,1%",
                         "PERIODO2": "2020/11/01"
+                    },
+                    {
+                        "PERIODO": "Total",
+                        "CO_ANO": "2020",
+                        "TIPO": "EXP",
+                        "VL_FOB": 18365229102,
+                        "var_abs": -137748089,
+                        "var_per": " -0,7%",
+                        "PERIODO2": "2020/12/01"
+                    },
+                    {
+                        "PERIODO": "Total",
+                        "CO_ANO": "2020",
+                        "TIPO": "IMP",
+                        "VL_FOB": 18406817639,
+                        "var_abs": 5850731251,
+                        "var_per": " 46,6%",
+                        "PERIODO2": "2020/12/01"
+                    },
+                    {
+                        "PERIODO": "Total",
+                        "CO_ANO": "2020",
+                        "TIPO": "SALDO",
+                        "VL_FOB": -41588537,
+                        "var_abs": -5988479340,
+                        "var_per": "-",
+                        "PERIODO2": "2020/12/01"
+                    },
+                    {
+                        "PERIODO": "Total",
+                        "CO_ANO": "2020",
+                        "TIPO": "CORRENTE",
+                        "VL_FOB": 36772046741,
+                        "var_abs": 5712983162,
+                        "var_per": " 18,4%",
+                        "PERIODO2": "2020/12/01"
                     },
                     {
                         "PERIODO": "Anual",
@@ -5496,432 +5543,432 @@
                         "PERIODO2": "2019"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2009",
                         "TIPO": "EXP",
-                        "VL_FOB": 138454071022,
+                        "VL_FOB": 152910580383,
                         "var_per": "   -",
-                        "PERIODO2": "Jan-Nov/2009"
+                        "PERIODO2": "Jan-Dez/2009"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2009",
                         "TIPO": "IMP",
-                        "VL_FOB": 115504970228,
+                        "VL_FOB": 127812136875,
                         "var_per": "   -",
-                        "PERIODO2": "Jan-Nov/2009"
+                        "PERIODO2": "Jan-Dez/2009"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2009",
                         "TIPO": "SALDO",
-                        "VL_FOB": 22949100794,
+                        "VL_FOB": 25098443508,
                         "var_per": "-",
-                        "PERIODO2": "Jan-Nov/2009"
+                        "PERIODO2": "Jan-Dez/2009"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2009",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 253959041250,
+                        "VL_FOB": 280722717258,
                         "var_per": "   -",
-                        "PERIODO2": "Jan-Nov/2009"
+                        "PERIODO2": "Jan-Dez/2009"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2010",
                         "TIPO": "EXP",
-                        "VL_FOB": 180909042275,
-                        "var_abs": 42454971253,
-                        "var_per": " 30,7%",
-                        "PERIODO2": "Jan-Nov/2010"
+                        "VL_FOB": 201788337035,
+                        "var_abs": 48877756652,
+                        "var_per": " 32,0%",
+                        "PERIODO2": "Jan-Dez/2010"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2010",
                         "TIPO": "IMP",
-                        "VL_FOB": 166199612156,
-                        "var_abs": 50694641928,
-                        "var_per": " 43,9%",
-                        "PERIODO2": "Jan-Nov/2010"
+                        "VL_FOB": 181774969378,
+                        "var_abs": 53962832503,
+                        "var_per": " 42,2%",
+                        "PERIODO2": "Jan-Dez/2010"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2010",
                         "TIPO": "SALDO",
-                        "VL_FOB": 14709430119,
-                        "var_abs": -8239670675,
+                        "VL_FOB": 20013367657,
+                        "var_abs": -5085075851,
                         "var_per": "-",
-                        "PERIODO2": "Jan-Nov/2010"
+                        "PERIODO2": "Jan-Dez/2010"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2010",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 347108654431,
-                        "var_abs": 93149613181,
-                        "var_per": " 36,7%",
-                        "PERIODO2": "Jan-Nov/2010"
+                        "VL_FOB": 383563306413,
+                        "var_abs": 102840589155,
+                        "var_per": " 36,6%",
+                        "PERIODO2": "Jan-Dez/2010"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2011",
                         "TIPO": "EXP",
-                        "VL_FOB": 233816726990,
-                        "var_abs": 52907684715,
-                        "var_per": " 29,2%",
-                        "PERIODO2": "Jan-Nov/2011"
+                        "VL_FOB": 255936306857,
+                        "var_abs": 54147969822,
+                        "var_per": " 26,8%",
+                        "PERIODO2": "Jan-Dez/2011"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2011",
                         "TIPO": "IMP",
-                        "VL_FOB": 207910790218,
-                        "var_abs": 41711178062,
-                        "var_per": " 25,1%",
-                        "PERIODO2": "Jan-Nov/2011"
+                        "VL_FOB": 226244222128,
+                        "var_abs": 44469252750,
+                        "var_per": " 24,5%",
+                        "PERIODO2": "Jan-Dez/2011"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2011",
                         "TIPO": "SALDO",
-                        "VL_FOB": 25905936772,
-                        "var_abs": 11196506653,
+                        "VL_FOB": 29692084729,
+                        "var_abs": 9678717072,
                         "var_per": "-",
-                        "PERIODO2": "Jan-Nov/2011"
+                        "PERIODO2": "Jan-Dez/2011"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2011",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 441727517208,
-                        "var_abs": 94618862777,
-                        "var_per": " 27,3%",
-                        "PERIODO2": "Jan-Nov/2011"
+                        "VL_FOB": 482180528985,
+                        "var_abs": 98617222572,
+                        "var_per": " 25,7%",
+                        "PERIODO2": "Jan-Dez/2011"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2012",
                         "TIPO": "EXP",
-                        "VL_FOB": 222539985618,
-                        "var_abs": -11276741372,
-                        "var_per": " -4,8%",
-                        "PERIODO2": "Jan-Nov/2012"
+                        "VL_FOB": 242277307190,
+                        "var_abs": -13658999667,
+                        "var_per": " -5,3%",
+                        "PERIODO2": "Jan-Dez/2012"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2012",
                         "TIPO": "IMP",
-                        "VL_FOB": 205855582260,
-                        "var_abs": -2055207958,
-                        "var_per": " -1,0%",
-                        "PERIODO2": "Jan-Nov/2012"
+                        "VL_FOB": 223366713940,
+                        "var_abs": -2877508188,
+                        "var_per": " -1,3%",
+                        "PERIODO2": "Jan-Dez/2012"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2012",
                         "TIPO": "SALDO",
-                        "VL_FOB": 16684403358,
-                        "var_abs": -9221533414,
+                        "VL_FOB": 18910593250,
+                        "var_abs": -10781491479,
                         "var_per": "-",
-                        "PERIODO2": "Jan-Nov/2012"
+                        "PERIODO2": "Jan-Dez/2012"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2012",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 428395567878,
-                        "var_abs": -13331949330,
+                        "VL_FOB": 465644021130,
+                        "var_abs": -16536507855,
+                        "var_per": " -3,4%",
+                        "PERIODO2": "Jan-Dez/2012"
+                    },
+                    {
+                        "PERIODO": "Jan-Dez",
+                        "CO_ANO": "2013",
+                        "TIPO": "EXP",
+                        "VL_FOB": 241967561759,
+                        "var_abs": -309745431,
+                        "var_per": " -0,1%",
+                        "PERIODO2": "Jan-Dez/2013"
+                    },
+                    {
+                        "PERIODO": "Jan-Dez",
+                        "CO_ANO": "2013",
+                        "TIPO": "IMP",
+                        "VL_FOB": 239681231635,
+                        "var_abs": 16314517695,
+                        "var_per": "  7,3%",
+                        "PERIODO2": "Jan-Dez/2013"
+                    },
+                    {
+                        "PERIODO": "Jan-Dez",
+                        "CO_ANO": "2013",
+                        "TIPO": "SALDO",
+                        "VL_FOB": 2286330124,
+                        "var_abs": -16624263126,
+                        "var_per": "-",
+                        "PERIODO2": "Jan-Dez/2013"
+                    },
+                    {
+                        "PERIODO": "Jan-Dez",
+                        "CO_ANO": "2013",
+                        "TIPO": "CORRENTE",
+                        "VL_FOB": 481648793394,
+                        "var_abs": 16004772264,
+                        "var_per": "  3,4%",
+                        "PERIODO2": "Jan-Dez/2013"
+                    },
+                    {
+                        "PERIODO": "Jan-Dez",
+                        "CO_ANO": "2014",
+                        "TIPO": "EXP",
+                        "VL_FOB": 224974401228,
+                        "var_abs": -16993160531,
+                        "var_per": " -7,0%",
+                        "PERIODO2": "Jan-Dez/2014"
+                    },
+                    {
+                        "PERIODO": "Jan-Dez",
+                        "CO_ANO": "2014",
+                        "TIPO": "IMP",
+                        "VL_FOB": 229127819999,
+                        "var_abs": -10553411636,
+                        "var_per": " -4,4%",
+                        "PERIODO2": "Jan-Dez/2014"
+                    },
+                    {
+                        "PERIODO": "Jan-Dez",
+                        "CO_ANO": "2014",
+                        "TIPO": "SALDO",
+                        "VL_FOB": -4153418771,
+                        "var_abs": -6439748895,
+                        "var_per": "-",
+                        "PERIODO2": "Jan-Dez/2014"
+                    },
+                    {
+                        "PERIODO": "Jan-Dez",
+                        "CO_ANO": "2014",
+                        "TIPO": "CORRENTE",
+                        "VL_FOB": 454102221227,
+                        "var_abs": -27546572167,
+                        "var_per": " -5,7%",
+                        "PERIODO2": "Jan-Dez/2014"
+                    },
+                    {
+                        "PERIODO": "Jan-Dez",
+                        "CO_ANO": "2015",
+                        "TIPO": "EXP",
+                        "VL_FOB": 190971087339,
+                        "var_abs": -34003313889,
+                        "var_per": "-15,1%",
+                        "PERIODO2": "Jan-Dez/2015"
+                    },
+                    {
+                        "PERIODO": "Jan-Dez",
+                        "CO_ANO": "2015",
+                        "TIPO": "IMP",
+                        "VL_FOB": 171458999759,
+                        "var_abs": -57668820240,
+                        "var_per": "-25,2%",
+                        "PERIODO2": "Jan-Dez/2015"
+                    },
+                    {
+                        "PERIODO": "Jan-Dez",
+                        "CO_ANO": "2015",
+                        "TIPO": "SALDO",
+                        "VL_FOB": 19512087580,
+                        "var_abs": 23665506351,
+                        "var_per": "-",
+                        "PERIODO2": "Jan-Dez/2015"
+                    },
+                    {
+                        "PERIODO": "Jan-Dez",
+                        "CO_ANO": "2015",
+                        "TIPO": "CORRENTE",
+                        "VL_FOB": 362430087098,
+                        "var_abs": -91672134129,
+                        "var_per": "-20,2%",
+                        "PERIODO2": "Jan-Dez/2015"
+                    },
+                    {
+                        "PERIODO": "Jan-Dez",
+                        "CO_ANO": "2016",
+                        "TIPO": "EXP",
+                        "VL_FOB": 185232116301,
+                        "var_abs": -5738971038,
                         "var_per": " -3,0%",
-                        "PERIODO2": "Jan-Nov/2012"
+                        "PERIODO2": "Jan-Dez/2016"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
-                        "CO_ANO": "2013",
-                        "TIPO": "EXP",
-                        "VL_FOB": 221125840662,
-                        "var_abs": -1414144956,
-                        "var_per": " -0,6%",
-                        "PERIODO2": "Jan-Nov/2013"
-                    },
-                    {
-                        "PERIODO": "Jan-Nov",
-                        "CO_ANO": "2013",
-                        "TIPO": "IMP",
-                        "VL_FOB": 221476770117,
-                        "var_abs": 15621187857,
-                        "var_per": "  7,6%",
-                        "PERIODO2": "Jan-Nov/2013"
-                    },
-                    {
-                        "PERIODO": "Jan-Nov",
-                        "CO_ANO": "2013",
-                        "TIPO": "SALDO",
-                        "VL_FOB": -350929455,
-                        "var_abs": -17035332813,
-                        "var_per": "-",
-                        "PERIODO2": "Jan-Nov/2013"
-                    },
-                    {
-                        "PERIODO": "Jan-Nov",
-                        "CO_ANO": "2013",
-                        "TIPO": "CORRENTE",
-                        "VL_FOB": 442602610779,
-                        "var_abs": 14207042901,
-                        "var_per": "  3,3%",
-                        "PERIODO2": "Jan-Nov/2013"
-                    },
-                    {
-                        "PERIODO": "Jan-Nov",
-                        "CO_ANO": "2014",
-                        "TIPO": "EXP",
-                        "VL_FOB": 207551443029,
-                        "var_abs": -13574397633,
-                        "var_per": " -6,1%",
-                        "PERIODO2": "Jan-Nov/2014"
-                    },
-                    {
-                        "PERIODO": "Jan-Nov",
-                        "CO_ANO": "2014",
-                        "TIPO": "IMP",
-                        "VL_FOB": 211936360788,
-                        "var_abs": -9540409329,
-                        "var_per": " -4,3%",
-                        "PERIODO2": "Jan-Nov/2014"
-                    },
-                    {
-                        "PERIODO": "Jan-Nov",
-                        "CO_ANO": "2014",
-                        "TIPO": "SALDO",
-                        "VL_FOB": -4384917759,
-                        "var_abs": -4033988304,
-                        "var_per": "-",
-                        "PERIODO2": "Jan-Nov/2014"
-                    },
-                    {
-                        "PERIODO": "Jan-Nov",
-                        "CO_ANO": "2014",
-                        "TIPO": "CORRENTE",
-                        "VL_FOB": 419487803817,
-                        "var_abs": -23114806962,
-                        "var_per": " -5,2%",
-                        "PERIODO2": "Jan-Nov/2014"
-                    },
-                    {
-                        "PERIODO": "Jan-Nov",
-                        "CO_ANO": "2015",
-                        "TIPO": "EXP",
-                        "VL_FOB": 174194847544,
-                        "var_abs": -33356595485,
-                        "var_per": "-16,1%",
-                        "PERIODO2": "Jan-Nov/2015"
-                    },
-                    {
-                        "PERIODO": "Jan-Nov",
-                        "CO_ANO": "2015",
-                        "TIPO": "IMP",
-                        "VL_FOB": 160891523823,
-                        "var_abs": -51044836965,
-                        "var_per": "-24,1%",
-                        "PERIODO2": "Jan-Nov/2015"
-                    },
-                    {
-                        "PERIODO": "Jan-Nov",
-                        "CO_ANO": "2015",
-                        "TIPO": "SALDO",
-                        "VL_FOB": 13303323721,
-                        "var_abs": 17688241480,
-                        "var_per": "-",
-                        "PERIODO2": "Jan-Nov/2015"
-                    },
-                    {
-                        "PERIODO": "Jan-Nov",
-                        "CO_ANO": "2015",
-                        "TIPO": "CORRENTE",
-                        "VL_FOB": 335086371367,
-                        "var_abs": -84401432450,
-                        "var_per": "-20,1%",
-                        "PERIODO2": "Jan-Nov/2015"
-                    },
-                    {
-                        "PERIODO": "Jan-Nov",
-                        "CO_ANO": "2016",
-                        "TIPO": "EXP",
-                        "VL_FOB": 169294593287,
-                        "var_abs": -4900254257,
-                        "var_per": " -2,8%",
-                        "PERIODO2": "Jan-Nov/2016"
-                    },
-                    {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2016",
                         "TIPO": "IMP",
-                        "VL_FOB": 126056675951,
-                        "var_abs": -34834847872,
-                        "var_per": "-21,7%",
-                        "PERIODO2": "Jan-Nov/2016"
+                        "VL_FOB": 137585809571,
+                        "var_abs": -33873190188,
+                        "var_per": "-19,8%",
+                        "PERIODO2": "Jan-Dez/2016"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2016",
                         "TIPO": "SALDO",
-                        "VL_FOB": 43237917336,
-                        "var_abs": 29934593615,
+                        "VL_FOB": 47646306730,
+                        "var_abs": 28134219150,
                         "var_per": "-",
-                        "PERIODO2": "Jan-Nov/2016"
+                        "PERIODO2": "Jan-Dez/2016"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2016",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 295351269238,
-                        "var_abs": -39735102129,
-                        "var_per": "-11,9%",
-                        "PERIODO2": "Jan-Nov/2016"
+                        "VL_FOB": 322817925872,
+                        "var_abs": -39612161226,
+                        "var_per": "-10,9%",
+                        "PERIODO2": "Jan-Dez/2016"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2017",
                         "TIPO": "EXP",
-                        "VL_FOB": 200143930355,
-                        "var_abs": 30849337068,
-                        "var_per": " 18,2%",
-                        "PERIODO2": "Jan-Nov/2017"
+                        "VL_FOB": 217739218466,
+                        "var_abs": 32507102165,
+                        "var_per": " 17,5%",
+                        "PERIODO2": "Jan-Dez/2017"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2017",
                         "TIPO": "IMP",
-                        "VL_FOB": 138151979148,
-                        "var_abs": 12095303197,
+                        "VL_FOB": 150749494421,
+                        "var_abs": 13163684850,
                         "var_per": "  9,6%",
-                        "PERIODO2": "Jan-Nov/2017"
+                        "PERIODO2": "Jan-Dez/2017"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2017",
                         "TIPO": "SALDO",
-                        "VL_FOB": 61991951207,
-                        "var_abs": 18754033871,
+                        "VL_FOB": 66989724045,
+                        "var_abs": 19343417315,
                         "var_per": "-",
-                        "PERIODO2": "Jan-Nov/2017"
+                        "PERIODO2": "Jan-Dez/2017"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2017",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 338295909503,
-                        "var_abs": 42944640265,
-                        "var_per": " 14,5%",
-                        "PERIODO2": "Jan-Nov/2017"
+                        "VL_FOB": 368488712887,
+                        "var_abs": 45670787015,
+                        "var_per": " 14,1%",
+                        "PERIODO2": "Jan-Dez/2017"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2018",
                         "TIPO": "EXP",
-                        "VL_FOB": 219918972276,
-                        "var_abs": 19775041921,
+                        "VL_FOB": 239263991653,
+                        "var_abs": 21524773187,
                         "var_per": "  9,9%",
-                        "PERIODO2": "Jan-Nov/2018"
+                        "PERIODO2": "Jan-Dez/2018"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2018",
                         "TIPO": "IMP",
-                        "VL_FOB": 168313815486,
-                        "var_abs": 30161836338,
-                        "var_per": " 21,8%",
-                        "PERIODO2": "Jan-Nov/2018"
+                        "VL_FOB": 181230564449,
+                        "var_abs": 30481070028,
+                        "var_per": " 20,2%",
+                        "PERIODO2": "Jan-Dez/2018"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2018",
                         "TIPO": "SALDO",
-                        "VL_FOB": 51605156790,
-                        "var_abs": -10386794417,
+                        "VL_FOB": 58033427204,
+                        "var_abs": -8956296841,
                         "var_per": "-",
-                        "PERIODO2": "Jan-Nov/2018"
+                        "PERIODO2": "Jan-Dez/2018"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2018",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 388232787762,
-                        "var_abs": 49936878259,
-                        "var_per": " 14,8%",
-                        "PERIODO2": "Jan-Nov/2018"
+                        "VL_FOB": 420494556102,
+                        "var_abs": 52005843215,
+                        "var_per": " 14,1%",
+                        "PERIODO2": "Jan-Dez/2018"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2019",
                         "TIPO": "EXP",
-                        "VL_FOB": 206880505277,
-                        "var_abs": -13038466999,
-                        "var_per": " -5,9%",
-                        "PERIODO2": "Jan-Nov/2019"
+                        "VL_FOB": 225383482468,
+                        "var_abs": -13880509185,
+                        "var_per": " -5,8%",
+                        "PERIODO2": "Jan-Dez/2019"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2019",
                         "TIPO": "IMP",
-                        "VL_FOB": 164791848119,
-                        "var_abs": -3521967367,
+                        "VL_FOB": 177347934507,
+                        "var_abs": -3882629942,
                         "var_per": " -2,1%",
-                        "PERIODO2": "Jan-Nov/2019"
+                        "PERIODO2": "Jan-Dez/2019"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2019",
                         "TIPO": "SALDO",
-                        "VL_FOB": 42088657158,
-                        "var_abs": -9516499632,
+                        "VL_FOB": 48035547961,
+                        "var_abs": -9997879243,
                         "var_per": "-",
-                        "PERIODO2": "Jan-Nov/2019"
+                        "PERIODO2": "Jan-Dez/2019"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2019",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 371672353396,
-                        "var_abs": -16560434366,
-                        "var_per": " -4,3%",
-                        "PERIODO2": "Jan-Nov/2019"
+                        "VL_FOB": 402731416975,
+                        "var_abs": -17763139127,
+                        "var_per": " -4,2%",
+                        "PERIODO2": "Jan-Dez/2019"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
-                        "VL_FOB": 191555615425,
-                        "var_abs": -15324889852,
-                        "var_per": " -7,4%",
-                        "PERIODO2": "Jan-Nov/2020"
+                        "VL_FOB": 209817407075,
+                        "var_abs": -15566075393,
+                        "var_per": " -6,9%",
+                        "PERIODO2": "Jan-Dez/2020"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2020",
                         "TIPO": "IMP",
-                        "VL_FOB": 140519383157,
-                        "var_abs": -24272464962,
-                        "var_per": "-14,7%",
-                        "PERIODO2": "Jan-Nov/2020"
+                        "VL_FOB": 158930478094,
+                        "var_abs": -18417456413,
+                        "var_per": "-10,4%",
+                        "PERIODO2": "Jan-Dez/2020"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
-                        "VL_FOB": 51036232268,
-                        "var_abs": 8947575110,
+                        "VL_FOB": 50886928981,
+                        "var_abs": 2851381020,
                         "var_per": "-",
-                        "PERIODO2": "Jan-Nov/2020"
+                        "PERIODO2": "Jan-Dez/2020"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
-                        "VL_FOB": 332074998582,
-                        "var_abs": -39597354814,
-                        "var_per": "-10,7%",
-                        "PERIODO2": "Jan-Nov/2020"
+                        "VL_FOB": 368747885169,
+                        "var_abs": -33983531806,
+                        "var_per": " -8,4%",
+                        "PERIODO2": "Jan-Dez/2020"
                     }
                 ],
                 "settings": {
@@ -6068,25 +6115,23 @@
             "jsHooks": {
                 "render": [
                     {
-                        "code": "function(el,x){\n     var dados = x.data;\n     var viz = this.viz;\n     \n     var dados_total = dados.filter(function(d){\n                  return d.PERIODO === \"Total\";\n                })\n     \n     var dados_anual = dados.filter(function(d){\n                  return d.PERIODO === \"Anual\";\n                })\n     \n     var dados_periodo = dados.filter(function(d){\n                  return d.PERIODO === \"Jan-Nov\";\n                })\n     \n     viz.data(dados_total).timeline(false)\n     \n     \n    viz.id({\"mute\": [\"SALDO\", \"CORRENTE\"]})\n    \n    viz.ui({\"value\":[\n      {\n        \"method\": function(value){\n          if (value == \"CO_ANO\") {\n            viz.data(dados_anual)\n              .time({\"value\": value,\n                     \"solo\": []})\n              .timeline(false)\n              .x(value)\n              .y(\"VL_FOB\")\n              .draw();\n          } else if (value == \"PERIODO2\") {\n           viz.data(dados_total)\n              .time({\"value\": value,\n                     \"solo\": []})\n              .timeline(false)\n              .x(value)\n              .y(\"VL_FOB\")\n              .draw();\n        } else {\n          viz.data(dados_periodo)\n              .time(false)\n              .x(\"PERIODO2\")\n              .y(\"VL_FOB\")\n              .draw();\n        }\n        },\n        \"label\": \"Periodicidade:\",\n        \"type\": \"toggle\",\n        \"value\": [{\"Mensal\": \"PERIODO2\"}, {\"Anual\": \"CO_ANO\"}, {\"Acumulado\": \"x\"}]\n      },\n      {\n        \"method\": function(value){\n          if (value === \"1\") {\n            value = [\"EXP\", \"IMP\"];\n          } else if (value === \"3\") {\n            value = [\"SALDO\"];\n          } else if (value === \"2\") {\n            value = [\"CORRENTE\"]\n          }\n          viz\n          .id({\"solo\": value})\n          .draw();\n        },\n        \"label\": \"Tipo:\",\n        \"type\": \"toggle\",\n        \"value\": [{\"Exportação/Importação\": \"1\"}, {\"Corrente\" : \"2\"}, {\"Saldo\": \"3\"} ]\n      },\n      {\n        \"method\": function(value){\n          if (value === \"1\") {\n            viz.type(\"line\")\n               .timeline(false)\n               .size(false)\n               .draw();\n            \n          } else if (value === \"2\") {\n            viz.type(\"bar\")\n               .timeline(false)\n               .draw();\n          }\n        },\n        \"label\": \"Gráfico:\",\n        \"type\": \"toggle\",\n        \"value\": [{\"Linha\": \"1\"}, {\"Barras\": \"2\"}]\n      }\n      ]})\n}",
+                        "code": "function(el,x){\n     var dados = x.data;\n     var viz = this.viz;\n     \n     var dados_total = dados.filter(function(d){\n                  return d.PERIODO === \"Total\";\n                })\n     \n     var dados_anual = dados.filter(function(d){\n                  return d.PERIODO === \"Anual\";\n                })\n     \n     var dados_periodo = dados.filter(function(d){\n                  return d.PERIODO === \"Jan-Dez\";\n                })\n     \n     viz.data(dados_total).timeline(false)\n     \n     \n    viz.id({\"mute\": [\"SALDO\", \"CORRENTE\"]})\n    \n    viz.ui({\"value\":[\n      {\n        \"method\": function(value){\n          if (value == \"CO_ANO\") {\n            viz.data(dados_anual)\n              .time({\"value\": value,\n                     \"solo\": []})\n              .timeline(false)\n              .x(value)\n              .y(\"VL_FOB\")\n              .draw();\n          } else if (value == \"PERIODO2\") {\n           viz.data(dados_total)\n              .time({\"value\": value,\n                     \"solo\": []})\n              .timeline(false)\n              .x(value)\n              .y(\"VL_FOB\")\n              .draw();\n        } else {\n          viz.data(dados_periodo)\n              .time(false)\n              .x(\"PERIODO2\")\n              .y(\"VL_FOB\")\n              .draw();\n        }\n        },\n        \"label\": \"Periodicidade:\",\n        \"type\": \"toggle\",\n        \"value\": [{\"Mensal\": \"PERIODO2\"}, {\"Anual\": \"CO_ANO\"}, {\"Acumulado\": \"x\"}]\n      },\n      {\n        \"method\": function(value){\n          if (value === \"1\") {\n            value = [\"EXP\", \"IMP\"];\n          } else if (value === \"3\") {\n            value = [\"SALDO\"];\n          } else if (value === \"2\") {\n            value = [\"CORRENTE\"]\n          }\n          viz\n          .id({\"solo\": value})\n          .draw();\n        },\n        \"label\": \"Tipo:\",\n        \"type\": \"toggle\",\n        \"value\": [{\"Exportação/Importação\": \"1\"}, {\"Corrente\" : \"2\"}, {\"Saldo\": \"3\"} ]\n      },\n      {\n        \"method\": function(value){\n          if (value === \"1\") {\n            viz.type(\"line\")\n               .timeline(false)\n               .size(false)\n               .draw();\n            \n          } else if (value === \"2\") {\n            viz.type(\"bar\")\n               .timeline(false)\n               .draw();\n          }\n        },\n        \"label\": \"Gráfico:\",\n        \"type\": \"toggle\",\n        \"value\": [{\"Linha\": \"1\"}, {\"Barras\": \"2\"}]\n      }\n      ]})\n}",
                         "data": null
                     }
                 ]
             }
-        },
-        "dados_cards_br": {
-            "exportacoes_absoluto_br": "174.147",
-            "importacoes_absoluto_br": "126.719",
-            "corrente_absoluto_br": "300.866",
-            "saldo_absoluto_br": "47.428",
-            "exportacoes_porcentagem_br": "-7,9",
-            "importacoes_porcentagem_br": "-15,9",
-            "corrente_porcentagem_br": "-11,4"
-        },
-        "descricao": "Variação em relação ao mesmo período do ano anterior - Medic",
-        "descricao_cards": "\"Saldo (US$ Milhões),  Importações (US$ Milhões), Exportações (US$ Milhões), Corrente (US$ Milhões), Importações (%Var), Exportações (%Var), Corrente (%Var)"
+        }
     },
     "dados_goias": {
+        "dados_cards_go": {
+            "exportacoes_absoluto_go": "8.117",
+            "importacoes_absoluto_go": "3.319,3",
+            "corrente_absoluto_go": "11.436,3",
+            "saldo_absoluto_go": "4.797,7",
+            "exportacoes_porcentagem_go": "13,8",
+            "importacoes_porcentagem_go": "-7,4",
+            "corrente_porcentagem_go": "6,7"
+        },
         "serie_historica_goias": {
             "x": {
                 "data": [
@@ -10799,8 +10844,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
                         "PERIODO2": "2020/01/01",
-                        "VL_FOB": 701850906,
-                        "var_abs": 1669615,
+                        "VL_FOB": 701850904,
+                        "var_abs": 1669613,
                         "var_per": "  0,2%"
                     },
                     {
@@ -10808,8 +10853,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
                         "PERIODO2": "2020/01/01",
-                        "VL_FOB": 377314764,
-                        "var_abs": -56374794,
+                        "VL_FOB": 377314762,
+                        "var_abs": -56374796,
                         "var_per": "-13,0%"
                     },
                     {
@@ -10826,8 +10871,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
                         "PERIODO2": "2020/01/01",
-                        "VL_FOB": 52778622,
-                        "var_abs": -114419203,
+                        "VL_FOB": 52778620,
+                        "var_abs": -114419205,
                         "var_per": "-"
                     },
                     {
@@ -10835,8 +10880,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
                         "PERIODO2": "2020/02/01",
-                        "VL_FOB": 696784199,
-                        "var_abs": -177704103,
+                        "VL_FOB": 696818824,
+                        "var_abs": -177669478,
                         "var_per": "-20,3%"
                     },
                     {
@@ -10844,8 +10889,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
                         "PERIODO2": "2020/02/01",
-                        "VL_FOB": 433364430,
-                        "var_abs": -106698533,
+                        "VL_FOB": 433364432,
+                        "var_abs": -106698531,
                         "var_per": "-19,8%"
                     },
                     {
@@ -10853,8 +10898,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "IMP",
                         "PERIODO2": "2020/02/01",
-                        "VL_FOB": 263419769,
-                        "var_abs": -71005570,
+                        "VL_FOB": 263454392,
+                        "var_abs": -70970947,
                         "var_per": "-21,2%"
                     },
                     {
@@ -10862,8 +10907,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
                         "PERIODO2": "2020/02/01",
-                        "VL_FOB": 169944661,
-                        "var_abs": -35692963,
+                        "VL_FOB": 169910040,
+                        "var_abs": -35727584,
                         "var_per": "-"
                     },
                     {
@@ -10871,8 +10916,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
                         "PERIODO2": "2020/03/01",
-                        "VL_FOB": 1108564070,
-                        "var_abs": 202743393,
+                        "VL_FOB": 1108847464,
+                        "var_abs": 203026787,
                         "var_per": " 22,4%"
                     },
                     {
@@ -10880,8 +10925,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
                         "PERIODO2": "2020/03/01",
-                        "VL_FOB": 829890723,
-                        "var_abs": 199739486,
+                        "VL_FOB": 830174117,
+                        "var_abs": 200022880,
                         "var_per": " 31,7%"
                     },
                     {
@@ -10898,8 +10943,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
                         "PERIODO2": "2020/03/01",
-                        "VL_FOB": 551217376,
-                        "var_abs": 196735579,
+                        "VL_FOB": 551500770,
+                        "var_abs": 197018973,
                         "var_per": "-"
                     },
                     {
@@ -10907,8 +10952,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
                         "PERIODO2": "2020/04/01",
-                        "VL_FOB": 900459652,
-                        "var_abs": 57009584,
+                        "VL_FOB": 900459658,
+                        "var_abs": 57009590,
                         "var_per": "  6,8%"
                     },
                     {
@@ -10916,8 +10961,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
                         "PERIODO2": "2020/04/01",
-                        "VL_FOB": 700232470,
-                        "var_abs": 125558206,
+                        "VL_FOB": 700232476,
+                        "var_abs": 125558212,
                         "var_per": " 21,8%"
                     },
                     {
@@ -10934,8 +10979,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
                         "PERIODO2": "2020/04/01",
-                        "VL_FOB": 500005288,
-                        "var_abs": 194106828,
+                        "VL_FOB": 500005294,
+                        "var_abs": 194106834,
                         "var_per": "-"
                     },
                     {
@@ -10943,8 +10988,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
                         "PERIODO2": "2020/05/01",
-                        "VL_FOB": 1224639380,
-                        "var_abs": 326702782,
+                        "VL_FOB": 1224672103,
+                        "var_abs": 326735505,
                         "var_per": " 36,4%"
                     },
                     {
@@ -10952,8 +10997,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
                         "PERIODO2": "2020/05/01",
-                        "VL_FOB": 945421910,
-                        "var_abs": 355285019,
+                        "VL_FOB": 945454633,
+                        "var_abs": 355317742,
                         "var_per": " 60,2%"
                     },
                     {
@@ -10970,8 +11015,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
                         "PERIODO2": "2020/05/01",
-                        "VL_FOB": 666204440,
-                        "var_abs": 383867256,
+                        "VL_FOB": 666237163,
+                        "var_abs": 383899979,
                         "var_per": "-"
                     },
                     {
@@ -10979,8 +11024,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
                         "PERIODO2": "2020/06/01",
-                        "VL_FOB": 1134274559,
-                        "var_abs": 312263240,
+                        "VL_FOB": 1134274556,
+                        "var_abs": 312263237,
                         "var_per": " 38,0%"
                     },
                     {
@@ -10988,8 +11033,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
                         "PERIODO2": "2020/06/01",
-                        "VL_FOB": 876325865,
-                        "var_abs": 317022198,
+                        "VL_FOB": 876325862,
+                        "var_abs": 317022195,
                         "var_per": " 56,7%"
                     },
                     {
@@ -11006,8 +11051,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
                         "PERIODO2": "2020/06/01",
-                        "VL_FOB": 618377171,
-                        "var_abs": 321781156,
+                        "VL_FOB": 618377168,
+                        "var_abs": 321781153,
                         "var_per": "-"
                     },
                     {
@@ -11015,8 +11060,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
                         "PERIODO2": "2020/07/01",
-                        "VL_FOB": 1122541821,
-                        "var_abs": 110421328,
+                        "VL_FOB": 1122542620,
+                        "var_abs": 110422127,
                         "var_per": " 10,9%"
                     },
                     {
@@ -11024,8 +11069,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
                         "PERIODO2": "2020/07/01",
-                        "VL_FOB": 859500644,
-                        "var_abs": 191836424,
+                        "VL_FOB": 859501443,
+                        "var_abs": 191837223,
                         "var_per": " 28,7%"
                     },
                     {
@@ -11042,8 +11087,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
                         "PERIODO2": "2020/07/01",
-                        "VL_FOB": 596459467,
-                        "var_abs": 273251520,
+                        "VL_FOB": 596460266,
+                        "var_abs": 273252319,
                         "var_per": "-"
                     },
                     {
@@ -11051,8 +11096,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
                         "PERIODO2": "2020/08/01",
-                        "VL_FOB": 1043726711,
-                        "var_abs": 142186267,
+                        "VL_FOB": 1043755499,
+                        "var_abs": 142215055,
                         "var_per": " 15,8%"
                     },
                     {
@@ -11060,8 +11105,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
                         "PERIODO2": "2020/08/01",
-                        "VL_FOB": 763822924,
-                        "var_abs": 149396467,
+                        "VL_FOB": 763851712,
+                        "var_abs": 149425255,
                         "var_per": " 24,3%"
                     },
                     {
@@ -11078,8 +11123,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
                         "PERIODO2": "2020/08/01",
-                        "VL_FOB": 483919137,
-                        "var_abs": 156606667,
+                        "VL_FOB": 483947925,
+                        "var_abs": 156635455,
                         "var_per": "-"
                     },
                     {
@@ -11087,18 +11132,18 @@
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
                         "PERIODO2": "2020/09/01",
-                        "VL_FOB": 900999170,
-                        "var_abs": 3750912,
-                        "var_per": "  0,4%"
+                        "VL_FOB": 902239402,
+                        "var_abs": 4991144,
+                        "var_per": "  0,6%"
                     },
                     {
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
                         "PERIODO2": "2020/09/01",
-                        "VL_FOB": 648661632,
-                        "var_abs": 40737431,
-                        "var_per": "  6,7%"
+                        "VL_FOB": 649901864,
+                        "var_abs": 41977663,
+                        "var_per": "  6,9%"
                     },
                     {
                         "PERIODO": "Total",
@@ -11114,8 +11159,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
                         "PERIODO2": "2020/09/01",
-                        "VL_FOB": 396324094,
-                        "var_abs": 77723950,
+                        "VL_FOB": 397564326,
+                        "var_abs": 78964182,
                         "var_per": "-"
                     },
                     {
@@ -11123,26 +11168,26 @@
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
                         "PERIODO2": "2020/10/01",
-                        "VL_FOB": 868662438,
-                        "var_abs": -209430642,
-                        "var_per": "-19,4%"
+                        "VL_FOB": 870376802,
+                        "var_abs": -207716278,
+                        "var_per": "-19,3%"
                     },
                     {
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
                         "PERIODO2": "2020/10/01",
-                        "VL_FOB": 558916179,
-                        "var_abs": -157011836,
-                        "var_per": "-21,9%"
+                        "VL_FOB": 560618230,
+                        "var_abs": -155309785,
+                        "var_per": "-21,7%"
                     },
                     {
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "IMP",
                         "PERIODO2": "2020/10/01",
-                        "VL_FOB": 309746259,
-                        "var_abs": -52418806,
+                        "VL_FOB": 309758572,
+                        "var_abs": -52406493,
                         "var_per": "-14,5%"
                     },
                     {
@@ -11150,8 +11195,8 @@
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
                         "PERIODO2": "2020/10/01",
-                        "VL_FOB": 249169920,
-                        "var_abs": -104593030,
+                        "VL_FOB": 250859658,
+                        "var_abs": -102903292,
                         "var_per": "-"
                     },
                     {
@@ -11159,18 +11204,18 @@
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
                         "PERIODO2": "2020/11/01",
-                        "VL_FOB": 843983664,
-                        "var_abs": -83882888,
-                        "var_per": " -9,0%"
+                        "VL_FOB": 853190633,
+                        "var_abs": -74675919,
+                        "var_per": " -8,0%"
                     },
                     {
                         "PERIODO": "Total",
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
                         "PERIODO2": "2020/11/01",
-                        "VL_FOB": 550372181,
-                        "var_abs": -46983079,
-                        "var_per": " -7,9%"
+                        "VL_FOB": 559579150,
+                        "var_abs": -37776110,
+                        "var_per": " -6,3%"
                     },
                     {
                         "PERIODO": "Total",
@@ -11186,8 +11231,44 @@
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
                         "PERIODO2": "2020/11/01",
-                        "VL_FOB": 256760698,
-                        "var_abs": -10083270,
+                        "VL_FOB": 265967667,
+                        "var_abs": -876301,
+                        "var_per": "-"
+                    },
+                    {
+                        "PERIODO": "Total",
+                        "CO_ANO": "2020",
+                        "TIPO": "CORRENTE",
+                        "PERIODO2": "2020/12/01",
+                        "VL_FOB": 877255769,
+                        "var_abs": 20290293,
+                        "var_per": "  2,4%"
+                    },
+                    {
+                        "PERIODO": "Total",
+                        "CO_ANO": "2020",
+                        "TIPO": "EXP",
+                        "PERIODO2": "2020/12/01",
+                        "VL_FOB": 560678271,
+                        "var_abs": -41403207,
+                        "var_per": " -6,9%"
+                    },
+                    {
+                        "PERIODO": "Total",
+                        "CO_ANO": "2020",
+                        "TIPO": "IMP",
+                        "PERIODO2": "2020/12/01",
+                        "VL_FOB": 316577498,
+                        "var_abs": 61693500,
+                        "var_per": " 24,2%"
+                    },
+                    {
+                        "PERIODO": "Total",
+                        "CO_ANO": "2020",
+                        "TIPO": "SALDO",
+                        "PERIODO2": "2020/12/01",
+                        "VL_FOB": 244100773,
+                        "var_abs": -103096707,
                         "var_per": "-"
                     },
                     {
@@ -11583,431 +11664,431 @@
                         "var_per": "-"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2009",
                         "TIPO": "CORRENTE",
-                        "PERIODO2": "Jan-Nov/2009",
-                        "VL_FOB": 5848135957,
+                        "PERIODO2": "Jan-Dez/2009",
+                        "VL_FOB": 6452609335,
                         "var_per": "   -"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2009",
                         "TIPO": "EXP",
-                        "PERIODO2": "Jan-Nov/2009",
-                        "VL_FOB": 3327374264,
+                        "PERIODO2": "Jan-Dez/2009",
+                        "VL_FOB": 3609120767,
                         "var_per": "   -"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2009",
                         "TIPO": "IMP",
-                        "PERIODO2": "Jan-Nov/2009",
-                        "VL_FOB": 2520761693,
+                        "PERIODO2": "Jan-Dez/2009",
+                        "VL_FOB": 2843488568,
                         "var_per": "   -"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2009",
                         "TIPO": "SALDO",
-                        "PERIODO2": "Jan-Nov/2009",
-                        "VL_FOB": 806612571,
+                        "PERIODO2": "Jan-Dez/2009",
+                        "VL_FOB": 765632199,
                         "var_per": "-"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2010",
                         "TIPO": "CORRENTE",
-                        "PERIODO2": "Jan-Nov/2010",
-                        "VL_FOB": 7596701815,
-                        "var_abs": 1748565858,
-                        "var_per": " 29,9%"
+                        "PERIODO2": "Jan-Dez/2010",
+                        "VL_FOB": 8192912700,
+                        "var_abs": 1740303365,
+                        "var_per": " 27,0%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2010",
                         "TIPO": "EXP",
-                        "PERIODO2": "Jan-Nov/2010",
-                        "VL_FOB": 3813438627,
-                        "var_abs": 486064363,
-                        "var_per": " 14,6%"
+                        "PERIODO2": "Jan-Dez/2010",
+                        "VL_FOB": 4041220944,
+                        "var_abs": 432100177,
+                        "var_per": " 12,0%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2010",
                         "TIPO": "IMP",
-                        "PERIODO2": "Jan-Nov/2010",
-                        "VL_FOB": 3783263188,
-                        "var_abs": 1262501495,
-                        "var_per": " 50,1%"
+                        "PERIODO2": "Jan-Dez/2010",
+                        "VL_FOB": 4151691756,
+                        "var_abs": 1308203188,
+                        "var_per": " 46,0%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2010",
                         "TIPO": "SALDO",
-                        "PERIODO2": "Jan-Nov/2010",
-                        "VL_FOB": 30175439,
-                        "var_abs": -776437132,
+                        "PERIODO2": "Jan-Dez/2010",
+                        "VL_FOB": -110470812,
+                        "var_abs": -876103011,
                         "var_per": "-"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2011",
                         "TIPO": "CORRENTE",
-                        "PERIODO2": "Jan-Nov/2011",
-                        "VL_FOB": 10346646194,
-                        "var_abs": 2749944379,
-                        "var_per": " 36,2%"
+                        "PERIODO2": "Jan-Dez/2011",
+                        "VL_FOB": 11334095118,
+                        "var_abs": 3141182418,
+                        "var_per": " 38,3%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2011",
                         "TIPO": "EXP",
-                        "PERIODO2": "Jan-Nov/2011",
-                        "VL_FOB": 5184740120,
-                        "var_abs": 1371301493,
-                        "var_per": " 36,0%"
+                        "PERIODO2": "Jan-Dez/2011",
+                        "VL_FOB": 5591865039,
+                        "var_abs": 1550644095,
+                        "var_per": " 38,4%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2011",
                         "TIPO": "IMP",
-                        "PERIODO2": "Jan-Nov/2011",
-                        "VL_FOB": 5161906074,
-                        "var_abs": 1378642886,
-                        "var_per": " 36,4%"
+                        "PERIODO2": "Jan-Dez/2011",
+                        "VL_FOB": 5742230079,
+                        "var_abs": 1590538323,
+                        "var_per": " 38,3%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2011",
                         "TIPO": "SALDO",
-                        "PERIODO2": "Jan-Nov/2011",
-                        "VL_FOB": 22834046,
-                        "var_abs": -7341393,
+                        "PERIODO2": "Jan-Dez/2011",
+                        "VL_FOB": -150365040,
+                        "var_abs": -39894228,
                         "var_per": "-"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2012",
                         "TIPO": "CORRENTE",
-                        "PERIODO2": "Jan-Nov/2012",
-                        "VL_FOB": 11493708315,
-                        "var_abs": 1147062121,
-                        "var_per": " 11,1%"
+                        "PERIODO2": "Jan-Dez/2012",
+                        "VL_FOB": 12443816334,
+                        "var_abs": 1109721216,
+                        "var_per": "  9,8%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2012",
                         "TIPO": "EXP",
-                        "PERIODO2": "Jan-Nov/2012",
-                        "VL_FOB": 6735755996,
-                        "var_abs": 1551015876,
-                        "var_per": " 29,9%"
+                        "PERIODO2": "Jan-Dez/2012",
+                        "VL_FOB": 7306063012,
+                        "var_abs": 1714197973,
+                        "var_per": " 30,7%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2012",
                         "TIPO": "IMP",
-                        "PERIODO2": "Jan-Nov/2012",
-                        "VL_FOB": 4757952319,
-                        "var_abs": -403953755,
-                        "var_per": " -7,8%"
+                        "PERIODO2": "Jan-Dez/2012",
+                        "VL_FOB": 5137753322,
+                        "var_abs": -604476757,
+                        "var_per": "-10,5%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2012",
                         "TIPO": "SALDO",
-                        "PERIODO2": "Jan-Nov/2012",
-                        "VL_FOB": 1977803677,
-                        "var_abs": 1954969631,
+                        "PERIODO2": "Jan-Dez/2012",
+                        "VL_FOB": 2168309690,
+                        "var_abs": 2318674730,
                         "var_per": "-"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2013",
                         "TIPO": "CORRENTE",
-                        "PERIODO2": "Jan-Nov/2013",
-                        "VL_FOB": 11004627718,
-                        "var_abs": -489080597,
-                        "var_per": " -4,3%"
+                        "PERIODO2": "Jan-Dez/2013",
+                        "VL_FOB": 11879844190,
+                        "var_abs": -563972144,
+                        "var_per": " -4,5%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2013",
                         "TIPO": "EXP",
-                        "PERIODO2": "Jan-Nov/2013",
-                        "VL_FOB": 6574623632,
-                        "var_abs": -161132364,
-                        "var_per": " -2,4%"
+                        "PERIODO2": "Jan-Dez/2013",
+                        "VL_FOB": 7037443708,
+                        "var_abs": -268619304,
+                        "var_per": " -3,7%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2013",
                         "TIPO": "IMP",
-                        "PERIODO2": "Jan-Nov/2013",
-                        "VL_FOB": 4430004086,
-                        "var_abs": -327948233,
-                        "var_per": " -6,9%"
+                        "PERIODO2": "Jan-Dez/2013",
+                        "VL_FOB": 4842400482,
+                        "var_abs": -295352840,
+                        "var_per": " -5,7%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2013",
                         "TIPO": "SALDO",
-                        "PERIODO2": "Jan-Nov/2013",
-                        "VL_FOB": 2144619546,
-                        "var_abs": 166815869,
+                        "PERIODO2": "Jan-Dez/2013",
+                        "VL_FOB": 2195043226,
+                        "var_abs": 26733536,
                         "var_per": "-"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2014",
                         "TIPO": "CORRENTE",
-                        "PERIODO2": "Jan-Nov/2014",
-                        "VL_FOB": 10558660487,
-                        "var_abs": -445967231,
+                        "PERIODO2": "Jan-Dez/2014",
+                        "VL_FOB": 11393157805,
+                        "var_abs": -486686385,
                         "var_per": " -4,1%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2014",
                         "TIPO": "EXP",
-                        "PERIODO2": "Jan-Nov/2014",
-                        "VL_FOB": 6489612755,
-                        "var_abs": -85010877,
-                        "var_per": " -1,3%"
+                        "PERIODO2": "Jan-Dez/2014",
+                        "VL_FOB": 6973669273,
+                        "var_abs": -63774435,
+                        "var_per": " -0,9%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2014",
                         "TIPO": "IMP",
-                        "PERIODO2": "Jan-Nov/2014",
-                        "VL_FOB": 4069047732,
-                        "var_abs": -360956354,
-                        "var_per": " -8,1%"
+                        "PERIODO2": "Jan-Dez/2014",
+                        "VL_FOB": 4419488532,
+                        "var_abs": -422911950,
+                        "var_per": " -8,7%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2014",
                         "TIPO": "SALDO",
-                        "PERIODO2": "Jan-Nov/2014",
-                        "VL_FOB": 2420565023,
-                        "var_abs": 275945477,
+                        "PERIODO2": "Jan-Dez/2014",
+                        "VL_FOB": 2554180741,
+                        "var_abs": 359137515,
                         "var_per": "-"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2015",
                         "TIPO": "CORRENTE",
-                        "PERIODO2": "Jan-Nov/2015",
-                        "VL_FOB": 8471936875,
-                        "var_abs": -2086723612,
-                        "var_per": "-19,8%"
+                        "PERIODO2": "Jan-Dez/2015",
+                        "VL_FOB": 9232929933,
+                        "var_abs": -2160227872,
+                        "var_per": "-19,0%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2015",
                         "TIPO": "EXP",
-                        "PERIODO2": "Jan-Nov/2015",
-                        "VL_FOB": 5318547309,
-                        "var_abs": -1171065446,
-                        "var_per": "-18,0%"
+                        "PERIODO2": "Jan-Dez/2015",
+                        "VL_FOB": 5869331673,
+                        "var_abs": -1104337600,
+                        "var_per": "-15,8%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2015",
                         "TIPO": "IMP",
-                        "PERIODO2": "Jan-Nov/2015",
-                        "VL_FOB": 3153389566,
-                        "var_abs": -915658166,
-                        "var_per": "-22,5%"
+                        "PERIODO2": "Jan-Dez/2015",
+                        "VL_FOB": 3363598260,
+                        "var_abs": -1055890272,
+                        "var_per": "-23,9%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2015",
                         "TIPO": "SALDO",
-                        "PERIODO2": "Jan-Nov/2015",
-                        "VL_FOB": 2165157743,
-                        "var_abs": -255407280,
+                        "PERIODO2": "Jan-Dez/2015",
+                        "VL_FOB": 2505733413,
+                        "var_abs": -48447328,
                         "var_per": "-"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2016",
                         "TIPO": "CORRENTE",
-                        "PERIODO2": "Jan-Nov/2016",
-                        "VL_FOB": 7959966547,
-                        "var_abs": -511970328,
-                        "var_per": " -6,0%"
+                        "PERIODO2": "Jan-Dez/2016",
+                        "VL_FOB": 8568463525,
+                        "var_abs": -664466408,
+                        "var_per": " -7,2%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2016",
                         "TIPO": "EXP",
-                        "PERIODO2": "Jan-Nov/2016",
-                        "VL_FOB": 5509367010,
-                        "var_abs": 190819701,
-                        "var_per": "  3,6%"
+                        "PERIODO2": "Jan-Dez/2016",
+                        "VL_FOB": 5929071727,
+                        "var_abs": 59740054,
+                        "var_per": "  1,0%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2016",
                         "TIPO": "IMP",
-                        "PERIODO2": "Jan-Nov/2016",
-                        "VL_FOB": 2450599537,
-                        "var_abs": -702790029,
-                        "var_per": "-22,3%"
+                        "PERIODO2": "Jan-Dez/2016",
+                        "VL_FOB": 2639391798,
+                        "var_abs": -724206462,
+                        "var_per": "-21,5%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2016",
                         "TIPO": "SALDO",
-                        "PERIODO2": "Jan-Nov/2016",
-                        "VL_FOB": 3058767473,
-                        "var_abs": 893609730,
+                        "PERIODO2": "Jan-Dez/2016",
+                        "VL_FOB": 3289679929,
+                        "var_abs": 783946516,
                         "var_per": "-"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2017",
                         "TIPO": "CORRENTE",
-                        "PERIODO2": "Jan-Nov/2017",
-                        "VL_FOB": 9366270256,
-                        "var_abs": 1406303709,
-                        "var_per": " 17,7%"
+                        "PERIODO2": "Jan-Dez/2017",
+                        "VL_FOB": 10138930227,
+                        "var_abs": 1570466702,
+                        "var_per": " 18,3%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2017",
                         "TIPO": "EXP",
-                        "PERIODO2": "Jan-Nov/2017",
-                        "VL_FOB": 6441991554,
-                        "var_abs": 932624544,
-                        "var_per": " 16,9%"
+                        "PERIODO2": "Jan-Dez/2017",
+                        "VL_FOB": 6902854213,
+                        "var_abs": 973782486,
+                        "var_per": " 16,4%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2017",
                         "TIPO": "IMP",
-                        "PERIODO2": "Jan-Nov/2017",
-                        "VL_FOB": 2924278702,
-                        "var_abs": 473679165,
-                        "var_per": " 19,3%"
+                        "PERIODO2": "Jan-Dez/2017",
+                        "VL_FOB": 3236076014,
+                        "var_abs": 596684216,
+                        "var_per": " 22,6%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2017",
                         "TIPO": "SALDO",
-                        "PERIODO2": "Jan-Nov/2017",
-                        "VL_FOB": 3517712852,
-                        "var_abs": 458945379,
+                        "PERIODO2": "Jan-Dez/2017",
+                        "VL_FOB": 3666778199,
+                        "var_abs": 377098270,
                         "var_per": "-"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2018",
                         "TIPO": "CORRENTE",
-                        "PERIODO2": "Jan-Nov/2018",
-                        "VL_FOB": 10220145157,
-                        "var_abs": 853874901,
-                        "var_per": "  9,1%"
+                        "PERIODO2": "Jan-Dez/2018",
+                        "VL_FOB": 11102852772,
+                        "var_abs": 963922545,
+                        "var_per": "  9,5%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2018",
                         "TIPO": "EXP",
-                        "PERIODO2": "Jan-Nov/2018",
-                        "VL_FOB": 6947239740,
-                        "var_abs": 505248186,
-                        "var_per": "  7,8%"
+                        "PERIODO2": "Jan-Dez/2018",
+                        "VL_FOB": 7524396381,
+                        "var_abs": 621542168,
+                        "var_per": "  9,0%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2018",
                         "TIPO": "IMP",
-                        "PERIODO2": "Jan-Nov/2018",
-                        "VL_FOB": 3272905417,
-                        "var_abs": 348626715,
-                        "var_per": " 11,9%"
+                        "PERIODO2": "Jan-Dez/2018",
+                        "VL_FOB": 3578456391,
+                        "var_abs": 342380377,
+                        "var_per": " 10,6%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2018",
                         "TIPO": "SALDO",
-                        "PERIODO2": "Jan-Nov/2018",
-                        "VL_FOB": 3674334323,
-                        "var_abs": 156621471,
+                        "PERIODO2": "Jan-Dez/2018",
+                        "VL_FOB": 3945939990,
+                        "var_abs": 279161791,
                         "var_per": "-"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2019",
                         "TIPO": "CORRENTE",
-                        "PERIODO2": "Jan-Nov/2019",
-                        "VL_FOB": 9860757082,
-                        "var_abs": -359388075,
+                        "PERIODO2": "Jan-Dez/2019",
+                        "VL_FOB": 10717722558,
+                        "var_abs": -385130214,
                         "var_per": " -3,5%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2019",
                         "TIPO": "EXP",
-                        "PERIODO2": "Jan-Nov/2019",
-                        "VL_FOB": 6531316733,
-                        "var_abs": -415923007,
-                        "var_per": " -6,0%"
+                        "PERIODO2": "Jan-Dez/2019",
+                        "VL_FOB": 7133398211,
+                        "var_abs": -390998170,
+                        "var_per": " -5,2%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2019",
                         "TIPO": "IMP",
-                        "PERIODO2": "Jan-Nov/2019",
-                        "VL_FOB": 3329440349,
-                        "var_abs": 56534932,
-                        "var_per": "  1,7%"
+                        "PERIODO2": "Jan-Dez/2019",
+                        "VL_FOB": 3584324347,
+                        "var_abs": 5867956,
+                        "var_per": "  0,2%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2019",
                         "TIPO": "SALDO",
-                        "PERIODO2": "Jan-Nov/2019",
-                        "VL_FOB": 3201876384,
-                        "var_abs": -472457939,
+                        "PERIODO2": "Jan-Dez/2019",
+                        "VL_FOB": 3549073864,
+                        "var_abs": -396866126,
                         "var_per": "-"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2020",
                         "TIPO": "CORRENTE",
-                        "PERIODO2": "Jan-Nov/2020",
-                        "VL_FOB": 10546486570,
-                        "var_abs": 685729488,
-                        "var_per": "  7,0%"
+                        "PERIODO2": "Jan-Dez/2020",
+                        "VL_FOB": 11436284234,
+                        "var_abs": 718561676,
+                        "var_per": "  6,7%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2020",
                         "TIPO": "EXP",
-                        "PERIODO2": "Jan-Nov/2020",
-                        "VL_FOB": 7543823722,
-                        "var_abs": 1012506989,
-                        "var_per": " 15,5%"
+                        "PERIODO2": "Jan-Dez/2020",
+                        "VL_FOB": 8116996952,
+                        "var_abs": 983598741,
+                        "var_per": " 13,8%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2020",
                         "TIPO": "IMP",
-                        "PERIODO2": "Jan-Nov/2020",
-                        "VL_FOB": 3002662848,
-                        "var_abs": -326777501,
-                        "var_per": " -9,8%"
+                        "PERIODO2": "Jan-Dez/2020",
+                        "VL_FOB": 3319287282,
+                        "var_abs": -265037065,
+                        "var_per": " -7,4%"
                     },
                     {
-                        "PERIODO": "Jan-Nov",
+                        "PERIODO": "Jan-Dez",
                         "CO_ANO": "2020",
                         "TIPO": "SALDO",
-                        "PERIODO2": "Jan-Nov/2020",
-                        "VL_FOB": 4541160874,
-                        "var_abs": 1339284490,
+                        "PERIODO2": "Jan-Dez/2020",
+                        "VL_FOB": 4797709670,
+                        "var_abs": 1248635806,
                         "var_per": "-"
                     }
                 ],
@@ -12155,20 +12236,11 @@
             "jsHooks": {
                 "render": [
                     {
-                        "code": "function(el,x){\n     var dados = x.data;\n     var viz = this.viz;\n     \n     var dados_total = dados.filter(function(d){\n                  return d.PERIODO === \"Total\";\n                })\n     \n     var dados_anual = dados.filter(function(d){\n                  return d.PERIODO === \"Anual\";\n                })\n     \n     var dados_periodo = dados.filter(function(d){\n                  return d.PERIODO === \"Jan-Nov\";\n                })\n     \n     viz.data(dados_total).timeline(false)\n     \n     \n    viz.id({\"mute\": [\"SALDO\", \"CORRENTE\"]})\n    \n    viz.ui({\"value\":[\n      {\n        \"method\": function(value){\n          if (value == \"CO_ANO\") {\n            viz.data(dados_anual)\n              .time({\"value\": value,\n                     \"solo\": []})\n              .timeline(false)\n              .x(value)\n              .y(\"VL_FOB\")\n              .draw();\n          } else if (value == \"PERIODO2\") {\n           viz.data(dados_total)\n              .time({\"value\": value,\n                     \"solo\": []})\n              .timeline(false)\n              .x(value)\n              .y(\"VL_FOB\")\n              .draw();\n        } else {\n          viz.data(dados_periodo)\n              .time(false)\n              .x(\"PERIODO2\")\n              .y(\"VL_FOB\")\n              .draw();\n        }\n        },\n        \"label\": \"Periodicidade:\",\n        \"type\": \"toggle\",\n        \"value\": [{\"Mensal\": \"PERIODO2\"}, {\"Anual\": \"CO_ANO\"}, {\"Acumulado\": \"x\"}]\n      },\n      {\n        \"method\": function(value){\n          if (value === \"1\") {\n            value = [\"EXP\", \"IMP\"];\n          } else if (value === \"3\") {\n            value = [\"SALDO\"];\n          } else if (value === \"2\") {\n            value = [\"CORRENTE\"]\n          }\n          viz\n          .id({\"solo\": value})\n          .draw();\n        },\n        \"label\": \"Tipo:\",\n        \"type\": \"toggle\",\n        \"value\": [{\"Exportação/Importação\": \"1\"}, {\"Corrente\" : \"2\"}, {\"Saldo\": \"3\"} ]\n      },\n      {\n        \"method\": function(value){\n          if (value === \"1\") {\n            viz.type(\"line\")\n               .timeline(false)\n               .size(false)\n               .draw();\n            \n          } else if (value === \"2\") {\n            viz.type(\"bar\")\n               .timeline(false)\n               .draw();\n          }\n        },\n        \"label\": \"Gráfico:\",\n        \"type\": \"toggle\",\n        \"value\": [{\"Linha\": \"1\"}, {\"Barras\": \"2\"}]\n      }\n      ]})\n}",
+                        "code": "function(el,x){\n     var dados = x.data;\n     var viz = this.viz;\n     \n     var dados_total = dados.filter(function(d){\n                  return d.PERIODO === \"Total\";\n                })\n     \n     var dados_anual = dados.filter(function(d){\n                  return d.PERIODO === \"Anual\";\n                })\n     \n     var dados_periodo = dados.filter(function(d){\n                  return d.PERIODO === \"Jan-Dez\";\n                })\n     \n     viz.data(dados_total).timeline(false)\n     \n     \n    viz.id({\"mute\": [\"SALDO\", \"CORRENTE\"]})\n    \n    viz.ui({\"value\":[\n      {\n        \"method\": function(value){\n          if (value == \"CO_ANO\") {\n            viz.data(dados_anual)\n              .time({\"value\": value,\n                     \"solo\": []})\n              .timeline(false)\n              .x(value)\n              .y(\"VL_FOB\")\n              .draw();\n          } else if (value == \"PERIODO2\") {\n           viz.data(dados_total)\n              .time({\"value\": value,\n                     \"solo\": []})\n              .timeline(false)\n              .x(value)\n              .y(\"VL_FOB\")\n              .draw();\n        } else {\n          viz.data(dados_periodo)\n              .time(false)\n              .x(\"PERIODO2\")\n              .y(\"VL_FOB\")\n              .draw();\n        }\n        },\n        \"label\": \"Periodicidade:\",\n        \"type\": \"toggle\",\n        \"value\": [{\"Mensal\": \"PERIODO2\"}, {\"Anual\": \"CO_ANO\"}, {\"Acumulado\": \"x\"}]\n      },\n      {\n        \"method\": function(value){\n          if (value === \"1\") {\n            value = [\"EXP\", \"IMP\"];\n          } else if (value === \"3\") {\n            value = [\"SALDO\"];\n          } else if (value === \"2\") {\n            value = [\"CORRENTE\"]\n          }\n          viz\n          .id({\"solo\": value})\n          .draw();\n        },\n        \"label\": \"Tipo:\",\n        \"type\": \"toggle\",\n        \"value\": [{\"Exportação/Importação\": \"1\"}, {\"Corrente\" : \"2\"}, {\"Saldo\": \"3\"} ]\n      },\n      {\n        \"method\": function(value){\n          if (value === \"1\") {\n            viz.type(\"line\")\n               .timeline(false)\n               .size(false)\n               .draw();\n            \n          } else if (value === \"2\") {\n            viz.type(\"bar\")\n               .timeline(false)\n               .draw();\n          }\n        },\n        \"label\": \"Gráfico:\",\n        \"type\": \"toggle\",\n        \"value\": [{\"Linha\": \"1\"}, {\"Barras\": \"2\"}]\n      }\n      ]})\n}",
                         "data": null
                     }
                 ]
             }
-        },
-        "dados_cards_go": {
-            "exportacoes_absoluto_go": "7.543,8",
-            "importacoes_absoluto_go": "3.002,7",
-            "corrente_absoluto_go": "10.546,5",
-            "saldo_absoluto_go": "4.541,1",
-            "exportacoes_porcentagem_go": "15,5",
-            "importacoes_porcentagem_go": "-9,8",
-            "corrente_porcentagem_go": "7"
         }
     }
 }
