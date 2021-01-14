@@ -1,0 +1,56 @@
+{
+    "valor": 59.1,
+    "descricao": "-",
+    "referencia": "Dez/2020",
+    "fonte": "CNI",
+    "serie_intencao_investir": [
+        {
+            "referencia": "2020-01",
+            "valor": 59.2
+        },
+        {
+            "referencia": "2020-02",
+            "valor": 58.7
+        },
+        {
+            "referencia": "2020-03",
+            "valor": 58.3
+        },
+        {
+            "referencia": "2020-04",
+            "valor": 36.7
+        },
+        {
+            "referencia": "2020-05",
+            "valor": 36.9
+        },
+        {
+            "referencia": "2020-06",
+            "valor": 41.4
+        },
+        {
+            "referencia": "2020-07",
+            "valor": 46.7
+        },
+        {
+            "referencia": "2020-08",
+            "valor": 51
+        },
+        {
+            "referencia": "2020-09",
+            "valor": 55.3
+        },
+        {
+            "referencia": "2020-10",
+            "valor": 57.2
+        },
+        {
+            "referencia": "2020-11",
+            "valor": 59.3
+        },
+        {
+            "referencia": "2020-12",
+            "valor": 59.1
+        }
+    ]
+}
