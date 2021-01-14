@@ -1,6 +1,7 @@
 {
     "dados_brasil": {
-    d
+        "serie_historica_brasil": {
+            "x": {
                 "data": [
                     {
                         "PERIODO": "Total",
