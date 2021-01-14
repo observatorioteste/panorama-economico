@@ -1,7 +1,7 @@
 {
     "desocupacao_nacional": {
-        "valor_nacional": "14.6",
         "referencia": "3º trimestre 2020",
+        "valor_nacional": "14.6",
         "descricao": "Percentual no trimestre (IBGE)",
         "serie_brasil": [
             {
