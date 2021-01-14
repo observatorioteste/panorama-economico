@@ -1,5 +1,9 @@
 {
-    "estoque_efetivo": [
+    "valor": 80.3,
+    "descricao": "-",
+    "referencia": "Out/2020",
+    "fonte": "CNI",
+    "serie_estoque_efetivo": [
         {
             "referencia": "2020-01",
             "valor": 78.3
@@ -40,9 +44,5 @@
             "referencia": "2020-10",
             "valor": 80.3
         }
-    ],
-    "valor": 80.3,
-    "descricao": "-",
-    "referencia": "Out/2020",
-    "fonte": "CNI"
+    ]
 }
