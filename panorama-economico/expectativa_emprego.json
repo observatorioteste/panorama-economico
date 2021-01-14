@@ -1,0 +1,16 @@
+{
+    "valor": 66.6,
+    "descricao": "-",
+    "referencia": "Dez/2020",
+    "fonte": "CNI",
+    "serie_expectativa_emprego": [
+        {
+            "referencia": "2020-09",
+            "valor": 65.13
+        },
+        {
+            "referencia": "2020-12",
+            "valor": 66.6
+        }
+    ]
+}
