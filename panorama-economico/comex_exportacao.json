@@ -123,5 +123,130 @@
                 "PERIODO2": "Jan-Dez/2020"
             }
         ]
+    },
+    "dados_goias": {
+        "dados_cards_exportacao_go": {
+            "exportacoes_absoluto_go": "8.117",
+            "exportacoes_porcentagem_go": "13,8"
+        },
+        "serie_historica_exp_goias": [
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "PERIODO2": "2020/01/01",
+                "VL_FOB": 377314762,
+                "var_abs": -56374796,
+                "var_per": "-13,0%"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "PERIODO2": "2020/02/01",
+                "VL_FOB": 433364432,
+                "var_abs": -106698531,
+                "var_per": "-19,8%"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "PERIODO2": "2020/03/01",
+                "VL_FOB": 830174117,
+                "var_abs": 200022880,
+                "var_per": " 31,7%"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "PERIODO2": "2020/04/01",
+                "VL_FOB": 700232476,
+                "var_abs": 125558212,
+                "var_per": " 21,8%"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "PERIODO2": "2020/05/01",
+                "VL_FOB": 945454633,
+                "var_abs": 355317742,
+                "var_per": " 60,2%"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "PERIODO2": "2020/06/01",
+                "VL_FOB": 876325862,
+                "var_abs": 317022195,
+                "var_per": " 56,7%"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "PERIODO2": "2020/07/01",
+                "VL_FOB": 859501443,
+                "var_abs": 191837223,
+                "var_per": " 28,7%"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "PERIODO2": "2020/08/01",
+                "VL_FOB": 763851712,
+                "var_abs": 149425255,
+                "var_per": " 24,3%"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "PERIODO2": "2020/09/01",
+                "VL_FOB": 649901864,
+                "var_abs": 41977663,
+                "var_per": "  6,9%"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "PERIODO2": "2020/10/01",
+                "VL_FOB": 560618230,
+                "var_abs": -155309785,
+                "var_per": "-21,7%"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "PERIODO2": "2020/11/01",
+                "VL_FOB": 559579150,
+                "var_abs": -37776110,
+                "var_per": " -6,3%"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "PERIODO2": "2020/12/01",
+                "VL_FOB": 560678271,
+                "var_abs": -41403207,
+                "var_per": " -6,9%"
+            },
+            {
+                "PERIODO": "Jan-Dez",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "PERIODO2": "Jan-Dez/2020",
+                "VL_FOB": 8116996952,
+                "var_abs": 983598741,
+                "var_per": " 13,8%"
+            }
+        ]
     }
 }
