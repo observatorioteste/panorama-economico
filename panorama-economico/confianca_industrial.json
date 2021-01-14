@@ -1,0 +1,60 @@
+{
+    "valor": 60.9,
+    "descricao": "-",
+    "referencia": "Jan/2021",
+    "fonte": "CNI",
+    "serie_confianca_industrial": [
+        {
+            "referencia": "2020-01",
+            "valor": 65.3
+        },
+        {
+            "referencia": "2020-02",
+            "valor": 64.7
+        },
+        {
+            "referencia": "2020-03",
+            "valor": 60.3
+        },
+        {
+            "referencia": "2020-04",
+            "valor": 34.5
+        },
+        {
+            "referencia": "2020-05",
+            "valor": 34.7
+        },
+        {
+            "referencia": "2020-06",
+            "valor": 41.2
+        },
+        {
+            "referencia": "2020-07",
+            "valor": 47.6
+        },
+        {
+            "referencia": "2020-08",
+            "valor": 57
+        },
+        {
+            "referencia": "2020-09",
+            "valor": 61.6
+        },
+        {
+            "referencia": "2020-10",
+            "valor": 61.8
+        },
+        {
+            "referencia": "2020-11",
+            "valor": 62.9
+        },
+        {
+            "referencia": "2020-12",
+            "valor": 63.1
+        },
+        {
+            "referencia": "2021-01",
+            "valor": 60.9
+        }
+    ]
+}
