@@ -6075,7 +6075,19 @@
             }
         },
         "dados_cards_br": {
-            "exv
+            "exportacoes_absoluto_br": "174.147",
+            "importacoes_absoluto_br": "126.719",
+            "corrente_absoluto_br": "300.866",
+            "saldo_absoluto_br": "47.428",
+            "exportacoes_porcentagem_br": "-7,9",
+            "importacoes_porcentagem_br": "-15,9",
+            "corrente_porcentagem_br": "-11,4"
+        },
+        "descricao": "Variação em relação ao mesmo período do ano anterior - Medic",
+        "descricao_cards": "\"Saldo (US$ Milhões),  Importações (US$ Milhões), Exportações (US$ Milhões), Corrente (US$ Milhões), Importações (%Var), Exportações (%Var), Corrente (%Var)"
+    },
+    "dados_goias": {
+        "serie_historica_goias": {
             "x": {
                 "data": [
                     {
