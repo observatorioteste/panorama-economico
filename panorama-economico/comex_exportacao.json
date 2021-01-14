@@ -1,0 +1,127 @@
+{
+    "dados_brasil": {
+        "dados_cards_exportacao_br": {
+            "exportacoes_absoluto_br": "209.817,4",
+            "exportacoes_porcentagem_br": "-6,9"
+        },
+        "serie_historica_exp_brasil": [
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "VL_FOB": 14494583508,
+                "var_abs": -3507323508,
+                "var_per": "-19,5%",
+                "PERIODO2": "2020/01/01"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "VL_FOB": 15582390653,
+                "var_abs": -154984347,
+                "var_per": " -1,0%",
+                "PERIODO2": "2020/02/01"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "VL_FOB": 18347477151,
+                "var_abs": 918778671,
+                "var_per": "  5,3%",
+                "PERIODO2": "2020/03/01"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "VL_FOB": 17612476835,
+                "var_abs": -1669257603,
+                "var_per": " -8,7%",
+                "PERIODO2": "2020/04/01"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "VL_FOB": 17546386795,
+                "var_abs": -3046022392,
+                "var_per": "-14,8%",
+                "PERIODO2": "2020/05/01"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "VL_FOB": 17514974770,
+                "var_abs": -891035763,
+                "var_per": " -4,8%",
+                "PERIODO2": "2020/06/01"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "VL_FOB": 19453592020,
+                "var_abs": -697291149,
+                "var_per": " -3,5%",
+                "PERIODO2": "2020/07/01"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "VL_FOB": 17484221076,
+                "var_abs": -2185304172,
+                "var_per": "-11,1%",
+                "PERIODO2": "2020/08/01"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "VL_FOB": 18242323594,
+                "var_abs": -2056084183,
+                "var_per": "-10,1%",
+                "PERIODO2": "2020/09/01"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "VL_FOB": 17727073168,
+                "var_abs": -1849766063,
+                "var_per": " -9,4%",
+                "PERIODO2": "2020/10/01"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "VL_FOB": 17446678403,
+                "var_abs": -290036795,
+                "var_per": " -1,6%",
+                "PERIODO2": "2020/11/01"
+            },
+            {
+                "PERIODO": "Total",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "VL_FOB": 18365229102,
+                "var_abs": -137748089,
+                "var_per": " -0,7%",
+                "PERIODO2": "2020/12/01"
+            },
+            {
+                "PERIODO": "Jan-Dez",
+                "CO_ANO": "2020",
+                "TIPO": "EXP",
+                "VL_FOB": 209817407075,
+                "var_abs": -15566075393,
+                "var_per": " -6,9%",
+                "PERIODO2": "Jan-Dez/2020"
+            }
+        ]
+    }
+}
