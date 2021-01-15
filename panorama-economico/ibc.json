@@ -12,7 +12,7 @@
             "referencia": "Jan-Out/2020",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
-                "label": "%"
+                "label": ""
             },
             "serie_labels": {
                 "x": "Data",
