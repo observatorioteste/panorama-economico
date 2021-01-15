@@ -3,7 +3,12 @@
         "indice": "IBC-BR",
         "nome": "Índice de Atividade Econômica do Banco Central (IBC-Br)",
         "descricao": "Variação em relação ao mesmo período do ano anterior",
-        "lç           {
+        "fonte": "IBC",
+        "descricao_serie": "Variação mensal",
+        "referencia": "Jan-Out/2020",
+        "valor": "-4.83",
+        "serie": [
+            {
                 "data": "01/01/2019",
                 "valor": "139.03"
             },
