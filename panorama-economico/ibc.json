@@ -1,7 +1,7 @@
 {
     "nome": "Índice de Atividade Econômica",
     "descricao": "Variação percentual em relação ao mesmo período do ano anterior",
-    "fonte": "IBC",
+    "fonte": "(IBC)",
     "stats": [
         {
             "titulo": "Brasil",
