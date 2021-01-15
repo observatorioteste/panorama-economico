@@ -9,7 +9,7 @@
             "direcao": "down",
             "desc_serie": "Variação mensal",
             "serie_tipo": "data",
-            "referencia": "11/2020",
+            "referencia": "Nov/2020",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
