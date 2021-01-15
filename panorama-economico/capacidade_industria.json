@@ -3,7 +3,10 @@
     "descricao": "-",
     "referencia": "Out/2020",
     "fonte": "CNI",
-    "serie_capacidam8.3
+    "serie_capacidade_industria": [
+        {
+            "referencia": "2020-01",
+            "valor": 78.3
         },
         {
             "referencia": "2020-02",
