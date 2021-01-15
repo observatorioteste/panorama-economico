@@ -1,72 +1,99 @@
 {
-    "desocupacao_nacional": {
-        "referencia": "3º trimestre 2020",
-        "valor_nacional": "14.6",
-        "descricao": "Percentual no trimestre (IBGE)",
-        "serie_brasil": [
-            {
-                "mes": 201901,
-                "valor": "12.7"
+    "nome": "Taxa de Desocupação",
+    "descricao": "Variação percentual trimestral",
+    "fonte": "(IBGE)",
+    "stats": [
+        {
+            "titulo": "Brasil",
+            "valor": "14.6%",
+            "direcao": "up",
+            "desc_serie": "Variação percentual trimestral",
+            "serie_tipo": "data",
+            "referencia": "Jul-Set/2020",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": "%"
             },
-            {
-                "mes": 201902,
-                "valor": "12.0"
+            "serie_labels": {
+                "x": "Data",
+                "y": "Valor"
             },
-            {
-                "mes": 201903,
-                "valor": "11.8"
+            "serie": [
+                {
+                    "x": "2019-01-01T00:00:00Z",
+                    "y": 12.7
+                },
+                {
+                    "x": "2019-02-01T00:00:00Z",
+                    "y": 12.0
+                },
+                {
+                    "x": "2019-03-01T00:00:00Z",
+                    "y": 11.8
+                },
+                {
+                    "x": "2019-04-01T00:00:00Z",
+                    "y": 11.0
+                },
+                {
+                    "x": "2020-01-01T00:00:00Z",
+                    "y": 12.2
+                },
+                {
+                    "x": "2020-02-01T00:00:00Z",
+                    "y": 13.3
+                },
+                {
+                    "x": "2020-03-01T00:00:00Z",
+                    "y": 14.6
+                }
+            ]
+        },
+        {
+            "titulo": "Goiás",
+            "valor": "13.2%",
+            "direcao": "up",
+            "desc_serie": "Variação percentual trimestral",
+            "serie_tipo": "data",
+            "referencia": "Jul-Set/2020",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": "%"
             },
-            {
-                "mes": 201904,
-                "valor": "11.0"
+            "serie_labels": {
+                "x": "Data",
+                "y": "Valor"
             },
-            {
-                "mes": 202001,
-                "valor": "12.2"
-            },
-            {
-                "mes": 202002,
-                "valor": "13.3"
-            },
-            {
-                "mes": 202003,
-                "valor": "14.6"
-            }
-        ]
-    },
-    "desocupacao_regional": {
-        "valor_regional": "13.2",
-        "referencia": "3º trimestre 2020",
-        "serie_goias": [
-            {
-                "mes": 201901,
-                "valor": "10.7"
-            },
-            {
-                "mes": 201902,
-                "valor": "10.5"
-            },
-            {
-                "mes": 201903,
-                "valor": "10.8"
-            },
-            {
-                "mes": 201904,
-                "valor": "10.4"
-            },
-            {
-                "mes": 202001,
-                "valor": "11.3"
-            },
-            {
-                "mes": 202002,
-                "valor": "12.8"
-            },
-            {
-                "mes": 202003,
-                "valor": "13.2"
-            }
-        ],
-        "descricao": "Percentual no trimestre (IBGE)"
-    }
+            "serie": [
+                {
+                    "x": "2019-01-01T00:00:00Z",
+                    "y": 10.7
+                },
+                {
+                    "x": "2019-02-01T00:00:00Z",
+                    "y": 10.5
+                },
+                {
+                    "x": "2019-03-01T00:00:00Z",
+                    "y": 10.8
+                },
+                {
+                    "x": "2019-04-01T00:00:00Z",
+                    "y": 10.4
+                },
+                {
+                    "x": "2020-01-01T00:00:00Z",
+                    "y": 11.3
+                },
+                {
+                    "x": "2020-02-01T00:00:00Z",
+                    "y": 12.8
+                },
+                {
+                    "x": "2020-03-01T00:00:00Z",
+                    "y": 13.2
+                }
+            ]
+        }
+    ]
 }
