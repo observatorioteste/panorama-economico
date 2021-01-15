@@ -1,5 +1,5 @@
 {
-    "nome": "índice de Atividade Econômica",
+    "nome": "Índice de Atividade Econômica",
     "descricao": "Variação percentual em relação ao mesmo período do ano anterior",
     "fonte": "IBC",
     "stats": [
@@ -16,7 +16,7 @@
             },
             "serie_labels": {
                 "x": "Data",
-                "y": "Variação"
+                "y": "Valor"
             },
             "serie": [
                 {
