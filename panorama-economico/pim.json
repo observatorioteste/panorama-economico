@@ -1,112 +1,131 @@
 {
-    "goias": {
-        "indice": "PIM_PF_REGIONAL",
-        "nome": "Pesquisa Industrial Mensal - Produção Física - PIM PF - Regional",
-        "descricao": "Variação em relação ao mesmo período do ano anterior",
-        "fonte": "IBGE",
-        "referencia": "nov/2020",
-        "valor_regional": "0.4%",
-        "serie_historica_regional": [
-            {
-                "mes": 202001,
-                "valor": "-1.1"
+    "nome": "Produção Física Industrial",
+    "descricao": "Variação percentual em relação ao mesmo período do ano anterior",
+    "fonte": "(IBGE)",
+    "stats": [
+        {
+            "titulo": "Brasil",
+            "valor": "5.5%",
+            "direcao": "down",
+            "desc_serie": "Variação percentual acumulada no ano (Base: igual período do ano anterior)",
+            "serie_tipo": "data",
+            "referencia": "Nov/2020",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": "%"
             },
-            {
-                "mes": 202002,
-                "valor": "-1.3"
+            "serie_labels": {
+                "x": "Data",
+                "y": "Valor"
             },
-            {
-                "mes": 202003,
-                "valor": "-1.2"
+            "serie": [
+                {
+                    "x": "2020-01-01T00:00:00Z",
+                    "y": -0.9
+                },
+                {
+                    "x": "2020-02-01T00:00:00Z",
+                    "y": -0.6
+                },
+                {
+                    "x": "2020-03-01T00:00:00Z",
+                    "y": -1.7
+                },
+                {
+                    "x": "2020-04-01T00:00:00Z",
+                    "y": -8.3
+                },
+                {
+                    "x": "2020-05-01T00:00:00Z",
+                    "y": -11.3
+                },
+                {
+                    "x": "2020-06-01T00:00:00Z",
+                    "y": -10.9
+                },
+                {
+                    "x": "2020-07-01T00:00:00Z",
+                    "y": -9.6
+                },
+                {
+                    "x": "2020-08-01T00:00:00Z",
+                    "y": -8.6
+                },
+                {
+                    "x": "2020-09-01T00:00:00Z",
+                    "y": -7.1
+                },
+                {
+                    "x": "2020-10-01T00:00:00Z",
+                    "y": -6.3
+                },
+                {
+                    "x": "2020-11-01T00:00:00Z",
+                    "y": -5.5
+                }
+            ]
+        },
+        {
+            "titulo": "Goiás",
+            "valor": "0.4%",
+            "direcao": "up",
+            "desc_serie": "Variação percentual acumulada no ano (Base: igual período do ano anterior)",
+            "serie_tipo": "data",
+            "referencia": "Nov/2020",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": "%"
             },
-            {
-                "mes": 202004,
-                "valor": "-1.0"
+            "serie_labels": {
+                "x": "Data",
+                "y": "Valor"
             },
-            {
-                "mes": 202005,
-                "valor": "-0.3"
-            },
-            {
-                "mes": 202006,
-                "valor": "1.1"
-            },
-            {
-                "mes": 202007,
-                "valor": "1.6"
-            },
-            {
-                "mes": 202008,
-                "valor": "1.8"
-            },
-            {
-                "mes": 202009,
-                "valor": "2.1"
-            },
-            {
-                "mes": 202010,
-                "valor": "0.8"
-            },
-            {
-                "mes": 202011,
-                "valor": "0.4"
-            }
-        ],
-        "peridodicidades": 39
-    },
-    "brasil": {
-        "indice": "PIM_PF_BR",
-        "nome": "Pesquisa Industrial Mensal - Produção Física - PIM PF - Brasil",
-        "descricao": "Variação em relação ao mesmo período do ano anterior",
-        "fonte": "IBGE",
-        "referencia": "nov/2020",
-        "valor_nacional": "-5.5",
-        "serie_historica_nacional": [
-            {
-                "mes": 202001,
-                "valor": "-0.9"
-            },
-            {
-                "mes": 202002,
-                "valor": "-0.6"
-            },
-            {
-                "mes": 202003,
-                "valor": "-1.7"
-            },
-            {
-                "mes": 202004,
-                "valor": "-8.3"
-            },
-            {
-                "mes": 202005,
-                "valor": "-11.3"
-            },
-            {
-                "mes": 202006,
-                "valor": "-10.9"
-            },
-            {
-                "mes": 202007,
-                "valor": "-9.6"
-            },
-            {
-                "mes": 202008,
-                "valor": "-8.6"
-            },
-            {
-                "mes": 202009,
-                "valor": "-7.1"
-            },
-            {
-                "mes": 202010,
-                "valor": "-6.3"
-            },
-            {
-                "mes": 202011,
-                "valor": "-5.5"
-            }
-        ],
-        "peridodicidade": 30
-    }
+            "serie": [
+                {
+                    "x": "2020-01-01T00:00:00Z",
+                    "y": "-1.1"
+                },
+                {
+                    "x": "2020-02-01T00:00:00Z",
+                    "y": "-1.3"
+                },
+                {
+                    "x": "2020-03-01T00:00:00Z",
+                    "y": "-1.2"
+                },
+                {
+                    "x": "2020-04-01T00:00:00Z",
+                    "y": "-1.0"
+                },
+                {
+                    "x": "2020-05-01T00:00:00Z",
+                    "y": "-0.3"
+                },
+                {
+                    "x": "2020-06-01T00:00:00Z",
+                    "y": "1.1"
+                },
+                {
+                    "x": "2020-07-01T00:00:00Z",
+                    "y": "1.6"
+                },
+                {
+                    "x": "2020-08-01T00:00:00Z",
+                    "y": "1.8"
+                },
+                {
+                    "x": "2020-09-01T00:00:00Z",
+                    "y": "2.1"
+                },
+                {
+                    "x": "2020-10-01T00:00:00Z",
+                    "y": "0.8"
+                },
+                {
+                    "x": "2020-11-01T00:00:00Z",
+                    "y": "0.4"
+                }
+            ]
+        }
+    ]
 }
