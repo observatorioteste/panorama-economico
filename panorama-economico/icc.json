@@ -16,7 +16,7 @@
             },
             "serie_labels": {
                 "x": "Data",
-                "y": "Variação"
+                "y": "Valor"
             },
             "serie": [
                 {
