@@ -1,168 +1,139 @@
 {
-    "inpc_nacional": {
-        "nome_indice": "INPC - Índice Nacional de Preços ao Consumidor",
-        "fonte": "SIDRA - IBGE",
-        "referencia": 202012,
-        "referencia_extenso": "Dez/2020",
-        "cartao_nacional": "1.46",
-        "descricao_cartao": "Variação mensal (%)",
-        "serie_nacional": [
-            {
-                "mes": 201901,
-                "valor": "0.36"
+    "nome": "Índice Nacional de Preços ao Consumidor - INPC",
+    "descricao": "Variação percentual mensal",
+    "fonte": "(IBGE)",
+    "stats": [
+        {
+            "titulo": "Brasil",
+            "valor": 1.46,
+            "direcao": "up",
+            "desc_serie": "Variação percentual mensal",
+            "serie_tipo": "data",
+            "referencia": "Dez/2020",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": "%"
             },
-            {
-                "mes": 201902,
-                "valor": "0.54"
+            "serie_labels": {
+                "x": "Data",
+                "y": "Variação"
             },
-            {
-                "mes": 201903,
-                "valor": "0.77"
+            "serie": [
+                {
+                    "x": "2020-01-01T00:00:00Z",
+                    "y": "0.19"
+                },
+                {
+                    "x": "2020-02-01T00:00:00Z",
+                    "y": "0.17"
+                },
+                {
+                    "x": "2020-03-01T00:00:00Z",
+                    "y": "0.18"
+                },
+                {
+                    "x": "2020-04-01T00:00:00Z",
+                    "y": "-0.23"
+                },
+                {
+                    "x": "2020-05-01T00:00:00Z",
+                    "y": "-0.25"
+                },
+                {
+                    "x": "2020-06-01T00:00:00Z",
+                    "y": "0.30"
+                },
+                {
+                    "x": "2020-07-01T00:00:00Z",
+                    "y": "0.44"
+                },
+                {
+                    "x": "2020-08-01T00:00:00Z",
+                    "y": "0.36"
+                },
+                {
+                    "x": "2020-09-01T00:00:00Z",
+                    "y": "0.87"
+                },
+                {
+                    "x": "2020-10-01T00:00:00Z",
+                    "y": "0.89"
+                },
+                {
+                    "x": "2020-11-01T00:00:00Z",
+                    "y": "0.95"
+                },
+                {
+                    "x": "2020-12-01T00:00:00Z",
+                    "y": "1.46"
+                }
+            ]
+        },
+        {
+            "titulo": "Brasil",
+            "valor": 1.39,
+            "direcao": "up",
+            "desc_serie": "Variação percentual mensal",
+            "serie_tipo": "data",
+            "referencia": "Dez/2020",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": "%"
             },
-            {
-                "mes": 201904,
-                "valor": "0.60"
+            "serie_labels": {
+                "x": "Data",
+                "y": "Variação"
             },
-            {
-                "mes": 201905,
-                "valor": "0.15"
-            },
-            {
-                "mes": 201906,
-                "valor": "0.01"
-            },
-            {
-                "mes": 201907,
-                "valor": "0.10"
-            },
-            {
-                "mes": 201908,
-                "valor": "0.12"
-            },
-            {
-                "mes": 201909,
-                "valor": "-0.05"
-            },
-            {
-                "mes": 201910,
-                "valor": "0.04"
-            },
-            {
-                "mes": 201911,
-                "valor": "0.54"
-            },
-            {
-                "mes": 201912,
-                "valor": "1.22"
-            },
-            {
-                "mes": 202001,
-                "valor": "0.19"
-            },
-            {
-                "mes": 202002,
-                "valor": "0.17"
-            },
-            {
-                "mes": 202003,
-                "valor": "0.18"
-            },
-            {
-                "mes": 202004,
-                "valor": "-0.23"
-            },
-            {
-                "mes": 202005,
-                "valor": "-0.25"
-            },
-            {
-                "mes": 202006,
-                "valor": "0.30"
-            },
-            {
-                "mes": 202007,
-                "valor": "0.44"
-            },
-            {
-                "mes": 202008,
-                "valor": "0.36"
-            },
-            {
-                "mes": 202009,
-                "valor": "0.87"
-            },
-            {
-                "mes": 202010,
-                "valor": "0.89"
-            },
-            {
-                "mes": 202011,
-                "valor": "0.95"
-            },
-            {
-                "mes": 202012,
-                "valor": "1.46"
-            }
-        ],
-        "periodicidade": "-"
-    },
-    "inpc_regional": {
-        "nome_indice": "INPC - Índice Nacional de Preços ao Consumidor",
-        "fonte": "SIDRA - IBGE",
-        "referencia": 202012,
-        "referencia_extenso": "Dez/2020",
-        "cartao_regional": "5.05",
-        "descricao_cartao": "Variação mensal (%)",
-        "serie_regional": [
-            {
-                "mes": 202001,
-                "valor": "0.06"
-            },
-            {
-                "mes": 202002,
-                "valor": "0.05"
-            },
-            {
-                "mes": 202003,
-                "valor": "-0.67"
-            },
-            {
-                "mes": 202004,
-                "valor": "-0.25"
-            },
-            {
-                "mes": 202005,
-                "valor": "-0.12"
-            },
-            {
-                "mes": 202006,
-                "valor": "0.05"
-            },
-            {
-                "mes": 202007,
-                "valor": "0.36"
-            },
-            {
-                "mes": 202008,
-                "valor": "0.61"
-            },
-            {
-                "mes": 202009,
-                "valor": "1.27"
-            },
-            {
-                "mes": 202010,
-                "valor": "0.81"
-            },
-            {
-                "mes": 202011,
-                "valor": "1.40"
-            },
-            {
-                "mes": 202012,
-                "valor": "1.39"
-            }
-        ],
-        "periodicidade": "-"
-    }
+            "serie": [
+                {
+                    "x": "2020-01-01T00:00:00Z",
+                    "y": "0.06"
+                },
+                {
+                    "x": "2020-02-01T00:00:00Z",
+                    "y": "0.05"
+                },
+                {
+                    "x": "2020-03-01T00:00:00Z",
+                    "y": "-0.67"
+                },
+                {
+                    "x": "2020-04-01T00:00:00Z",
+                    "y": "-0.25"
+                },
+                {
+                    "x": "2020-05-01T00:00:00Z",
+                    "y": "-0.12"
+                },
+                {
+                    "x": "2020-06-01T00:00:00Z",
+                    "y": "0.05"
+                },
+                {
+                    "x": "2020-07-01T00:00:00Z",
+                    "y": "0.36"
+                },
+                {
+                    "x": "2020-08-01T00:00:00Z",
+                    "y": "0.61"
+                },
+                {
+                    "x": "2020-09-01T00:00:00Z",
+                    "y": "1.27"
+                },
+                {
+                    "x": "2020-10-01T00:00:00Z",
+                    "y": "0.81"
+                },
+                {
+                    "x": "2020-11-01T00:00:00Z",
+                    "y": "1.40"
+                },
+                {
+                    "x": "2020-12-01T00:00:00Z",
+                    "y": "1.39"
+                }
+            ]
+        }
+    ]
 }
