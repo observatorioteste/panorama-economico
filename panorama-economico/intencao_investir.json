@@ -1,56 +1,73 @@
 {
-    "valor": 59.1,
-    "descricao": "-",
-    "referencia": "Dez/2020",
-    "fonte": "CNI",
-    "serie_intencao_investir": [
+    "nome": "Utilização da Capacidade Instalada da Indústria",
+    "descricao": "O índice varia de 0 a 100. Valores acima de 50 pontos indicam que a capacidade ficou acima do usual para o mês.",
+    "fonte": "(CNI)",
+    "stats": [
         {
-            "referencia": "2020-01",
-            "valor": 59.2
-        },
-        {
-            "referencia": "2020-02",
-            "valor": 58.7
-        },
-        {
-            "referencia": "2020-03",
-            "valor": 58.3
-        },
-        {
-            "referencia": "2020-04",
-            "valor": 36.7
-        },
-        {
-            "referencia": "2020-05",
-            "valor": 36.9
-        },
-        {
-            "referencia": "2020-06",
-            "valor": 41.4
-        },
-        {
-            "referencia": "2020-07",
-            "valor": 46.7
-        },
-        {
-            "referencia": "2020-08",
-            "valor": 51
-        },
-        {
-            "referencia": "2020-09",
-            "valor": 55.3
-        },
-        {
-            "referencia": "2020-10",
-            "valor": 57.2
-        },
-        {
-            "referencia": "2020-11",
-            "valor": 59.3
-        },
-        {
-            "referencia": "2020-12",
-            "valor": 59.1
+            "titulo": "Brasil",
+            "valor": 59.1,
+            "direcao": "down",
+            "desc_serie": "O índice varia de 0 a 100. Valores acima de 50 pontos indicam que a capacidade ficou acima do usual para o mês",
+            "serie_tipo": "data",
+            "referencia": "Dez/2020",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": "%"
+            },
+            "serie_labels": {
+                "x": "Data",
+                "y": "Variação"
+            },
+            "serie": [
+                {
+                    "x": "2020-01-01T00:00:00Z",
+                    "y": 59.2
+                },
+                {
+                    "x": "2020-02-01T00:00:00Z",
+                    "y": 58.7
+                },
+                {
+                    "x": "2020-03-01T00:00:00Z",
+                    "y": 58.3
+                },
+                {
+                    "x": "2020-04-01T00:00:00Z",
+                    "y": 36.7
+                },
+                {
+                    "x": "2020-05-01T00:00:00Z",
+                    "y": 36.9
+                },
+                {
+                    "x": "2020-06-01T00:00:00Z",
+                    "y": 41.4
+                },
+                {
+                    "x": "2020-07-01T00:00:00Z",
+                    "y": 46.7
+                },
+                {
+                    "x": "2020-08-01T00:00:00Z",
+                    "y": 51
+                },
+                {
+                    "x": "2020-09-01T00:00:00Z",
+                    "y": 55.3
+                },
+                {
+                    "x": "2020-10-01T00:00:00Z",
+                    "y": 57.2
+                },
+                {
+                    "x": "2020-11-01T00:00:00Z",
+                    "y": 59.3
+                },
+                {
+                    "x": "2020-12-01T00:00:00Z",
+                    "y": 59.1
+                }
+            ]
         }
     ]
 }
