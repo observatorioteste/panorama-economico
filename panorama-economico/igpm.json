@@ -1,135 +1,149 @@
 {
-    "igpm_dados": [
+    "nome": "Índice Geral de Preços – Mercado  - IGP-M",
+    "descricao": "#",
+    "fonte": "(FGV)",
+    "stats": [
         {
-            "2020": [
+            "titulo": "Brasil",
+            "valor": "0,98",
+            "direcao": "up",
+            "desc_serie": "#",
+            "serie_tipo": "data",
+            "referencia": [
+                "Dez/2020",
+                "Jan/2019"
+            ],
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": "%"
+            },
+            "serie_labels": {
+                "x": "Data",
+                "y": "Variação",
+                "y2": "Acumulado no ano"
+            },
+            "serie": [
                 {
-                    "acumulado_mes": "0,48",
-                    "mes": "Janeiro",
-                    "mensal": "0,48"
+                    "x": "2020-01-01T00:00:00Z",
+                    "y": "0,48",
+                    "y2": "0,48"
                 },
                 {
-                    "acumulado_mes": "0,4398",
-                    "mes": "Fevereiro",
-                    "mensal": "-0,04"
+                    "x": "2020-02-01T00:00:00Z",
+                    "y": "-0,04",
+                    "y2": "0,4398"
                 },
                 {
-                    "acumulado_mes": "1,6853",
-                    "mes": "Março",
-                    "mensal": "1,24"
+                    "x": "2020-03-01T00:00:00Z",
+                    "y": "1,24",
+                    "y2": "1,6853"
                 },
                 {
-                    "acumulado_mes": "2,4987",
-                    "mes": "Abril",
-                    "mensal": "0,8"
+                    "x": "2020-04-01T00:00:00Z",
+                    "y": "0,8",
+                    "y2": "2,4987"
                 },
                 {
-                    "acumulado_mes": "2,7857",
-                    "mes": "Maio",
-                    "mensal": "0,28"
+                    "x": "2020-05-01T00:00:00Z",
+                    "y": "0,28",
+                    "y2": "2,7857"
                 },
                 {
-                    "acumulado_mes": "4,3892",
-                    "mes": "Junho",
-                    "mensal": "1,56"
+                    "x": "2020-06-01T00:00:00Z",
+                    "y": "1,56",
+                    "y2": "4,3892"
                 },
                 {
-                    "acumulado_mes": "6,7171",
-                    "mes": "Julho",
-                    "mensal": "2,23"
+                    "x": "2020-07-01T00:00:00Z",
+                    "y": "2,23",
+                    "y2": "6,7171"
                 },
                 {
-                    "acumulado_mes": "9,6411",
-                    "mes": "Agosto",
-                    "mensal": "2,74"
+                    "x": "2020-08-01T00:00:00Z",
+                    "y": "2,74",
+                    "y2": "9,6411"
                 },
                 {
-                    "acumulado_mes": "14,3995",
-                    "mes": "Setembro",
-                    "mensal": "4,34"
+                    "x": "2020-09-01T00:00:00Z",
+                    "y": "4,34",
+                    "y2": "14,3995"
                 },
                 {
-                    "acumulado_mes": "18,0947",
-                    "mes": "Outubro",
-                    "mensal": "3,23"
+                    "x": "2020-10-01T00:00:00Z",
+                    "y": "3,23",
+                    "y2": "18,0947"
                 },
                 {
-                    "acumulado_mes": "21,9682",
-                    "mes": "Novembro",
-                    "mensal": "3,28"
+                    "x": "2020-11-01T00:00:00Z",
+                    "y": "3,28",
+                    "y2": "21,9682"
                 },
                 {
-                    "acumulado_mes": "23,1391",
-                    "mes": "Dezembro",
-                    "mensal": "0,98"
-                }
-            ]
-        },
-        {
-            "2019": [
-                {
-                    "acumulado_mes": "0,01",
-                    "mes": "Janeiro",
-                    "mensal": "0,01"
+                    "x": "2020-12-01T00:00:00Z",
+                    "y": "0,98",
+                    "y2": "23,1391"
                 },
                 {
-                    "acumulado_mes": "0,8901",
-                    "mes": "Fevereiro",
-                    "mensal": "0,88"
+                    "x": "2019-01-01T00:00:00Z",
+                    "y": "0,01",
+                    "y2": "0,01"
                 },
                 {
-                    "acumulado_mes": "2,1613",
-                    "mes": "Março",
-                    "mensal": "1,26"
+                    "x": "2019-02-01T00:00:00Z",
+                    "y": "0,88",
+                    "y2": "0,8901"
                 },
                 {
-                    "acumulado_mes": "3,1012",
-                    "mes": "Abril",
-                    "mensal": "0,92"
+                    "x": "2019-03-01T00:00:00Z",
+                    "y": "1,26",
+                    "y2": "2,1613"
                 },
                 {
-                    "acumulado_mes": "3,5651",
-                    "mes": "Maio",
-                    "mensal": "0,45"
+                    "x": "2019-04-01T00:00:00Z",
+                    "y": "0,92",
+                    "y2": "3,1012"
                 },
                 {
-                    "acumulado_mes": "4,3937",
-                    "mes": "Junho",
-                    "mensal": "0,8"
+                    "x": "2019-05-01T00:00:00Z",
+                    "y": "0,45",
+                    "y2": "3,5651"
                 },
                 {
-                    "acumulado_mes": "4,8112",
-                    "mes": "Julho",
-                    "mensal": "0,4"
+                    "x": "2019-06-01T00:00:00Z",
+                    "y": "0,8",
+                    "y2": "4,3937"
                 },
                 {
-                    "acumulado_mes": "4,109",
-                    "mes": "Agosto",
-                    "mensal": "-0,67"
+                    "x": "2019-07-01T00:00:00Z",
+                    "y": "0,4",
+                    "y2": "4,8112"
                 },
                 {
-                    "acumulado_mes": "4,0986",
-                    "mes": "Setembro",
-                    "mensal": "-0,01"
+                    "x": "2019-08-01T00:00:00Z",
+                    "y": "-0,67",
+                    "y2": "4,109"
                 },
                 {
-                    "acumulado_mes": "4,8065",
-                    "mes": "Outubro",
-                    "mensal": "0,68"
+                    "x": "2019-09-01T00:00:00Z",
+                    "y": "-0,01",
+                    "y2": "4,0986"
                 },
                 {
-                    "acumulado_mes": "5,1209",
-                    "mes": "Novembro",
-                    "mensal": "0,3"
+                    "x": "2019-10-01T00:00:00Z",
+                    "y": "0,68",
+                    "y2": "4,8065"
                 },
                 {
-                    "acumulado_mes": "7,3179",
-                    "mes": "Dezembro",
-                    "mensal": "2,09"
+                    "x": "2019-11-01T00:00:00Z",
+                    "y": "0,3",
+                    "y2": "5,1209"
+                },
+                {
+                    "x": "2019-12-01T00:00:00Z",
+                    "y": "2,09",
+                    "y2": "7,3179"
                 }
             ]
         }
-    ],
-    "nome_indice": "Índice Geral de Preços do Mercado - IGP-M",
-    "fonte": "FGV",
-    "referencia": "Jan/2019-Dez/2020"
+    ]
 }
