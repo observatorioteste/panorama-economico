@@ -7,14 +7,12 @@
             "titulo": "Brasil",
             "valor": 49004,
             "direcao": "up",
-            "serie_tipo": "data",
             "referencia": "Nov/2020"
         },
         {
             "titulo": "Goiás",
             "valor": -1802,
             "direcao": "down",
-            "serie_tipo": "data",
             "referencia": "Nov/2020"
         }
     ]
