@@ -1,52 +1,69 @@
 {
-    "valor": 44.1,
-    "descricao": "-",
-    "referencia": "Nov/2020",
-    "fonte": "CNI",
-    "serie_estoque_efetivo": [
+    "nome": "Estoque efetivo em relação ao planejado da Indústria",
+    "descricao": "O índice varia de 0 a 100. Quanto mais próximo de 0, maior o estoques vendido, mais próximo de 100, maior o estoque mantido.",
+    "fonte": "(CNI)",
+    "stats": [
         {
-            "referencia": "2020-01",
-            "valor": 49.1
-        },
-        {
-            "referencia": "2020-02",
-            "valor": 49.6
-        },
-        {
-            "referencia": "2020-03",
-            "valor": 49.9
-        },
-        {
-            "referencia": "2020-04",
-            "valor": 49.8
-        },
-        {
-            "referencia": "2020-05",
-            "valor": 47.4
-        },
-        {
-            "referencia": "2020-06",
-            "valor": 46
-        },
-        {
-            "referencia": "2020-07",
-            "valor": 46
-        },
-        {
-            "referencia": "2020-08",
-            "valor": 45.2
-        },
-        {
-            "referencia": "2020-09",
-            "valor": 43.4
-        },
-        {
-            "referencia": "2020-10",
-            "valor": 43.3
-        },
-        {
-            "referencia": "2020-11",
-            "valor": 44.1
+            "titulo": "Brasil",
+            "valor": 44.1,
+            "direcao": "down",
+            "desc_serie": "O índice varia de 0 a 100. Quanto mais próximo de 0, maior o estoques vendido, mais próximo de 100, maior o estoque mantido.",
+            "serie_tipo": "data",
+            "referencia": "Nov/2020",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": ""
+            },
+            "serie_labels": {
+                "x": "Data",
+                "y": "Valor"
+            },
+            "serie": [
+                {
+                    "x": "2020-01-01T00:00:00Z",
+                    "y": 49.1
+                },
+                {
+                    "x": "2020-02-01T00:00:00Z",
+                    "y": 49.6
+                },
+                {
+                    "x": "2020-03-01T00:00:00Z",
+                    "y": 49.9
+                },
+                {
+                    "x": "2020-04-01T00:00:00Z",
+                    "y": 49.8
+                },
+                {
+                    "x": "2020-05-01T00:00:00Z",
+                    "y": 47.4
+                },
+                {
+                    "x": "2020-06-01T00:00:00Z",
+                    "y": 46
+                },
+                {
+                    "x": "2020-07-01T00:00:00Z",
+                    "y": 46
+                },
+                {
+                    "x": "2020-08-01T00:00:00Z",
+                    "y": 45.2
+                },
+                {
+                    "x": "2020-09-01T00:00:00Z",
+                    "y": 43.4
+                },
+                {
+                    "x": "2020-10-01T00:00:00Z",
+                    "y": 43.3
+                },
+                {
+                    "x": "2020-11-01T00:00:00Z",
+                    "y": 44.1
+                }
+            ]
         }
     ]
 }
