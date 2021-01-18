@@ -1,13 +1,13 @@
 {
-    "nome": "Utilização da Capacidade Instalada da Indústria",
-    "descricao": "O índice varia de 0 a 100. Valores acima de 50 pontos indicam que a capacidade ficou acima do usual para o mês.",
+    "nome": "Intenção de Investir na Indústria",
+    "descricao": "O índice varia de 0 a 100. Quanto maior é o índice, maior a intenção de investir.",
     "fonte": "(CNI)",
     "stats": [
         {
             "titulo": "Brasil",
             "valor": 59.1,
             "direcao": "down",
-            "desc_serie": "O índice varia de 0 a 100. Valores acima de 50 pontos indicam que a capacidade ficou acima do usual para o mês",
+            "desc_serie": "O índice varia de 0 a 100. Quanto maior é o índice, maior a intenção de investir.",
             "serie_tipo": "data",
             "referencia": "Dez/2020",
             "y_label": {
