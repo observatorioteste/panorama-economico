@@ -1,20 +1,41 @@
 {
-    "novo_caged": {
-        "indice": "NOVO CAGED",
-        "nome": "Cadastro Geral de Empregados e Desempregados - CAGED",
-        "descricao": "-",
-        "fonte": "Ministério do Trabalho",
-        "referencia": "202011",
-        "saldo_ultimo_mes_br": {
-            "saldo": 49004,
-            "desligamentos": -189300,
-            "admissoes": 238304
+    "nome": "Saldo de Empregados da Ind. de Tranformação",
+    "descricao": "(Saldo de empregos = admitidos - desligados)",
+    "fonte": "[CAGED]",
+    "stats": [
+        {
+            "titulo": "Brasil",
+            "valor": 49004,
+            "direcao": "up",
+            "desc_serie": "#",
+            "serie_tipo": "data",
+            "referencia": "202011",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": "%"
+            },
+            "serie_labels": {
+                "x": "#",
+                "y": "#"
+            },
+            "serie": "#"
         },
-        "saldo_ultimo_mes_go": {
-            "saldo": -1802,
-            "desligamentos": -9982,
-            "admissoes": 8180
-        },
-        "periodicidade": "mensal"
-    }
+        {
+            "titulo": "Goiás",
+            "valor": -1802,
+            "direcao": "down",
+            "desc_serie": "#",
+            "serie_tipo": "data",
+            "referencia": "202011",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": "%"
+            },
+            "serie_labels": {
+                "x": "#",
+                "y": "#"
+            },
+            "serie": "#"
+        }
+    ]
 }
