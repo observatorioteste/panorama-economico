@@ -1,0 +1,21 @@
+{
+    "nome": "Saldo de Empregados da Ind. de Tranformação",
+    "descricao": "(Saldo de empregos = admitidos - desligados)",
+    "fonte": "[CAGED]",
+    "stats": [
+        {
+            "titulo": "Brasil",
+            "valor": 49004,
+            "direcao": "up",
+            "serie_tipo": "data",
+            "referencia": "Nov/2020"
+        },
+        {
+            "titulo": "Goiás",
+            "valor": -1802,
+            "direcao": "down",
+            "serie_tipo": "data",
+            "referencia": "Nov/2020"
+        }
+    ]
+}
