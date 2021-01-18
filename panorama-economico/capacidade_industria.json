@@ -1,48 +1,65 @@
 {
-    "valor": 80.3,
-    "descricao": "-",
-    "referencia": "Out/2020",
-    "fonte": "CNI",
-    "serie": [
+    "nome": "Utilização da Capacidade Instalada da Indústria",
+    "descricao": "O índice varia de 0 a 100. Valores acima de 50 pontos indicam que a capacidade ficou acima do usual para o mês.",
+    "fonte": "(CNI)",
+    "stats": [
         {
-            "referencia": "2020-01",
-            "valor": 78.3
-        },
-        {
-            "referencia": "2020-02",
-            "valor": 78.8
-        },
-        {
-            "referencia": "2020-03",
-            "valor": 76.1
-        },
-        {
-            "referencia": "2020-04",
-            "valor": 66.5
-        },
-        {
-            "referencia": "2020-05",
-            "valor": 70.6
-        },
-        {
-            "referencia": "2020-06",
-            "valor": 72.9
-        },
-        {
-            "referencia": "2020-07",
-            "valor": 76
-        },
-        {
-            "referencia": "2020-08",
-            "valor": 77.9
-        },
-        {
-            "referencia": "2020-09",
-            "valor": 79.4
-        },
-        {
-            "referencia": "2020-10",
-            "valor": 80.3
+            "titulo": "Brasil",
+            "valor": 80.3,
+            "direcao": "down",
+            "desc_serie": "O índice varia de 0 a 100. Valores acima de 50 pontos indicam que a capacidade ficou acima do usual para o mês",
+            "serie_tipo": "data",
+            "referencia": "Out/2020",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": "%"
+            },
+            "serie_labels": {
+                "x": "Data",
+                "y": "Variação"
+            },
+            "serie": [
+                {
+                    "referencia": "2020-01-01T00:00:00Z",
+                    "valor": 78.3
+                },
+                {
+                    "referencia": "2020-02-01T00:00:00Z",
+                    "valor": 78.8
+                },
+                {
+                    "referencia": "2020-03-01T00:00:00Z",
+                    "valor": 76.1
+                },
+                {
+                    "referencia": "2020-04-01T00:00:00Z",
+                    "valor": 66.5
+                },
+                {
+                    "referencia": "2020-05-01T00:00:00Z",
+                    "valor": 70.6
+                },
+                {
+                    "referencia": "2020-06-01T00:00:00Z",
+                    "valor": 72.9
+                },
+                {
+                    "referencia": "2020-07-01T00:00:00Z",
+                    "valor": 76
+                },
+                {
+                    "referencia": "2020-08-01T00:00:00Z",
+                    "valor": 77.9
+                },
+                {
+                    "referencia": "2020-09-01T00:00:00Z",
+                    "valor": 79.4
+                },
+                {
+                    "referencia": "2020-10-01T00:00:00Z",
+                    "valor": 80.3
+                }
+            ]
         }
     ]
 }
