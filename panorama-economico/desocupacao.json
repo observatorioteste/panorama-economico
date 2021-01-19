@@ -1,7 +1,7 @@
 {
     "nome": "Taxa de Desocupação",
     "descricao": "Variação percentual trimestral",
-    "fonte": "(IBGE)",
+    "fonte": "IBGE",
     "stats": [
         {
             "titulo": "Brasil",
@@ -16,7 +16,7 @@
             },
             "serie_labels": {
                 "x": "Data",
-                "y": "Valor"
+                "y": "Variação"
             },
             "serie": [
                 {
@@ -62,7 +62,7 @@
             },
             "serie_labels": {
                 "x": "Data",
-                "y": "Valor"
+                "y": "Variação"
             },
             "serie": [
                 {
