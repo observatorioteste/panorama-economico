@@ -7,7 +7,7 @@
             "titulo": "Brasil",
             "valor": "Jan-Dez/2020",
             "direcao": "down",
-            "desc_serie": "Variação percentual em relação ao mesmo período do ano anterior",
+            "desc_serie": "Variação percentual em relação ao mesmo período do ano anterior e Valor FOB",
             "serie_tipo": "data",
             "referencia": "Jan-Dez/2020",
             "y_label": {
@@ -90,7 +90,7 @@
             "titulo": "Goiás",
             "valor": "Jan-Dez/2020",
             "direcao": "up",
-            "desc_serie": "Variação percentual em relação ao mesmo período do ano anterior",
+            "desc_serie": "Variação percentual em relação ao mesmo período do ano anterior e Valor FOB",
             "serie_tipo": "data",
             "referencia": "Jan-Dez/2020",
             "y_label": {
