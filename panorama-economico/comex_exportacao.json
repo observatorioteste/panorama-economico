@@ -21,7 +21,7 @@
             "serie_labels": {
                 "x": "Data",
                 "y": "Variação",
-                "y2": "Valor"
+                "y2": "Valor FOB"
             },
             "serie": [
                 {
@@ -104,7 +104,7 @@
             "serie_labels": {
                 "x": "Data",
                 "y": "Variação",
-                "y2": "Valor"
+                "y2": "Valor FOB"
             },
             "serie": [
                 {
