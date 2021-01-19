@@ -1,7 +1,7 @@
 {
     "nome": "Produção Física Industrial",
     "descricao": "Variação percentual em relação ao mesmo período do ano anterior",
-    "fonte": "(IBGE)",
+    "fonte": "IBGE",
     "stats": [
         {
             "titulo": "Brasil",
