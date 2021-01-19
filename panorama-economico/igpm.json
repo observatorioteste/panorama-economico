@@ -1,13 +1,13 @@
 {
     "nome": "Índice Geral de Preços – Mercado  - IGP-M",
     "descricao": "#",
-    "fonte": "(FGV)",
+    "fonte": "FGV",
     "stats": [
         {
             "titulo": "Brasil",
             "valor": "0,98",
             "direcao": "up",
-            "desc_serie": "#",
+            "desc_serie": "Variação mensal e acumulado no ano",
             "serie_tipo": "data",
             "referencia": "Dez/2020",
             "y_label": {
