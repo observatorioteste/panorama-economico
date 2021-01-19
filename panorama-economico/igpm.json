@@ -9,7 +9,7 @@
             "direcao": "up",
             "desc_serie": "Variação mensal e acumulado no ano",
             "serie_tipo": "data",
-            "referencia": "0,98",
+            "referencia": "2020-12-01T00:00:00Z",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
