@@ -1,7 +1,7 @@
 {
     "nome": "Perspectiva do Emprego da Indústria",
     "descricao": "O índice varia de 0 a 100. Acima de 50 pontos indica expectativa de crescimento do emprego.",
-    "fonte": "(CNI)",
+    "fonte": "CNI",
     "stats": [
         {
             "titulo": "Brasil",
