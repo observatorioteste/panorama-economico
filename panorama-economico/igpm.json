@@ -9,10 +9,7 @@
             "direcao": "up",
             "desc_serie": "#",
             "serie_tipo": "data",
-            "referencia": [
-                "Dez/2020",
-                "Jan/2019"
-            ],
+            "referencia": "Dez/2020",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
