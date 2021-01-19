@@ -1,7 +1,7 @@
 {
     "nome": "Índice de Confiança do Consumidor",
     "descricao": "Variação em relação ao mesmo período do ano anterior",
-    "fonte": "(FECOMERCIO/ BANCO CENTRAL)",
+    "fonte": "FECOMERCIO/ BANCO CENTRAL",
     "stats": [
         {
             "titulo": "Brasil",
