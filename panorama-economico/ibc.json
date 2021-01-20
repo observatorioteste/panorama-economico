@@ -5,8 +5,8 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "4.76%",
-            "direcao": "up",
+            "valor": "4.55%",
+            "direcao": "down",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
             "referencia": "Nov/2020",
