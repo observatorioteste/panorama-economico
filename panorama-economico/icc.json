@@ -1,6 +1,6 @@
 {
     "nome": "Índice de Confiança do Consumidor",
-    "descricao": "Variação percentual em relação ao mesmo período do ano anterior",
+    "descricao": "Variação em relação ao mesmo período do ano anterior",
     "fonte": "FECOMERCIO/ BANCO CENTRAL",
     "stats": [
         {
