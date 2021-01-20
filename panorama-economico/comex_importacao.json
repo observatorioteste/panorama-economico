@@ -5,7 +5,7 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "10.4%",
+            "valor": "10.4",
             "direcao": "down",
             "desc_serie": "Variação percentual em relação ao mesmo período do ano anterior e Valor FOB",
             "serie_tipo": "data",
@@ -88,7 +88,7 @@
         },
         {
             "titulo": "Goiás",
-            "valor": "7.4%",
+            "valor": "7.4",
             "direcao": "down",
             "desc_serie": "Variação percentual em relação ao mesmo período do ano anterior e Valor FOB",
             "serie_tipo": "data",
