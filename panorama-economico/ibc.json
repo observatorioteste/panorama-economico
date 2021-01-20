@@ -5,8 +5,8 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "4.55%",
-            "direcao": "down",
+            "valor": "0.75%",
+            "direcao": "up",
             "desc_serie": "Variação mensal",
             "serie_tipo": "data",
             "referencia": "Nov/2020",
@@ -20,8 +20,12 @@
             },
             "serie": [
                 {
+                    "x": "2018-12-01T00:00:00Z",
+                    "y": 0.45012342093800245
+                },
+                {
                     "x": "2019-01-01T00:00:00Z",
-                    "y": NaN
+                    "y": 0.4408788667244761
                 },
                 {
                     "x": "2019-02-01T00:00:00Z",
