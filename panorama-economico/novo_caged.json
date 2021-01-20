@@ -6,14 +6,14 @@
         "fonte": "Ministério do Trabalho",
         "referencia": "202011",
         "saldo_ultimo_mes_br": {
-            "saldo": 29941,
-            "desligamentos": -114792,
-            "admissoes": 144733
+            "saldo": 49004,
+            "desligamentos": -189300,
+            "admissoes": 238304
         },
         "saldo_ultimo_mes_go": {
-            "saldo": -1219,
-            "desligamentos": -6132,
-            "admissoes": 4913
+            "saldo": -1802,
+            "desligamentos": -9982,
+            "admissoes": 8180
         },
         "periodicidade": "mensal"
     }
