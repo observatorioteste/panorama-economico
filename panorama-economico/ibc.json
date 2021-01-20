@@ -1,18 +1,18 @@
 {
     "nome": "Índice de Atividade Econômica",
-    "descricao": "Variação mensal",
+    "descricao": "Variação percentual em relação ao mesmo período do ano anterior",
     "fonte": "IBC",
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "0.586",
+            "valor": "0.75",
             "direcao": "up",
             "desc_serie": "Variação mensal",
             "serie_tipo": "data",
             "referencia": "Nov/2020",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
-                "label": "%"
+                "label": ""
             },
             "serie_labels": {
                 "x": "Data",
