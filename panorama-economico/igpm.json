@@ -1,11 +1,11 @@
 {
     "nome": "Índice Geral de Preços – Mercado (IGP-M)",
-    "descricao": "Variação mensal",
+    "descricao": "Variação percentual mensal",
     "fonte": "FGV",
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "0.98",
+            "valor": "0.98%",
             "direcao": "up",
             "desc_serie": "Variação mensal e acumulado no ano",
             "serie_tipo": "data",
