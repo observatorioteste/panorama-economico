@@ -5,7 +5,7 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "0.75%",
+            "valor": "0.75 %",
             "direcao": "up",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
