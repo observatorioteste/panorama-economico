@@ -5,7 +5,7 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 1.46,
+            "valor": "1.46%",
             "direcao": "up",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
@@ -71,7 +71,7 @@
         },
         {
             "titulo": "Goiânia",
-            "valor": 1.39,
+            "valor": "1.39%",
             "direcao": "up",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
