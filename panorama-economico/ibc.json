@@ -5,14 +5,14 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "0.75%",
+            "valor": "0.586",
             "direcao": "up",
             "desc_serie": "Variação mensal",
             "serie_tipo": "data",
             "referencia": "Nov/2020",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
-                "label": ""
+                "label": "%"
             },
             "serie_labels": {
                 "x": "Data",
