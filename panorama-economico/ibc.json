@@ -1,13 +1,13 @@
 {
     "nome": "Índice de Atividade Econômica",
     "descricao": "Variação percentual em relação ao mesmo período do ano anterior",
-    "fonte": "Banco Central",
+    "fonte": "BACEN",
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "0.75",
+            "valor": "0.75%",
             "direcao": "up",
-            "desc_serie": "Variação mensal",
+            "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
             "referencia": "Nov/2020",
             "y_label": {
