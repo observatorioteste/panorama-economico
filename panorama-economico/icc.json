@@ -7,7 +7,7 @@
             "titulo": "Brasil",
             "valor": "6.72%",
             "direcao": "down",
-            "desc_serie": "Variação mensal",
+            "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
             "referencia": "Nov/2020",
             "y_label": {
