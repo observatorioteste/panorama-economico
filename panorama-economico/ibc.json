@@ -7,7 +7,7 @@
             "titulo": "Brasil",
             "valor": "4.55%",
             "direcao": "down",
-            "desc_serie": "Variação percentual mensal",
+            "desc_serie": "Variação percentual mensal (BACEN)",
             "serie_tipo": "data",
             "referencia": "Jan-Nov/2020",
             "y_label": {
