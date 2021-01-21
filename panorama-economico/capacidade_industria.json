@@ -1,13 +1,13 @@
 {
     "nome": "Utilização da Capacidade Instalada da Indústria",
-    "descricao": "O índice varia de 0 a 100. Valores acima de 50 pontos indicam que a capacidade ficou acima do usual para o mês.",
+    "descricao": "O índice varia de 0 a 100. Valores acima de 50 pontos indicam que a capacidade ficou acima do usual para o mês. (CNI)",
     "fonte": "CNI",
     "stats": [
         {
             "titulo": "Brasil",
             "valor": 73,
             "direcao": "up",
-            "desc_serie": "O índice varia de 0 a 100. Valores acima de 50 pontos indicam que a capacidade ficou acima do usual para o mês",
+            "desc_serie": "O índice varia de 0 a 100. Valores acima de 50 pontos indicam que a capacidade ficou acima do usual para o mês. (CNI)",
             "serie_tipo": "data",
             "referencia": "Nov/2020",
             "y_label": {
