@@ -7,7 +7,7 @@
             "titulo": "Brasil",
             "valor": "1.35%",
             "direcao": "up",
-            "desc_serie": "Variação percentual mensal",
+            "desc_serie": "Variação percentual mensal (IBGE)",
             "serie_tipo": "data",
             "referencia": "Dez/2020",
             "y_label": {
@@ -121,7 +121,7 @@
             "titulo": "Goiânia",
             "valor": "1.22%",
             "direcao": "up",
-            "desc_serie": "Variação percentual mensal",
+            "desc_serie": "Variação percentual mensal (IBGE)",
             "serie_tipo": "data",
             "referencia": "Dez/2020",
             "y_label": {
