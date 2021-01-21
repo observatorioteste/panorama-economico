@@ -7,7 +7,7 @@
             "titulo": "Brasil",
             "valor": "('5.5', 2)%",
             "direcao": "down",
-            "desc_serie": "Variação percentual acumulada no ano (Base: igual período do ano anterior)",
+            "desc_serie": "Variação percentual acumulada no ano (Base: igual período do ano anterior) (IBGE)",
             "serie_tipo": "data",
             "referencia": "Nov/2020",
             "y_label": {
