@@ -12,11 +12,11 @@
             "referencia": "Dez/2020",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
-                "label": "%"
+                "label": ""
             },
             "serie_labels": {
                 "x": "Data",
-                "y": "Percentual"
+                "y": "Índice"
             },
             "serie": [
                 {
