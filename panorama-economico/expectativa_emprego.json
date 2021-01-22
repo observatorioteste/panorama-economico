@@ -16,7 +16,7 @@
             },
             "serie_labels": {
                 "x": "Data",
-                "y": "Valor"
+                "y": "Índice"
             },
             "serie": [
                 {
