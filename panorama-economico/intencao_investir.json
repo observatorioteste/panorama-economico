@@ -7,7 +7,7 @@
             "titulo": "Brasil",
             "valor": 59.9,
             "direcao": "up",
-            "desc_serie": "O índice varia de 0 a 100. Quanto maior é o índice, maior a intenção de investir.",
+            "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
             "referencia": "Jan/2021",
             "y_label": {
