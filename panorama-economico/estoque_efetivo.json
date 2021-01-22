@@ -5,11 +5,11 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 44.1,
+            "valor": 45.5,
             "direcao": "down",
             "desc_serie": "O índice varia de 0 a 100. Quanto mais próximo de 0, maior o estoques vendido, mais próximo de 100, maior o estoque mantido.",
             "serie_tipo": "data",
-            "referencia": "Nov/2020",
+            "referencia": "Dez/2020",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": ""
@@ -62,6 +62,10 @@
                 {
                     "x": "2020-11-01T00:00:00Z",
                     "y": 44.1
+                },
+                {
+                    "x": "2020-12-01T00:00:00Z",
+                    "y": 45.5
                 }
             ]
         }
