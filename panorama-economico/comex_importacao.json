@@ -1,7 +1,7 @@
 {
     "nome": "Importações",
     "descricao": "Variação percentual em relação ao mesmo período do ano anterior",
-    "fonte": "MDIC/FIEG",
+    "fonte": "MDIC",
     "stats": [
         {
             "titulo": "Brasil",
