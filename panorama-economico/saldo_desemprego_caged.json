@@ -1,19 +1,131 @@
 {
     "nome": "Saldo de Empregados da Ind. de Transformação",
-    "descricao": "(Saldo de empregos = admitidos - desligados)",
+    "descricao": "Saldo de empregados = Admitidos - Desligados",
     "fonte": "CAGED",
     "stats": [
         {
             "titulo": "Brasil",
             "valor": 49004,
             "direcao": "down",
-            "referencia": "Nov/2020"
+            "referencia": "Nov/2020",
+            "desc_serie": "Saldo de empregados por mês",
+            "serie_tipo": "data",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": ""
+            },
+            "serie_labels": {
+                "x": "Data",
+                "y": "Valor"
+            },
+            "serie": [
+                {
+                    "x": "2020-01-01T00:00:00Z",
+                    "y": 58071
+                },
+                {
+                    "x": "2020-02-01T00:00:00Z",
+                    "y": 37770
+                },
+                {
+                    "x": "2020-03-01T00:00:00Z",
+                    "y": -39536
+                },
+                {
+                    "x": "2020-04-01T00:00:00Z",
+                    "y": -207091
+                },
+                {
+                    "x": "2020-05-01T00:00:00Z",
+                    "y": -100071
+                },
+                {
+                    "x": "2020-06-01T00:00:00Z",
+                    "y": -4280
+                },
+                {
+                    "x": "2020-07-01T00:00:00Z",
+                    "y": 51901
+                },
+                {
+                    "x": "2020-08-01T00:00:00Z",
+                    "y": 90306
+                },
+                {
+                    "x": "2020-09-01T00:00:00Z",
+                    "y": 110622
+                },
+                {
+                    "x": "2020-10-01T00:00:00Z",
+                    "y": 82850
+                },
+                {
+                    "x": "2020-11-01T00:00:00Z",
+                    "y": 49004
+                }
+            ]
         },
         {
             "titulo": "Goiás",
             "valor": 1802,
             "direcao": "down",
-            "referencia": "Nov/2020"
+            "referencia": "Nov/2020",
+            "desc_serie": "Saldo de empregados por mês",
+            "serie_tipo": "data",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": ""
+            },
+            "serie_labels": {
+                "x": "Data",
+                "y": "Valor"
+            },
+            "serie": [
+                {
+                    "x": "2020-01-01T00:00:00Z",
+                    "y": 58071
+                },
+                {
+                    "x": "2020-02-01T00:00:00Z",
+                    "y": 37770
+                },
+                {
+                    "x": "2020-03-01T00:00:00Z",
+                    "y": -39536
+                },
+                {
+                    "x": "2020-04-01T00:00:00Z",
+                    "y": -207091
+                },
+                {
+                    "x": "2020-05-01T00:00:00Z",
+                    "y": -100071
+                },
+                {
+                    "x": "2020-06-01T00:00:00Z",
+                    "y": -4280
+                },
+                {
+                    "x": "2020-07-01T00:00:00Z",
+                    "y": 51901
+                },
+                {
+                    "x": "2020-08-01T00:00:00Z",
+                    "y": 90306
+                },
+                {
+                    "x": "2020-09-01T00:00:00Z",
+                    "y": 110622
+                },
+                {
+                    "x": "2020-10-01T00:00:00Z",
+                    "y": 82850
+                },
+                {
+                    "x": "2020-11-01T00:00:00Z",
+                    "y": 49004
+                }
+            ]
         }
     ]
 }
