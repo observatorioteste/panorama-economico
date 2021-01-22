@@ -5,7 +5,7 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "8%",
+            "valor": ".8%",
             "direcao": "up",
             "desc_serie": "Variação percentual acumulada no ano (Base: igual período do ano anterior) (IBGE)",
             "serie_tipo": "data",
