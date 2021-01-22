@@ -1,15 +1,15 @@
 {
     "nome": "Produção Física Industrial",
-    "descricao": "Variação percentual em relação ao mesmo período do ano anterior (dessazonalizado)",
+    "descricao": "Variação percentual em relação ao mesmo período do ano anterior",
     "fonte": "IBGE",
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "2.8%",
-            "direcao": "up",
+            "valor": "5.5%",
+            "direcao": "down",
             "desc_serie": "Variação percentual acumulada no ano (Base: igual período do ano anterior) (IBGE)",
             "serie_tipo": "data",
-            "referencia": "Jan-Nov/2020",
+            "referencia": "Nov/2020",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -25,53 +25,53 @@
                 },
                 {
                     "x": "2020-02-01T00:00:00Z",
-                    "y": -0.3
+                    "y": -0.6
                 },
                 {
                     "x": "2020-03-01T00:00:00Z",
-                    "y": -3.8
+                    "y": -1.7
                 },
                 {
                     "x": "2020-04-01T00:00:00Z",
-                    "y": -27.6
+                    "y": -8.3
                 },
                 {
                     "x": "2020-05-01T00:00:00Z",
-                    "y": -21.8
+                    "y": -11.3
                 },
                 {
                     "x": "2020-06-01T00:00:00Z",
-                    "y": -8.8
+                    "y": -10.9
                 },
                 {
                     "x": "2020-07-01T00:00:00Z",
-                    "y": -2.7
+                    "y": -9.6
                 },
                 {
                     "x": "2020-08-01T00:00:00Z",
-                    "y": -2.5
+                    "y": -8.6
                 },
                 {
                     "x": "2020-09-01T00:00:00Z",
-                    "y": 3.7
+                    "y": -7.1
                 },
                 {
                     "x": "2020-10-01T00:00:00Z",
-                    "y": 0.3
+                    "y": -6.3
                 },
                 {
                     "x": "2020-11-01T00:00:00Z",
-                    "y": 2.8
+                    "y": -5.5
                 }
             ]
         },
         {
             "titulo": "Goiás",
-            "valor": "4.2%",
-            "direcao": "down",
+            "valor": "0.4%",
+            "direcao": "up",
             "desc_serie": "Variação percentual acumulada no ano (Base: igual período do ano anterior)",
             "serie_tipo": "data",
-            "referencia": "Jan-Nov/2020",
+            "referencia": "Nov/2020",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -87,43 +87,43 @@
                 },
                 {
                     "x": "2020-02-01T00:00:00Z",
-                    "y": -1.4
+                    "y": -1.3
                 },
                 {
                     "x": "2020-03-01T00:00:00Z",
-                    "y": -1.0
+                    "y": -1.2
                 },
                 {
                     "x": "2020-04-01T00:00:00Z",
-                    "y": -0.7
+                    "y": -1.0
                 },
                 {
                     "x": "2020-05-01T00:00:00Z",
-                    "y": 1.6
+                    "y": -0.3
                 },
                 {
                     "x": "2020-06-01T00:00:00Z",
-                    "y": 6.2
+                    "y": 1.1
                 },
                 {
                     "x": "2020-07-01T00:00:00Z",
-                    "y": 3.9
+                    "y": 1.6
                 },
                 {
                     "x": "2020-08-01T00:00:00Z",
-                    "y": 2.6
+                    "y": 1.8
                 },
                 {
                     "x": "2020-09-01T00:00:00Z",
-                    "y": 4.0
+                    "y": 2.1
                 },
                 {
                     "x": "2020-10-01T00:00:00Z",
-                    "y": -8.9
+                    "y": 0.8
                 },
                 {
                     "x": "2020-11-01T00:00:00Z",
-                    "y": -4.2
+                    "y": 0.4
                 }
             ]
         }
