@@ -7,7 +7,7 @@
             "titulo": "Brasil",
             "valor": 53.3,
             "direcao": "up",
-            "desc_serie": "O índice varia de 0 a 100. Acima de 50 pontos indica expectativa de crescimento do emprego.",
+            "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
             "referencia": "Jan/2021",
             "y_label": {
