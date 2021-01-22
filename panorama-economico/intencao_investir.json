@@ -5,11 +5,11 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 59.1,
+            "valor": 59.9,
             "direcao": "up",
             "desc_serie": "O índice varia de 0 a 100. Quanto maior é o índice, maior a intenção de investir.",
             "serie_tipo": "data",
-            "referencia": "Dez/2020",
+            "referencia": "Jan/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": ""
@@ -66,6 +66,10 @@
                 {
                     "x": "2020-12-01T00:00:00Z",
                     "y": 59.1
+                },
+                {
+                    "x": "2021-01-01T00:00:00Z",
+                    "y": 59.9
                 }
             ]
         }
