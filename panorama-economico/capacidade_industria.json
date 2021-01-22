@@ -5,7 +5,7 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 70,
+            "valor": 73,
             "direcao": "up",
             "desc_serie": "O índice varia de 0 a 100. Valores acima de 50 pontos indicam que a capacidade ficou acima do usual para o mês. (CNI)",
             "serie_tipo": "data",
