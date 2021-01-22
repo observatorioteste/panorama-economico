@@ -1,13 +1,13 @@
 {
     "nome": "Utilização da Capacidade Instalada da Indústria",
-    "descricao": "O índice varia de 0 a 100. Valores acima de 50 pontos indicam que a capacidade ficou acima do usual para o mês. (CNI)",
+    "descricao": "O índice varia de 0 a 100. Valores acima de 50 pontos indicam que a capacidade ficou acima do usual para o mês.",
     "fonte": "CNI",
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 70,
+            "valor": 70.0,
             "direcao": "up",
-            "desc_serie": "O índice varia de 0 a 100. Valores acima de 50 pontos indicam que a capacidade ficou acima do usual para o mês. (CNI)",
+            "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
             "referencia": "Dez/2020",
             "y_label": {
@@ -21,51 +21,51 @@
             "serie": [
                 {
                     "x": "2020-01-01T00:00:00Z",
-                    "y": 67
+                    "y": 67.0
                 },
                 {
                     "x": "2020-02-01T00:00:00Z",
-                    "y": 68
+                    "y": 68.0
                 },
                 {
                     "x": "2020-03-01T00:00:00Z",
-                    "y": 58
+                    "y": 58.0
                 },
                 {
                     "x": "2020-04-01T00:00:00Z",
-                    "y": 49
+                    "y": 49.0
                 },
                 {
                     "x": "2020-05-01T00:00:00Z",
-                    "y": 55
+                    "y": 55.0
                 },
                 {
                     "x": "2020-06-01T00:00:00Z",
-                    "y": 62
+                    "y": 62.0
                 },
                 {
                     "x": "2020-07-01T00:00:00Z",
-                    "y": 67
+                    "y": 67.0
                 },
                 {
                     "x": "2020-08-01T00:00:00Z",
-                    "y": 71
+                    "y": 71.0
                 },
                 {
                     "x": "2020-09-01T00:00:00Z",
-                    "y": 72
+                    "y": 72.0
                 },
                 {
                     "x": "2020-10-01T00:00:00Z",
-                    "y": 74
+                    "y": 74.0
                 },
                 {
                     "x": "2020-11-01T00:00:00Z",
-                    "y": 73
+                    "y": 73.0
                 },
                 {
                     "x": "2020-12-01T00:00:00Z",
-                    "y": 70
+                    "y": 70.0
                 }
             ]
         }
