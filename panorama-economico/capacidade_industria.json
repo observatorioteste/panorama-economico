@@ -5,7 +5,7 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 70.1,
+            "valor": 70,
             "direcao": "up",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
@@ -65,7 +65,7 @@
                 },
                 {
                     "x": "2020-12-01T00:00:00Z",
-                    "y": 70.1
+                    "y": 70
                 }
             ]
         }
