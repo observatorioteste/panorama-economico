@@ -9,7 +9,7 @@
             "direcao": "up",
             "desc_serie": "O índice varia de 0 a 100. Valores acima de 50 pontos indicam que a capacidade ficou acima do usual para o mês. (CNI)",
             "serie_tipo": "data",
-            "referencia": "Nov/2020",
+            "referencia": "Dez/2020",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
