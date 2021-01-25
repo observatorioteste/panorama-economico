@@ -7,7 +7,7 @@
             "titulo": "Brasil",
             "valor": "6.9%",
             "direcao": "down",
-            "desc_serie": "VVariação percentual e Valor FOB por mês",
+            "desc_serie": "Variação percentual e Valor FOB por mês",
             "serie_tipo": "data",
             "referencia": "Jan-Dez/2020",
             "y_label": {
