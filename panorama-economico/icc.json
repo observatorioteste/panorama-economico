@@ -5,11 +5,11 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "-3.92%",
+            "valor": "-3.44%",
             "direcao": "down",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Dez/2020",
+            "referencia": "Jan/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -66,6 +66,10 @@
                 {
                     "x": "2020-12-01T00:00:00Z",
                     "y": -3.92
+                },
+                {
+                    "x": "2021-01-01T00:00:00Z",
+                    "y": -3.44
                 }
             ]
         }
