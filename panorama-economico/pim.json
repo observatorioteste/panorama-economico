@@ -67,7 +67,7 @@
         },
         {
             "titulo": "Goiás",
-            "valor": "up%",
+            "valor": "0.4%",
             "direcao": "down",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
