@@ -5,8 +5,8 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "2.8%",
-            "direcao": "up",
+            "valor": "5.5%",
+            "direcao": "down",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
             "referencia": "Jan-Nov/2020",
@@ -67,7 +67,7 @@
         },
         {
             "titulo": "Goiás",
-            "valor": "4.2%",
+            "valor": "up%",
             "direcao": "down",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
