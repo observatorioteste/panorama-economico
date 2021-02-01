@@ -1,6 +1,6 @@
 {
     "nome": "Índice de Confiança Industrial",
-    "descricao": "O índhce varia de 0 a 100. Acima de 50, indica confiança.",
+    "descricao": "O índice varia de 0 a 100. Acima de 50, indica confiança.",
     "fonte": "CNI",
     "stats": [
         {
