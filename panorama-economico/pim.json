@@ -71,11 +71,11 @@
         },
         {
             "titulo": "Goiás",
-            "valor": "...%",
+            "valor": "0.4%",
             "direcao": "down",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Jan-Dez/2020",
+            "referencia": "Jan-Nov/2020",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
