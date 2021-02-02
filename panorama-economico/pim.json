@@ -5,11 +5,11 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "5.5%",
+            "valor": "4.5%",
             "direcao": "down",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Jan-Nov/2020",
+            "referencia": "Jan-Dez/2020",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -37,11 +37,11 @@
                 },
                 {
                     "x": "2020-05-01T00:00:00Z",
-                    "y": -21.8
+                    "y": -21.9
                 },
                 {
                     "x": "2020-06-01T00:00:00Z",
-                    "y": -8.8
+                    "y": -8.7
                 },
                 {
                     "x": "2020-07-01T00:00:00Z",
@@ -49,11 +49,11 @@
                 },
                 {
                     "x": "2020-08-01T00:00:00Z",
-                    "y": -2.5
+                    "y": -2.4
                 },
                 {
                     "x": "2020-09-01T00:00:00Z",
-                    "y": 3.7
+                    "y": 3.8
                 },
                 {
                     "x": "2020-10-01T00:00:00Z",
@@ -61,17 +61,21 @@
                 },
                 {
                     "x": "2020-11-01T00:00:00Z",
-                    "y": 2.8
+                    "y": 2.6
+                },
+                {
+                    "x": "2020-12-01T00:00:00Z",
+                    "y": 8.2
                 }
             ]
         },
         {
             "titulo": "Goiás",
-            "valor": "0.4%",
+            "valor": "...%",
             "direcao": "down",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Jan-Nov/2020",
+            "referencia": "Jan-Dez/2020",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
