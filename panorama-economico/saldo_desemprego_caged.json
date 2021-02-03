@@ -72,7 +72,7 @@
         {
             "titulo": "Goiás",
             "valor": 820,
-            "direcao": "up",
+            "direcao": "down",
             "referencia": "Dez/2020",
             "desc_serie": "Saldo de empregados por mês",
             "serie_tipo": "data",
