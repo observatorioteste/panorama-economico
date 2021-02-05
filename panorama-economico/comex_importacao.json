@@ -9,7 +9,7 @@
             "direcao": "down",
             "desc_serie": "Variação percentual e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "ar. Jan/2021",
+            "referencia": "Jan/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
