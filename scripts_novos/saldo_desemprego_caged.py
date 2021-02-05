@@ -109,8 +109,8 @@ ftp.encoding = "LATIN-1"
 print('- FTP acessado')
 
 #Local de salvamento do arquivos compactados
-caminho_pasta_compactados = '{path}Desktop/compactados/'
-caminho_pasta_extracao = '{path}Desktop/extraidos/'
+caminho_pasta_compactados = 'C:/Users\wendelsouza.iel/Desktop/compactados/'
+caminho_pasta_extracao = 'C:/Users/wendelsouza.iel/Desktop/extraidos/'
 
 #Data sobre a data atual de exercução
 today = date.today()
@@ -174,8 +174,13 @@ mov_go = movimentacao_total[ultimo_mes]['movimentacao_go']
 ultimo_mes = list(movimentacao_total.keys())[-1]
 penultimo_mes = list(movimentacao_total.keys())[-2]
 
-valor_direcao_br = movimentacao_total[ultimo_mes]['movimentacao_br']['saldo'] - movimentacao_total[penultimo_mes]['movimentacao_br']['saldo']
-valor_direcao_go = movimentacao_total[ultimo_mes]['movimentacao_go']['saldo'] - movimentacao_total[penultimo_mes]['movimentacao_go']['saldo']
+# valor_direcao_br = movimentacao_total[ultimo_mes]['movimentacao_br']['saldo'] - movimentacao_total[penultimo_mes]['movimentacao_br']['saldo']
+# valor_direcao_go = movimentacao_total[ultimo_mes]['movimentacao_go']['saldo'] - movimentacao_total[penultimo_mes]['movimentacao_go']['saldo']
+# print(movimentacao_total[ultimo_mes]['movimentacao_go']['saldo'] )
+# print(movimentacao_total[penultimo_mes]['movimentacao_go']['saldo'])
+# print('-')
+valor_direcao_br = movimentacao_total[ultimo_mes]['movimentacao_br']['saldo']
+valor_direcao_go = movimentacao_total[ultimo_mes]['movimentacao_go']['saldo']
 
 valor_direcao_br = str(valor_direcao_br)
 valor_direcao_go = str(valor_direcao_go)

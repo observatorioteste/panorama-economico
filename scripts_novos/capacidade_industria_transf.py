@@ -9,13 +9,7 @@ from util import *
 from upload import *
 from github import Github
 
-# planilha = pd.ExcelFile('Dados panorama economico cni-iel-daniel.xlsx')
-# df1 = pd.read_excel(planilha, 'Sheet1')
-# df2 = pd.read_excel(planilha, 'Sheet2')
-# sheet_to_df_map = pd.read_excel('Dados panorama economico cni-iel-daniel.xlsx', sheet_name=None)
- 
- 
-wb = load_workbook(filename = '{path}/Dados panorama economico cni-iel-daniel.xlsx')
+wb = load_workbook(filename = 'G:/IEL/ATENDIMENTO AO CLIENTE WEB 2021/00000 PLANEJAMENTO DESENV EMPRESARIAL 2021/0000 PLANEJAMENTO ESTUDOS E PESQUISAS 2021-IEL-SANDRA/OBSERVATÓRIO/ATUALIZAÇÃO DE DADOS/Dados panorama economico cni-iel-daniel.xlsx')
 print('- Planilha acessada')
 sheet_name = wb.sheetnames[0]
 
@@ -57,7 +51,6 @@ if valor_cartao < 50:
   direcao = 'down'
 else:
   direcao = 'up'
-
 
 capacidade_json = {
     'nome': 'Utilização da Capacidade Instalada da Indústria',

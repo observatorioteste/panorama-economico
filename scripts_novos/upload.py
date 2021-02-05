@@ -11,8 +11,6 @@ def upload_files_to_github(name_json):
     token = util.config['token-github']['token']
     pasta_repositorio_to_save = util.config['pasta-repositorio-save']['pasta']
 
-    
-
     g = Github(user, token)
 
     repo = g.get_user().get_repo('automatizacao_panorama_economico')
@@ -33,7 +31,6 @@ def upload_files_to_github(name_json):
         
     # content = content.encode("windows-1252").decode("utf-8")
 
-    
     # Upload to github
     git_file = 'panorama-economico/' + name_json +'.json'
     if git_file in all_files:

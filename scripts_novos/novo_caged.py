@@ -24,9 +24,7 @@ import shutil
 import util as util
 from util import *
 from upload import *
-
-
-
+ 
 #################################################
 #Funcoes
 

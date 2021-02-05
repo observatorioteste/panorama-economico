@@ -8,13 +8,8 @@ import util as util
 from util import *
 from upload import *
 from github import Github
-
-# planilha = pd.ExcelFile('Dados panorama economico cni-iel-daniel.xlsx')
-# df1 = pd.read_excel(planilha, 'Sheet1')
-# df2 = pd.read_excel(planilha, 'Sheet2')
-# sheet_to_df_map = pd.read_excel('Dados panorama economico cni-iel-daniel.xlsx', sheet_name=None)
  
-wb = load_workbook(filename = '{path}/icc fgv-iel-daniel.xlsx')
+wb = load_workbook(filename = 'G:/IEL/ATENDIMENTO AO CLIENTE WEB 2020/00000 PLANEJAMENTO DESENV EMPRESARIAL 2020/00003 PLANEJAMENTO ESTUDOS E PESQUISAS 2020-IEL-SANDRA/OBSERVATÓRIO/ATUALIZAÇÃO DE DADOS/icc fgv-iel-daniel.xlsx')
 sheet_name = wb.sheetnames[0]
 
 
@@ -59,8 +54,10 @@ valor_cartao = serie_icc[-1:][0]['y']
 
 if valor_cartao < 0:
   direcao = 'down'
+  valor_cartao = str(valor_cartao)[1:]
 else:
   direcao = 'up'
+  valor_cartao = str(valor_cartao)
 
 print('- Índice do cartão armazenado')
 
@@ -72,7 +69,7 @@ icc = {
     'stats': [
         {
             'titulo': 'Brasil',
-            'valor': str(valor_cartao)+'%',
+            'valor': valor_cartao+'%',
             'direcao': direcao,
             'desc_serie': 'Variação percentual mensal',
             'serie_tipo': 'data',

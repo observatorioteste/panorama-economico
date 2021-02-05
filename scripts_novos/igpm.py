@@ -39,7 +39,7 @@ url = FONTE_IGPM
 data = requests.get(url)
 soup = bs(data.content, "html.parser")
 
-qtd_tables = 1
+qtd_tables = 2
 json_igpm = []
 referencia = [None] * qtd_tables
 ano = [None] * qtd_tables
@@ -49,23 +49,24 @@ for table_num in range(qtd_tables):
   table = soup.find_all('table')
   df = pd.read_html(str(table), decimal=',', thousands='.')[table_num]
   ano[table_num] = df.columns[0][0]
+  print(ano[table_num])
   df.columns = df.columns.droplevel(0)
   # df1['ano']= ano
   df.drop(["Acumulado nos últimos 12 meses %"], axis=1, inplace=True)
-
+  df.dropna(inplace=True)
   df.rename(columns={'MÊS': 'mes', 'Mensal %': 'mensal'}, inplace=True)
-  
+  # print(df)
   data = []
 
   
   for index, row in df.T.iteritems():
-    mes = (ano[0] + retorn_num_mes(row['mes']))
+    mes = (ano[table_num] + retorn_num_mes(row['mes']))
     mes = pd.to_datetime(mes, format='%Y%m', errors='coerce')
     mes = mes.strftime("%Y-%m-%dT%H:%M:%SZ")
     mensal = str(row['mensal']).replace(".", ",")
-    # acumulado = str(round(row['acumulado_ano'],2)).replace(".", ",")
-    
-    json_igpm.append({'x': mes, 'y': float(mensal.replace(",","."))})
+    valor = float(mensal.replace(",","."))
+      
+    json_igpm.append({'x': mes, 'y': valor})
 
 print('- Série criada')
 ##################referencia

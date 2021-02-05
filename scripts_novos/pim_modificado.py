@@ -15,9 +15,9 @@ from upload import *
 
 ##############################################################################  
 #Extração da lista de unidades federativas 
-##Formato
-#Nome	Código
-#Amazonas	13
+# ##Formato
+# #Nome	Código
+# #Amazonas	13
 
 # lista_unidades_fed = pd.read_html('http://api.sidra.ibge.gov.br/LisUnitTabAPI.aspx?c=3653&n=3&i=P')[1]
 
@@ -26,7 +26,8 @@ from upload import *
 ##Formato: 202002 
 data_atual = datetime.today()
 qtd_anos_serie = 2
-start = datetime((data_atual.year-qtd_anos_serie), 12, 1)
+ano_extração = data_atual.year-qtd_anos_serie
+start = datetime(ano_extração, 12, 1)
 end = datetime.today()
 dates = pd.date_range(start, end, freq='M') + pd.offsets.MonthBegin(n=1)
 
@@ -48,7 +49,7 @@ for i in range(len(dates)):
 #gera pim_nacional_json
 brasil = []
 for mes in lista_periodos:
-    url = 'http://api.sidra.ibge.gov.br/values/t/3653/n1/all/p/{0}/v/3139/f/u'
+    url = 'http://https://api.bcb.gov.br/dados/serie/bcdata.sgs.24364/dados?formato=json&dataInicial=01/01/{0}&dataFinal=01/{1}/{2}'/values/t/3653/n1/all/p/{0}/v/3139/f/u'
     url = url.format(mes)
     # print(mes)
     data = requests.get(url)
@@ -63,37 +64,18 @@ for mes in lista_periodos:
       # print(mes)
       break
 
-#####serie
-
+pim_br_indice = brasil[-1:][0]['valor']
 brasil = pd.DataFrame(brasil)
 brasil['mes'] = pd.to_datetime(brasil['mes'], format='%Y%m', errors='coerce')
 brasil['mes'] = brasil['mes'].dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+# brasil = brasil.to_json(orient='records')
+referencia_br = 'Jan-'+(mes_referencia[:3]+ '/' +mes_referencia[-4:]).capitalize()
 
+#####serie
 serie_pim_br = []
 for i, row in brasil.iterrows():
   serie_pim_br.append({'x': row[0], 'y': float(row[1])})
 #####
-
-url = 'http://api.sidra.ibge.gov.br/values/t/3653/n1/all/p/last/v/3140/f/u'
-url = url.format(mes)
-data = requests.get(url)
-soup = bs(data.content, "html5lib")
-dados = json.loads(soup.text)
-cartao_br = dados[1]['V']
-mes_referencia_br = dados[1]['D2N']
-
-if mes_referencia_br[:3] == 'jan':
-  mes_referencia_br = 'Jan/'+(str(ano_atual)).capitalize()
-else:
-  mes_referencia_br = 'Jan-'+(mes_referencia_br[:3]+ '/' +mes_referencia_br[-4:]).capitalize()
-
-
-
-
-
-
-
-
 
 print('- Dados (Brasil) foram extraídos')
 print('- Série (Brasil) criada')
@@ -126,13 +108,12 @@ for mes in lista_periodos:
 
     mes = pd.to_datetime(mes, format='%Y%m', errors='coerce')
     mes = mes.strftime("%Y-%m-%dT%H:%M:%SZ")
-    if valor != '...':
-      serie_pim_go.append({'x': mes, 'y': float(valor)})
+
+    serie_pim_go.append({'x': mes, 'y': float(valor)})
 
   except IndexError:
     break
 
-print(serie_pim_go)
 print('- Dados (Goiás) foram extraídos')
 print('- Série (Goiás) foi criada')
 #serie transformada em dataframe
@@ -145,7 +126,6 @@ for ind in indices_goias:
   if ind != '...':
     pim_go_indice = ind
     break
-  
 
 
 url = 'http://api.sidra.ibge.gov.br/values/t/3653/n1/all/p/last/v/3140/N3/52/f/u'
@@ -165,15 +145,20 @@ if float(cartao_br) < 0:
 else:
   direcao_br = 'up'
 
-if cartao_go != '...':
-  if float(cartao_go) < 0:
-    direcao_go = 'down'
-    cartao_go = str(cartao_go)[1:]
+if float(cartao_go) < 0:
+  direcao_go = 'down'
+  cartao_go = str(cartao_go)[1:]
 
 else:
   direcao_go = 'up'
 
+
+
 print(cartao_go)
+
+
+
+
 
 if float(pim_go_indice) < 0:
   direcao_go = 'down'
@@ -236,5 +221,5 @@ print('- JSON foi armazenado')
 
 ######################################################
 #Upload
-# upload_files_to_github(name_json)
-# print('- JSON enviado para o GitHub')
+upload_files_to_github(name_json)
+print('- JSON enviado para o GitHub')

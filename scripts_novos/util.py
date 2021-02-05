@@ -22,5 +22,13 @@ else:
 FONTE_IGPM = 'http://www.idealsoftwares.com.br/indices/igp_m.html' 
 # FONTE_DESOCUPACAO = 'http://api.sidra.ibge.gov.br/LisUnitTabAPI.aspx?c=4099&n=3&i=P'
 
+##################################### DIREÇÃO
 
- 
+def direcao_zero(valor):
+    if float(valor) < 0:
+        direcao = 'down'
+        valor = valor[1:]
+    else:
+        direcao = 'up'
+    
+    return [direcao, valor]

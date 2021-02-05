@@ -19,6 +19,42 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 #https://stackoverflow.com/questions/27981545/suppress-insecurerequestwarning-unverified-https-request-is-being-made-in-pytho
 
 
+
+
+
+def balanca_comercial():
+    url_balanca_comercial = 'https://balanca.economia.gov.br/balanca/pg_principal_bc/principais_resultados.html'
+    soup_balanca_comercial = requests.get(url_balanca_comercial, verify=False)
+    soup = BeautifulSoup(soup_balanca_comercial.content, 'html.parser')
+
+    table = soup.find_all('table')
+    df = pd.read_html(str(table[0]), decimal=',', thousands='.')
+    df = df[0]
+    df.columns = df.columns.droplevel(0)
+    df.columns  =[ 'Período', 'Valor_Exp', 'MD', 'Valor_Imp', 'MD', 'Valor',
+                        'MD', 'Valor', 'MD', 'Exp_Var', 'Imp_Var', 'Corrente', 'Saldo',]
+
+    def convert_to_billion(valor):
+        valor = str(valor).replace(".",'') + '00000'
+        valor = int(valor)
+        valor = '{:,.0f}'.format(valor).replace(",",".")
+        valor = 'US$ ' + valor +',00'
+    
+        return valor
+
+    data_atualizacao = soup.find_all(attrs={'class': 'date'})[0].text.strip()[14:]
+    data_prox_atualizacao = soup.find_all(attrs={'class': 'date'})[1].text.strip()[28:38]
+    data_atualizacao = pd.to_datetime(data_atualizacao, format='%d/%m/%Y', errors='coerce')
+    data_atualizacao = data_atualizacao.strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    exportacao_balanca_comercial  = [convert_to_billion(df['Valor_Exp'][0]), df['Exp_Var'][0], data_atualizacao]
+    importacao_balanca_comercial  = [convert_to_billion(df['Valor_Imp'][0]), df['Imp_Var'][0], data_atualizacao]
+    balanca_comercial = {'exp': exportacao_balanca_comercial, 'imp': importacao_balanca_comercial}
+
+    return balanca_comercial
+
+
+
 ################################## PAGINA GOIAS ##############################
 url = 'http://api.comexstat.mdic.gov.br/pt/comex-vis/5'
 response = requests.get(url, verify=False)
@@ -125,7 +161,6 @@ exportacoes_referencia_br = (exportacoes_referencia_br.replace("  ", " ").replac
 importacoes_referencia_br = (importacoes_referencia_br.replace("  ", " ").replace(importacoes_referencia_br[-5:], '').replace(importacoes_referencia_br[9:-5], "/"+importacoes_referencia_br[10:-5]))[1:]
 
 
-
 #################### Direcao seta
 direcao_imp_br = direcao_zero(importacoes_porcentagem_br.replace(',', '.'))
 direcao_exp_br = direcao_zero(exportacoes_porcentagem_br.replace(',', '.'))
@@ -186,15 +221,12 @@ for row in data_br_exp:
     serie_br_exp.append({'x': mes, 'y': float(row['var_per'][:-1].replace(" ","").replace(",",".")), 'y2': fob})
 
 
+
+balanca_comercial = balanca_comercial()
+serie_br_exp.append({'x': balanca_comercial['exp'][2], 'y': float(balanca_comercial['exp'][1]), 'y2': balanca_comercial['exp'][0]})
+serie_br_imp.append({'x': balanca_comercial['imp'][2], 'y': float(balanca_comercial['imp'][1]), 'y2': balanca_comercial['imp'][0]})
+print(serie_br_imp)
 print('- Série com dados de Goiás criada')
-
-
-
-#referencia
-importacoes_referencia_br = importacoes_referencia_br.split('. ')[1] #remove "Var." e pega apenas a referencia
-importacoes_referencia_go = importacoes_referencia_go.split('. ')[1] #remove "Var." e pega apenas a referencia
-exportacoes_referencia_br = exportacoes_referencia_br.split('. ')[1] #remove "Var." e pega apenas a referencia
-exportacoes_referencia_go = exportacoes_referencia_go.split('. ')[1] #remove "Var." e pega apenas a referencia
 
 comex_importacao = {
     'nome': 'Importações',
@@ -248,16 +280,19 @@ comex_importacao = {
     ]
 }
 
-path_save_json = util.config['path_save_json']['path']
-name_json = 'comex_importacao'
 
-with open(path_save_json + name_json + '.json', 'w', encoding='utf-8') as f:
-    json.dump(comex_importacao, f, ensure_ascii=False, indent=4)
-# print('- JSON Importações armazenado')
+#modificar
+ 
+# path_save_json = util.config['path_save_json']['path']
+# name_json = 'comex_importacao'
 
-######################
-#Upload
-upload_files_to_github(name_json)
+# with open(path_save_json + name_json + '.json', 'w', encoding='utf-8') as f:
+#     json.dump(comex_importacao, f, ensure_ascii=False, indent=4)
+# # print('- JSON Importações armazenado')
+
+# ######################
+# #Upload
+# upload_files_to_github(name_json)
 
 
 # #################################################
@@ -315,13 +350,14 @@ comex_exportacao = {
     ]
 }
 
-path_save_json = util.config['path_save_json']['path']
-name_json = 'comex_exportacao'
+ 
+# path_save_json = util.config['path_save_json']['path']
+# name_json = 'comex_exportacao'
 
-with open(path_save_json + name_json + '.json', 'w', encoding='utf-8') as f:
-    json.dump(comex_exportacao, f, ensure_ascii=False, indent=4)
+# with open(path_save_json + name_json + '.json', 'w', encoding='utf-8') as f:
+#     json.dump(comex_exportacao, f, ensure_ascii=False, indent=4)
 
-######################
-#Upload
-upload_files_to_github(name_json)
-print('- JSONs enviados para o GitHub')
+# ######################
+# #Upload
+# upload_files_to_github(name_json)
+# print('- JSONs enviados para o GitHub')

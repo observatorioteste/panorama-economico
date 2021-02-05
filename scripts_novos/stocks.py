@@ -77,17 +77,17 @@ while(1):
     # sp_future =sp_future_dic
     # us30 = us30_dic
 
-    with open('{path}Desktop/panorama-economico/sp_future.json', 'w', encoding='utf-8') as f:
+    with open('C:/Users/wendelsouza.iel/Desktop/panorama-economico/sp_future.json', 'w', encoding='utf-8') as f:
         json.dump(sp_future_dic, f, ensure_ascii=False, indent=4)
     
     upload_files_to_github('sp_future')
  
-    with open('{path}Desktop/panorama-economico/us30.json', 'w', encoding='utf-8') as f:
+    with open('C:/Users/wendelsouza.iel/Desktop/panorama-economico/us30.json', 'w', encoding='utf-8') as f:
         json.dump(us30_dic, f, ensure_ascii=False, indent=4)
 
     upload_files_to_github('us30')
  
-    with open('{path}Desktop/panorama-economico/vix.json', 'w', encoding='utf-8') as f:
+    with open('C:/Users/wendelsouza.iel/Desktop/panorama-economico/vix.json', 'w', encoding='utf-8') as f:
         json.dump(sp_vix_dic, f, ensure_ascii=False, indent=4)
 
     upload_files_to_github('vix')

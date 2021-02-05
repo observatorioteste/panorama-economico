@@ -68,13 +68,7 @@ for trimestre in lista_periodos:
     except IndexError:
       break
 
-
-
-
-    
-
 print('- Série do Brasil foi extraída')
-
 
 #Ultima taxa nacional
 url = 'http://api.sidra.ibge.gov.br/values/t/4099/v/4099/n1/1/p/last/f/u'

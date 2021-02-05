@@ -51,7 +51,8 @@ data_ibc = json.loads(soup.text)
 df_ibc = pd.DataFrame(data_ibc)
 df_ibc["valor"] = pd.to_numeric(df_ibc["valor"])
 
-shifted = df_ibc['valor'].shift(1)
+
+shifted = df_ibc['valor'].shift(1) #realiza o deslocamento de linhas (desloca uma linha)
 df_ibc['variacao_mensal'] = ((df_ibc['valor'] - shifted) / shifted)*100
 
 df_ibc['data'] =  pd.to_datetime(df_ibc['data'], format="%d/%m/%Y")
@@ -100,7 +101,8 @@ referencia = mes_referencia + '/' + ano_ref
 
 df_ibc['valor'] = df_ibc['valor'].astype(float)
 df_ibc = df_ibc.groupby(['ano']).mean()
-indice = (df_ibc['valor'][2]/df_ibc['valor'][1] -1 )*100
+#variacao = ((soma_periodo_anterir/ soma_periodo_atual) -1) /100
+indice = (df_ibc['valor'][2]/df_ibc['valor'][1] -1 )*100 
 indice = round(indice,2)
                
 if indice < 0:
@@ -137,13 +139,6 @@ ibc_json = {
         }
     ]
 }
-
-# ibc_json = pd.DataFrame(ibc_json)
-# ibc_json = ibc_json.to_json(orient='records')
-
-# ibc = {
-#     'ibc': ibc_json,
-# }
 
 path_save_json = util.config['path_save_json']['path']
 
