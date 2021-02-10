@@ -1,7 +1,7 @@
 {
     "nome": "Índice de Confiança do Consumidor",
     "descricao": "Variação percentual mensal",
-    "fonte": "FECOMERCIO/ BANCO CENTRAL",
+    "fonte": "FGV",
     "stats": [
         {
             "titulo": "Brasil",
