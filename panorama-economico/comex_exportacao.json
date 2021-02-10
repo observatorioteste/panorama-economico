@@ -1,13 +1,13 @@
 {
     "nome": "Exportações",
-    "descricao": "Variação percentual em relação ao mesmo período do ano anterior",
+    "descricao": "Variação em relação ao mesmo mês do ano anterior",
     "fonte": "MDIC",
     "stats": [
         {
             "titulo": "Brasil",
             "valor": "2.2%",
             "direcao": "up",
-            "desc_serie": "Variação percentual e Valor FOB por mês",
+            "desc_serie": "Variação percentual em relação ao mesmo período do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
             "referencia": "Jan/2021",
             "y_label": {
