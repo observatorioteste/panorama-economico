@@ -1,6 +1,6 @@
 {
     "nome": "Produção Física Industrial",
-    "descricao": "Variação percentual acumulada no ano",
+    "descricao": "Variação percentual em relação ao mesmo período do ano anterior (dessazonalizado)",
     "fonte": "IBGE",
     "stats": [
         {
