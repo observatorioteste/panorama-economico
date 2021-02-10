@@ -1,6 +1,6 @@
 {
     "nome": "Importações",
-    "descricao": "Variação percentual em relação ao mesmo período do ano anterior",
+    "descricao": "Variação em relação ao mesmo mês do ano anterior",
     "fonte": "MDIC",
     "stats": [
         {
