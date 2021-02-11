@@ -5,7 +5,7 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 70 ,
+            "valor": 70.0,
             "direcao": "up",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
