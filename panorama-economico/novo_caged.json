@@ -1,0 +1,20 @@
+{
+    "novo_caged": {
+        "indice": "NOVO CAGED",
+        "nome": "Cadastro Geral de Empregados e Desempregados - CAGED",
+        "descricao": "-",
+        "fonte": "Ministério do Trabalho",
+        "referencia": "202012",
+        "saldo_ultimo_mes_br": {
+            "saldo": -38229,
+            "desligamentos": -200856,
+            "admissoes": 162627
+        },
+        "saldo_ultimo_mes_go": {
+            "saldo": -820,
+            "desligamentos": -7045,
+            "admissoes": 6225
+        },
+        "periodicidade": "mensal"
+    }
+}
