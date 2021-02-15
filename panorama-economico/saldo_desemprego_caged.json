@@ -5,7 +5,7 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 38.229,
+            "valor": "38.229",
             "direcao": "down",
             "cor_valor": "verde",
             "referencia": "Dez/2020",
