@@ -6,7 +6,7 @@
         {
             "titulo": "Brasil",
             "valor": "1.5%",
-            "direcao": "costant",
+            "direcao": "down",
             "cor_valor": "vermelho",
             "desc_serie": "Variação percentual em relação ao mesmo período do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
