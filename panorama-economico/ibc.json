@@ -6,7 +6,7 @@
         {
             "titulo": "Brasil",
             "valor": "4.09%",
-            "direcao": "constant",
+            "direcao": "down",
             "cor_valor": "verde",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
