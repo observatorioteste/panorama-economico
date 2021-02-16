@@ -9,7 +9,7 @@
             "direcao": "up",
             "desc_serie": "Variação percentual trimestral",
             "serie_tipo": "data",
-            "referencia": "Jul-Set/",
+            "referencia": "Jul-Set/2020",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -39,7 +39,7 @@
             "direcao": "up",
             "desc_serie": "Variação percentual trimestral",
             "serie_tipo": "data",
-            "referencia": "Jul-Set/",
+            "referencia": "Jul-Set/2020",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
