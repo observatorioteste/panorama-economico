@@ -7,7 +7,7 @@
             "titulo": "Brasil",
             "valor": "2.2%",
             "direcao": "up",
-            "cor_valor": "#009432",
+            "cor_valor": "#3ad499",
             "desc_serie": "Variação percentual em relação ao mesmo período do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
             "referencia": "Jan/2021",
