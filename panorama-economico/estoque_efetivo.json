@@ -7,7 +7,7 @@
             "titulo": "Brasil",
             "valor": 45.5,
             "direcao": "down",
-            "cor_valor": "#3ad499",
+            "cor_valor": "#31eb87",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
             "referencia": "Dez/2020",
