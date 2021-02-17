@@ -7,7 +7,7 @@
             "titulo": "Brasil",
             "valor": "14.6%",
             "direcao": "right",
-            "cor_valor": #ff0000,
+            "cor_valor": "#ff0000",
             "desc_serie": "Variação percentual trimestral",
             "serie_tipo": "data",
             "referencia": "Jul-Set/2020",
