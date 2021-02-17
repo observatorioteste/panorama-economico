@@ -5,9 +5,9 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "4.09",
+            "valor": "4.09%",
             "direcao": "down",
-            "cor_valor": "#d63031",
+            "cor_valor": "#e84118",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
             "referencia": "Jan-Dez/2020",
