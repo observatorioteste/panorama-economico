@@ -5,9 +5,9 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "2.2 %",
+            "valor": "2.2%",
             "direcao": "up",
-            "cor_valor": "#4d9629",
+            "cor_valor": "green",
             "desc_serie": "Variação percentual em relação ao mesmo período do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
             "referencia": "Jan/2021",
@@ -96,7 +96,7 @@
             "titulo": "Goiás",
             "valor": "1.7%",
             "direcao": "up",
-            "cor_valor": "#cc3333",
+            "cor_valor": "red",
             "desc_serie": "Variação percentual em relação ao mesmo período do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
             "referencia": "Jan/2021",
