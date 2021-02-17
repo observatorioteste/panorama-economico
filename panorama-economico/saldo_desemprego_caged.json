@@ -7,7 +7,7 @@
             "titulo": "Brasil",
             "valor": "38.229",
             "direcao": "down",
-            "cor_valor": "verde",
+            "cor_valor": "#2ecc71",
             "referencia": "Dez/2020",
             "desc_serie": "Saldo de empregados por mês",
             "serie_tipo": "data",
