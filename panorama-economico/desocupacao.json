@@ -38,7 +38,7 @@
             "titulo": "Goiás",
             "valor": "13.2%",
             "direcao": "up",
-            "cor_calor": "green",
+            "cor_valor": "green",
             "desc_serie": "Variação percentual trimestral",
             "serie_tipo": "data",
             "referencia": "Jul-Set/2020",
