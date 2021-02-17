@@ -7,7 +7,7 @@
             "titulo": "Brasil",
             "valor": "4.09%",
             "direcao": "down",
-            "cor_valor": "#e74c3c",
+            "cor_valor": "#d63031",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
             "referencia": "Jan-Dez/2020",
