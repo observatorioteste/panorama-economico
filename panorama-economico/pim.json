@@ -74,7 +74,7 @@
             "titulo": "Goiás",
             "valor": "0.1%",
             "direcao": "up",
-            "cor_valor": "#31eb87",
+            "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
             "referencia": "Jan-Dez/2020",
