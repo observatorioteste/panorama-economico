@@ -7,7 +7,7 @@
             "titulo": "Brasil",
             "valor": "0.27%",
             "direcao": "up",
-            "cor_valor": "#3ad499",   
+            "cor_valor": "green",   
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
             "referencia": "Jan/2021",
