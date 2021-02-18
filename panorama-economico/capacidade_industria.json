@@ -5,9 +5,9 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 700,
+            "valor": 70.0,
             "direcao": "down",
-            "cor_valor": "green",
+            "cor_valor": "#8a2be2",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
             "referencia": "Dez/2020",
