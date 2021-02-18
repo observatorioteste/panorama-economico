@@ -6,8 +6,8 @@
         {
             "titulo": "Brasil",
             "valor": 53.3,
-            "direcao": "dcn",
-            "cor_valor": "grcn",
+            "direcao": "down",
+            "cor_valor": "green",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
             "referencia": "Jan/2021",
