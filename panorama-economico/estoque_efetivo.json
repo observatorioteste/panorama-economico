@@ -6,8 +6,8 @@
         {
             "titulo": "Brasil",
             "valor": 45.5,
-            "direcao": "up",
-            "cor_valor": "green",
+            "direcao": "u",
+            "cor_valor": "en",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
             "referencia": "Dez/2020",
