@@ -5,7 +5,7 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 70.0,
+            "valor": 700,
             "direcao": "down",
             "cor_valor": "green",
             "desc_serie": "Número índice mês a mês",
