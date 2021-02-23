@@ -43,12 +43,12 @@ url = url.format(ano_anterior, mes_atual, ano_atual)
 
 response = requests.get(url)
 soup = BeautifulSoup(response.content, 'html5lib')
-
+data_ibc = json.loads(soup.text)
+df_ibc = pd.DataFrame(data_ibc)
 print('- Dados extraídos')
 #################################################
 
-data_ibc = json.loads(soup.text)
-df_ibc = pd.DataFrame(data_ibc)
+
 df_ibc["valor"] = pd.to_numeric(df_ibc["valor"])
 
 
@@ -106,11 +106,21 @@ indice = (df_ibc['valor'][2]/df_ibc['valor'][1] -1 )*100
 indice = round(indice,2)
                
 if indice < 0:
-  direcao = 'down'
   indice = str(indice)[1:]
+  cor_valor = "red"
 else:
-  direcao = 'up'
   indice = str(indice)
+  cor_valor = "green"
+
+valor_periodo_atual = serie_ibc[-2:][1]['y']
+valor_periodo_anterior = serie_ibc[-2:][0]['y']
+
+if valor_periodo_atual > 0:
+  direcao = 'up'
+elif valor_periodo_atual < 0:
+  direcao = 'down'
+else:
+  direcao = 'right'
 
 print('- Valor do cartão armazenado')
 #################################################
@@ -124,6 +134,7 @@ ibc_json = {
             'titulo': 'Brasil',
             'valor': indice+'%',
             'direcao': direcao,
+            'cor_valor': cor_valor,
             'desc_serie': 'Variação percentual mensal',
             'serie_tipo': 'data',
             'referencia': 'Jan-' + referencia,

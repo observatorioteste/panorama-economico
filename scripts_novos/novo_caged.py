@@ -101,8 +101,8 @@ ftp.login()
 ftp.encoding = "LATIN-1"
 
 #Local de salvamento do arquivos compactados
-caminho_pasta_compactados = 'C:/Users\wendelsouza.iel/Desktop/compactados/'
-caminho_pasta_extracao = 'C:/Users/wendelsouza.iel/Desktop/extraidos/'
+caminho_pasta_compactados = 'G:/IEL/ATENDIMENTO AO CLIENTE WEB 2021/00000 PLANEJAMENTO DESENV EMPRESARIAL 2021/0000 PLANEJAMENTO ESTUDOS E PESQUISAS 2021-IEL-SANDRA/OBSERVATÓRIO/ATUALIZAÇÃO DE DADOS/panorama economico wendel/caged wendel/compactados/'
+caminho_pasta_extracao = 'G:/IEL/ATENDIMENTO AO CLIENTE WEB 2021/00000 PLANEJAMENTO DESENV EMPRESARIAL 2021/0000 PLANEJAMENTO ESTUDOS E PESQUISAS 2021-IEL-SANDRA/OBSERVATÓRIO/ATUALIZAÇÃO DE DADOS/panorama economico wendel/caged wendel/extraidos/'
 
 #Data sobre a data atual de exercução
 today = date.today()
@@ -128,12 +128,12 @@ for mes in meses_ano:
         # nomes_arquivos = recuperaNomesArquivos()
         shutil.register_unpack_format('7zip', ['.7z'], unpack_7zarchive)
         for arquivo in nomes_arquivos:
-            getFile(ftp, caminho_pasta_compactados, arquivo)
-            path_zip = caminho_pasta_compactados + arquivo 
-            # Archive(path_zip).extractall(caminho_pasta_extracao)
+            # getFile(ftp, caminho_pasta_compactados, arquivo)
+            # path_zip = caminho_pasta_compactados + arquivo 
+            # # Archive(path_zip).extractall(caminho_pasta_extracao)
             
-            shutil.unpack_archive(path_zip, caminho_pasta_extracao)
-            print(arquivo)
+            # shutil.unpack_archive(path_zip, caminho_pasta_extracao)
+            # print(arquivo)
 
             mes = arquivo[:-3]
             mes = mes[8:]

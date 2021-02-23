@@ -10,7 +10,7 @@ from upload import *
 from github import Github
 
 
-path_planilha= 'G:/IEL/ATENDIMENTO AO CLIENTE WEB 2021/00000 PLANEJAMENTO DESENV EMPRESARIAL 2021/0000 PLANEJAMENTO ESTUDOS E PESQUISAS 2021-IEL-SANDRA/OBSERVATÓRIO/ATUALIZAÇÃO DE DADOS/Dados panorama economico cni-iel-daniel.xlsx'
+path_planilha= 'G:/IEL/OBSERVATORIO/ATUALIZAÇÃO DE DADOS/Dados panorama economico cni-iel-daniel.xlsx'
 num_planilha = 3
 
 wb = load_workbook(filename = path_planilha)
@@ -52,12 +52,23 @@ ano_referencia = ano_referencia = df['referencia'][-1:].iloc[0][:4]
 mes_referencia = int(df['referencia'][-1:].iloc[0][-2:])
 referencia = meses_ano[mes_referencia-1] + '/' + ano_referencia
 
-valor_cartao = serie_confianca_industrial[-1:][0]['y']
+valor_periodo_anterior = serie_confianca_industrial[-2:][0]['y']
+valor_periodo_atual = serie_confianca_industrial[-2:][1]['y']
+
+# valor_cartao = serie_capacidade_industria[-1:][0]['y']
 print('- Índice do cartão armazenado')
-if valor_cartao < 50:
-  direcao = 'down'
+if valor_periodo_anterior < valor_periodo_atual:
+  direcao_seta = 'up'
+elif valor_periodo_atual == valor_periodo_anterior:
+  direcao_seta = 'rigth'
 else:
-  direcao = 'up'
+  direcao_seta = 'down'
+
+if valor_periodo_atual > 50:
+  cor_valor = 'green'
+else:
+  cor_valor = 'red'
+
 
 json_confianca_industrial  = {
     'nome': 'Índice de Confiança Industrial',
@@ -66,8 +77,9 @@ json_confianca_industrial  = {
     'stats': [
         {
             'titulo': 'Brasil',
-            'valor': valor_cartao,
-            'direcao': direcao,
+            'valor': valor_periodo_atual,
+            'direcao': direcao_seta,
+            'cor_valor': cor_valor,
             'desc_serie': 'Número índice mês a mês',
             'serie_tipo': 'data',
             'referencia': referencia,

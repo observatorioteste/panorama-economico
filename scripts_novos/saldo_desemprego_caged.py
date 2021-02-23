@@ -3,6 +3,8 @@
 
 #BIBLIOTECAS
 from github import Github
+import locale
+locale.setlocale(locale.LC_ALL, 'pt_BR')
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -109,8 +111,8 @@ ftp.encoding = "LATIN-1"
 print('- FTP acessado')
 
 #Local de salvamento do arquivos compactados
-caminho_pasta_compactados = 'C:/Users\wendelsouza.iel/Desktop/compactados/'
-caminho_pasta_extracao = 'C:/Users/wendelsouza.iel/Desktop/extraidos/'
+caminho_pasta_compactados = 'G:/IEL/OBSERVATORIO/ATUALIZAÇÃO DE DADOS/panorama economico wendel/caged wendel/compactados/'
+caminho_pasta_extracao = 'G:/IEL/OBSERVATORIO/ATUALIZAÇÃO DE DADOS/panorama economico wendel/caged wendel/extraidos/'
 
 #Data sobre a data atual de exercução
 today = date.today()
@@ -226,6 +228,9 @@ for key, value in movimentacao_total.items():
     serie_br.append({'x': mes, 'y': saldo_br})
 
 
+valor_br = locale.format("%d", valor_br, grouping=True)
+
+
 caged_json = {
     'nome': 'Saldo de Empregados da Ind. de Transformação',
     'descricao': 'Saldo de empregados = Admitidos - Desligados',
@@ -234,7 +239,8 @@ caged_json = {
         {
             'titulo': 'Brasil',
             'valor': valor_br,
-            'direcao': direcao_br,
+            'direcao': 'down',
+            'cor_valor': 'green',
             'referencia': referencia_br,
             'desc_serie': 'Saldo de empregados por mês',
             'serie_tipo': 'data',
@@ -251,7 +257,8 @@ caged_json = {
         {
             'titulo': 'Goiás',
             'valor': valor_go,
-            'direcao': direcao_go,
+            'direcao': 'up',
+            'cor_valor': 'red',
             'referencia': referencia_br,
             'desc_serie': 'Saldo de empregados por mês',
             'serie_tipo': 'data',

@@ -9,7 +9,7 @@ from util import *
 from upload import *
 from github import Github
  
-wb = load_workbook(filename = 'G:/IEL/ATENDIMENTO AO CLIENTE WEB 2020/00000 PLANEJAMENTO DESENV EMPRESARIAL 2020/00003 PLANEJAMENTO ESTUDOS E PESQUISAS 2020-IEL-SANDRA/OBSERVATÓRIO/ATUALIZAÇÃO DE DADOS/icc fgv-iel-daniel.xlsx')
+wb = load_workbook(filename = 'G:/IEL/OBSERVATORIO/ATUALIZAÇÃO DE DADOS/icc fgv-iel-daniel.xlsx')
 sheet_name = wb.sheetnames[0]
 
 
@@ -50,14 +50,25 @@ ano_referencia = ano_referencia = df['referencia'][-1:].iloc[0][:4]
 mes_referencia = int(df['referencia'][-1:].iloc[0][-2:])
 referencia = meses_ano[mes_referencia-1] + '/' + ano_referencia
 
-valor_cartao = serie_icc[-1:][0]['y']
+valor_periodo_anterior = serie_icc[-2:][0]['y']
+valor_periodo_atual = serie_icc[-2:][1]['y']
+valor_cartao = valor_periodo_atual
 
-if valor_cartao < 0:
+if valor_periodo_atual > 0:
+  direcao = 'up'
+elif valor_periodo_atual < 0:
   direcao = 'down'
+else:
+  direcao = 'right'
+
+
+if valor_cartao > 0:
+  cor_valor = 'green'
+elif valor_cartao < 0:
+  cor_valor = 'red'
   valor_cartao = str(valor_cartao)[1:]
 else:
-  direcao = 'up'
-  valor_cartao = str(valor_cartao)
+  cor_valor = 'gray'
 
 print('- Índice do cartão armazenado')
 
@@ -65,12 +76,13 @@ print('- Índice do cartão armazenado')
 icc = {
     'nome': 'Índice de Confiança do Consumidor',
     'descricao': 'Variação percentual mensal',
-    'fonte': 'FECOMERCIO/ BANCO CENTRAL',
+    'fonte': 'FGV',
     'stats': [
         {
             'titulo': 'Brasil',
             'valor': valor_cartao+'%',
             'direcao': direcao,
+            'cor_valor': cor_valor,
             'desc_serie': 'Variação percentual mensal',
             'serie_tipo': 'data',
             'referencia': referencia,

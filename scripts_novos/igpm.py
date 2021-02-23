@@ -1,5 +1,4 @@
 import requests
-from github import Github
 from bs4 import BeautifulSoup as bs
 import pandas as pd
 import json
@@ -8,6 +7,7 @@ from datetime import datetime
 import util as util
 from util import *
 from upload import *
+from github import Github
  
 def retorn_num_mes(mes_nome):
   if mes_nome == 'Janeiro':
@@ -82,15 +82,35 @@ referencia = meses_ano[mes - 1] + '/' + ano
 valor_cartao =newlist[-1:][0]['y']
 print('- Valor do cartão armazenado')
 
+valor_periodo_anterior = newlist[-2:][0]['y']
+valor_periodo_atual = newlist[-2:][1]['y']
+
+if valor_periodo_atual > 0:
+  direcao = 'up'
+elif valor_periodo_atual < 0:
+  direcao = 'down'
+else:
+  direcao = 'right'
+
+
+if valor_cartao > 0:
+  cor_valor = 'green'
+elif valor_cartao < 0:
+  cor_valor = 'red'
+  valor_cartao = str(valor_cartao)[1:]
+else:
+  cor_valor = 'gray'
+  
 json_igpm = {
-    'nome': 'Índice Geral de Preços – Mercado (IGP-M)',
+    'nome': 'Índice Geral de Preços Mercado (IGP-M)',
     'descricao': 'Variação percentual mensal',
     'fonte': 'FGV',
     'stats': [
         {
             'titulo': 'Brasil',
             'valor': str(valor_cartao)+'%',
-            'direcao': "down" if float(valor_cartao) < 0 else "up",
+            'direcao': direcao,
+            'cor_valor': cor_valor,
             'desc_serie': 'Variação percentual mensal',
             'serie_tipo': 'data',
             'referencia': referencia,
