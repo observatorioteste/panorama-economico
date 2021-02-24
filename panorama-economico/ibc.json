@@ -6,7 +6,7 @@
         {
             "titulo": "Brasil",
             "valor": "4.09%",
-            "direcao": "up",
+            "direcao": "down",
             "cor_valor": "red",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
