@@ -5,8 +5,9 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 38229,
+            "valor": "38.229",
             "direcao": "down",
+            "cor_valor": "green",
             "referencia": "Dez/2020",
             "desc_serie": "Saldo de empregados por mês",
             "serie_tipo": "data",
@@ -72,7 +73,8 @@
         {
             "titulo": "Goiás",
             "valor": 820,
-            "direcao": "down",
+            "direcao": "up",
+            "cor_valor": "red",
             "referencia": "Dez/2020",
             "desc_serie": "Saldo de empregados por mês",
             "serie_tipo": "data",
