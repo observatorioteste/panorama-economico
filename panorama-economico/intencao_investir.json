@@ -5,7 +5,7 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 59.3,
+            "valor": 58.3,
             "direcao": "down",
             "cor_valor": "green",
             "desc_serie": "Número índice mês a mês",
@@ -74,7 +74,7 @@
                 },
                 {
                     "x": "2021-02-01T00:00:00Z",
-                    "y": 59.3
+                    "y": 58.3
                 }
             ]
         }
