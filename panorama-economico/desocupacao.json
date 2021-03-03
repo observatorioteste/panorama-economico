@@ -6,7 +6,11 @@
         {
             "titulo": "Brasil",
             "valor": "14.6%",
-            "direcao": "up",
+            "direcao": [
+                "up",
+                14.6,
+                "green"
+            ],
             "cor_valor": "verde",
             "desc_serie": "Variação percentual trimestral",
             "serie_tipo": "data",
@@ -37,7 +41,11 @@
         {
             "titulo": "Goiás",
             "valor": "13.2%",
-            "direcao": "up",
+            "direcao": [
+                "up",
+                13.2,
+                "green"
+            ],
             "cor_valor": "verde",
             "desc_serie": "Variação percentual trimestral",
             "serie_tipo": "data",
