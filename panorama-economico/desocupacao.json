@@ -1,6 +1,6 @@
 {
     "nome": "Taxa de Desocupação",
-    "descricao": "Variação percentual trimestral",
+    "descricao": "Variação Trimestral",
     "fonte": "IBGE/PNADC",
     "stats": [
         {
