@@ -71,12 +71,12 @@ def cath_serie():
   return {'serie_go': serie_go, 'serie_br': serie_br}      
  
 def define_informacoes_cartao(series, serie_escolhida):
-  valor_periodo_anterior = series[serie_escolhida][-2:][0]['y']
-  valor_periodo_atual = series[serie_escolhida][-2:][1]['y']
+  valor_periodo_anterior = float(series[serie_escolhida][-2:][0]['y'])
+  valor_periodo_atual = float(series[serie_escolhida][-2:][1]['y'])
 
-  if valor_periodo_atual > 0:
+  if valor_periodo_atual > valor_periodo_anterior:
     direcao_seta = 'up'
-  elif valor_periodo_atual < 0:
+  elif valor_periodo_atual < valor_periodo_anterior:
     direcao_seta = 'down'
   else:
     direcao_seta = 'right'

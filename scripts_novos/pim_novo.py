@@ -64,20 +64,20 @@ def cath_serie():
 
   return {'serie_go': serie_go, 'serie_br': serie_br}      
  
-def direcao_seta(series, serie_escolhida):
-  valor_periodo_anterior = series[serie_escolhida][-2:][0]['y']
-  valor_periodo_atual = series[serie_escolhida][-2:][1]['y']
+# def direcao_seta(series, serie_escolhida):
+#   valor_periodo_anterior = series[serie_escolhida][-2:][0]['y']
+#   valor_periodo_atual = series[serie_escolhida][-2:][1]['y']
 
-  if valor_periodo_atual > 0:
-    direcao_seta = 'up'
-  elif valor_periodo_atual < 0:
-    direcao_seta = 'down'
-  else:
-    direcao_seta = 'right'
+#   if valor_periodo_atual > valor_periodo_anterior:
+#     direcao_seta = 'up'
+#   elif valor_periodo_atual < valor_periodo_anterior:
+#     direcao_seta = 'down'
+#   else:
+#     direcao_seta = 'right'
 
-  return direcao_seta
+#   return direcao_seta
 
-def cath_cartao(frederacao):
+def cath_cartao(ferederacao):
   
   for mes in lista_periodos:
     url = 'http://api.sidra.ibge.gov.br/values/t/3653/n1/1/p/{0}/v/3140/N3/52/f/u'
@@ -87,7 +87,7 @@ def cath_cartao(frederacao):
     dados = json.loads(soup.text)
 
     try:
-      valor = dados[frederacao]['V']
+      valor = dados[ferederacao]['V']
       if str(valor) != '...':
         mes_referencia = dados[1]['D2N']
         ultimo_dado = {'mes': mes_referencia, 'valor': valor}
@@ -112,10 +112,58 @@ def cath_cartao(frederacao):
 
   return ultimo_dado  
 
+def direcao_seta(ferederacao):
+  
+  meses_ano = {'janeiro': '01', 'fevereiro': '02', 'março': '03', 'abril': '04', 'maio': '05', 'junho': '06', 'julho': '07', 'agosto': '08', 'setembro': '09', 'outubro': '10', 'novembro': '11', 'dezembro': '12'}
+
+  for mes in lista_periodos:
+    url = 'http://api.sidra.ibge.gov.br/values/t/3653/n1/1/p/{0}/v/3140/N3/52/f/u'
+    url = url.format(mes)
+    dados = requests.get(url)
+    soup = bs(dados.content, "html5lib")
+    dados = json.loads(soup.text)
+
+    try:
+      valor = dados[ferederacao]['V']
+      if str(valor) != '...':
+        mes_referencia = dados[1]['D2N']
+        valor_periodo_atual = float(valor)
+        ultimo_mes = str(mes)
+      
+    except IndexError:
+      break
+
+  ano_periodo_atual = ultimo_mes[:4]
+  mes_periodo_atual = ultimo_mes[4:]
+  ano_periodo_anterior = str(int(ano_periodo_atual) - 1)
+  mes_periodo_anterior = mes_periodo_atual
+  periodo_anterior = ano_periodo_anterior + mes_periodo_anterior
+
+  url = 'http://api.sidra.ibge.gov.br/values/t/3653/n1/1/p/{0}/v/3140/N3/52/f/u'
+  url = url.format(periodo_anterior)
+  dados = requests.get(url)
+  soup = bs(dados.content, "html5lib")
+  dados = json.loads(soup.text)
+  if str(valor) != '...':
+    valor_periodo_anterior = float(dados[ferederacao]['V'])
+
+
+  if valor_periodo_atual < valor_periodo_anterior:
+    direcao = 'down'
+  elif valor_periodo_atual > valor_periodo_anterior:
+    direcao = 'up'
+  else:
+    direcao = 'right'
+  
+  # print(type(valor_periodo_anterior))
+  # print(valor_periodo_atual)
+  # print(direcao)
+  return direcao
 
 series = cath_serie()
-direcao_br = direcao_seta(series, 'serie_br')
-direcao_go = direcao_seta(series, 'serie_go')
+direcao_br = direcao_seta(1)
+
+direcao_go = direcao_seta(2)
 cartao_br = cath_cartao(1)
 cartao_go = cath_cartao(2)
 

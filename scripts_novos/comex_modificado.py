@@ -19,22 +19,21 @@ def direcao_e_cor(serie):
   valor_atual = float(serie[-2:][1]['y'])
   valor_anterior = float(serie[-2:][0]['y'])
   
-  if valor_atual > 0:
+  if valor_atual > valor_anterior:
     direcao = 'up'
-  elif valor_atual < 0:
+  elif valor_atual < valor_anterior:
     direcao = 'down'
   else:
     direcao = 'right'
 
   if valor_atual < 0:
       cor_valor = 'red'
-      valor_atual = str(valor_atual)[1:]
+      #como o sinal de negativo ('-') não deve aparecer junto ao valor, ele é removido 
+      valor_atual = str(valor_atual)[1:] 
   else:
       cor_valor = 'green'
   # else:
   #     cor_valor = 'gray'
-
-  
   
   return [direcao, valor_atual, cor_valor]
 

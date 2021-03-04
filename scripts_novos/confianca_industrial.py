@@ -48,7 +48,7 @@ for i, row in df.iterrows():
 print('- Série criada')
 
 meses_ano = ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun', 'Jul', 'Ago', 'Set', 'Out', 'Nov', 'Dez']
-ano_referencia = ano_referencia = df['referencia'][-1:].iloc[0][:4]
+ano_referencia = df['referencia'][-1:].iloc[0][:4]
 mes_referencia = int(df['referencia'][-1:].iloc[0][-2:])
 referencia = meses_ano[mes_referencia-1] + '/' + ano_referencia
 

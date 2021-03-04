@@ -82,12 +82,12 @@ referencia = meses_ano[mes - 1] + '/' + ano
 valor_cartao =newlist[-1:][0]['y']
 print('- Valor do cartão armazenado')
 
-valor_periodo_anterior = newlist[-2:][0]['y']
-valor_periodo_atual = newlist[-2:][1]['y']
+valor_periodo_anterior = float(newlist[-2:][0]['y'])
+valor_periodo_atual = float(newlist[-2:][1]['y'])
 
-if valor_periodo_atual > 0:
+if valor_periodo_atual > valor_periodo_anterior:
   direcao = 'up'
-elif valor_periodo_atual < 0:
+elif valor_periodo_atual < valor_periodo_anterior:
   direcao = 'down'
 else:
   direcao = 'right'

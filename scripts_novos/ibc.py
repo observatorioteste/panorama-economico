@@ -70,6 +70,8 @@ for i, row in df_ibc.iterrows():
     serie_ibc.append({'x': row[0], 'y': round(float(row[1]), 2)})
 #####
 
+# print(serie_ibc)
+
 
 meses_ano = ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun', 'Jul', 'Ago', 'Set', 'Out', 'Nov', 'Dez']
 
@@ -101,26 +103,32 @@ referencia = mes_referencia + '/' + ano_ref
 
 df_ibc['valor'] = df_ibc['valor'].astype(float)
 df_ibc = df_ibc.groupby(['ano']).mean()
+#acumulado por ano
+indice_ano_atual = (df_ibc['valor'][2]/df_ibc['valor'][1] -1 )*100 
+indice_ano_atual = round(indice_ano_atual,2)
+
 #variacao = ((soma_periodo_anterir/ soma_periodo_atual) -1) /100
-indice = (df_ibc['valor'][2]/df_ibc['valor'][1] -1 )*100 
-indice = round(indice,2)
-               
-if indice < 0:
-  indice = str(indice)[1:]
-  cor_valor = "red"
-else:
-  indice = str(indice)
-  cor_valor = "green"
+indice_ano_anterior = (df_ibc['valor'][1]/df_ibc['valor'][0] -1 )*100 
+indice_ano_anterior = round(indice_ano_anterior,2)
 
-valor_periodo_atual = serie_ibc[-2:][1]['y']
-valor_periodo_anterior = serie_ibc[-2:][0]['y']
 
-if valor_periodo_atual > 0:
+# valor_periodo_atual = serie_ibc[-2:][1]['y']
+# valor_periodo_anterior = serie_ibc[-2:][0]['y']
+
+if indice_ano_atual > indice_ano_anterior:
   direcao = 'up'
-elif valor_periodo_atual < 0:
+elif indice_ano_atual < indice_ano_anterior:
   direcao = 'down'
 else:
   direcao = 'right'
+
+indice_ano_atual = str(indice_ano_atual)
+if float(indice_ano_atual) < 0:
+  indice_ano_atual = indice_ano_atual[1:]
+  cor_valor = "red"
+else:
+  cor_valor = "green"
+
 
 print('- Valor do cartão armazenado')
 #################################################
@@ -132,7 +140,7 @@ ibc_json = {
     'stats': [
         {
             'titulo': 'Brasil',
-            'valor': indice+'%',
+            'valor': indice_ano_atual+'%',
             'direcao': direcao,
             'cor_valor': cor_valor,
             'desc_serie': 'Variação percentual mensal',

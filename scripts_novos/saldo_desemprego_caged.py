@@ -240,7 +240,7 @@ caged_json = {
             'titulo': 'Brasil',
             'valor': valor_br,
             'direcao': 'down',
-            'cor_valor': 'green',
+            'cor_valor': 'red',
             'referencia': referencia_br,
             'desc_serie': 'Saldo de empregados por mês',
             'serie_tipo': 'data',

@@ -12,7 +12,6 @@ from github import Github
 wb = load_workbook(filename = 'G:/IEL/OBSERVATORIO/ATUALIZAÇÃO DE DADOS/icc fgv-iel-daniel.xlsx')
 sheet_name = wb.sheetnames[0]
 
-
 print('- Planilha acessada')
 
 ws = wb[sheet_name]
@@ -54,9 +53,9 @@ valor_periodo_anterior = serie_icc[-2:][0]['y']
 valor_periodo_atual = serie_icc[-2:][1]['y']
 valor_cartao = valor_periodo_atual
 
-if valor_periodo_atual > 0:
+if valor_periodo_atual > valor_periodo_anterior:
   direcao = 'up'
-elif valor_periodo_atual < 0:
+elif valor_periodo_atual < valor_periodo_anterior:
   direcao = 'down'
 else:
   direcao = 'right'
@@ -80,7 +79,7 @@ icc = {
     'stats': [
         {
             'titulo': 'Brasil',
-            'valor': valor_cartao+'%',
+            'valor': str(valor_cartao)+'%',
             'direcao': direcao,
             'cor_valor': cor_valor,
             'desc_serie': 'Variação percentual mensal',
