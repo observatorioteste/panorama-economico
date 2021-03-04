@@ -1,7 +1,7 @@
 {
     "nome": "Saldo de Empregados da Ind. de Transformação",
     "descricao": "Saldo de empregados = Admitidos - Desligados",
-    "fonte": "CAGED",
+    "fonte": "MTE",
     "stats": [
         {
             "titulo": "Brasil",
