@@ -1,6 +1,6 @@
 {
     "nome": "Índice de Atividade Econômica",
-    "descricao": "Variação percentual em relação ao mesmo período do ano anterior (dessazonalizado)",
+    "descricao": "Variação percentual em relação ao mesmo período do ano anterior",
     "fonte": "BACEN",
     "stats": [
         {
