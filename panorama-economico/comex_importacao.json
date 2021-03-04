@@ -1,7 +1,7 @@
 {
     "nome": "Importações",
     "descricao": "Variação em relação ao mesmo mês do ano anterior",
-    "fonte": "MDIC",
+    "fonte": "ME",
     "stats": [
         {
             "titulo": "Brasil",
