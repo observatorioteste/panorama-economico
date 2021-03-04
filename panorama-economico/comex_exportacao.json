@@ -1,7 +1,7 @@
 {
     "nome": "Exportações",
     "descricao": "Variação em relação ao mesmo mês do ano anterior",
-    "fonte": "MDIC",
+    "fonte": "ME",
     "stats": [
         {
             "titulo": "Brasil",
@@ -95,7 +95,7 @@
         {
             "titulo": "Goiás",
             "valor": "1.7%",
-            "direcao": "up",
+            "direcao": "down",
             "cor_valor": "red",
             "desc_serie": "Variação percentual em relação ao mesmo período do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
