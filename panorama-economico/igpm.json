@@ -1,6 +1,6 @@
 {
     "nome": "Índice Geral de Preços Mercado (IGP-M)",
-    "descricao": "Variação percentual mensal",
+    "descricao": "Variação mensal",
     "fonte": "FGV",
     "stats": [
         {
