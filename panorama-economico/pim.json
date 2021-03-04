@@ -1,7 +1,7 @@
 {
     "nome": "Produção Física Industrial",
     "descricao": "Variação em relação ao mesmo período do ano anterior (dessasonalizado)",
-    "fonte": "IBGE",
+    "fonte": "IBGE - PIM-PF",
     "stats": [
         {
             "titulo": "Brasil",
