@@ -1,6 +1,6 @@
 {
     "nome": "Índice Nacional de Preços ao Consumidor - INPC",
-    "descricao": "Variação percentual mensal",
+    "descricao": "Variação mensal",
     "fonte": "IBGE",
     "stats": [
         {
