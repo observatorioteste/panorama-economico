@@ -5,12 +5,12 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "4.5%",
-            "direcao": "down",
-            "cor_valor": "red",
+            "valor": "2.0%",
+            "direcao": "up",
+            "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Jan-Dez/2020",
+            "referencia": "Jan/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -22,11 +22,11 @@
             "serie": [
                 {
                     "x": "2020-01-01T00:00:00Z",
-                    "y": 1.0
+                    "y": 1.2
                 },
                 {
                     "x": "2020-02-01T00:00:00Z",
-                    "y": 1.0
+                    "y": 0.9
                 },
                 {
                     "x": "2020-03-01T00:00:00Z",
@@ -46,11 +46,11 @@
                 },
                 {
                     "x": "2020-07-01T00:00:00Z",
-                    "y": 8.6
+                    "y": 8.7
                 },
                 {
                     "x": "2020-08-01T00:00:00Z",
-                    "y": 3.5
+                    "y": 3.4
                 },
                 {
                     "x": "2020-09-01T00:00:00Z",
@@ -66,7 +66,11 @@
                 },
                 {
                     "x": "2020-12-01T00:00:00Z",
-                    "y": 0.9
+                    "y": 0.8
+                },
+                {
+                    "x": "2021-01-01T00:00:00Z",
+                    "y": 0.4
                 }
             ]
         },
