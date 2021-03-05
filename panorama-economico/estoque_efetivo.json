@@ -8,6 +8,7 @@
             "valor": 47.3,
             "direcao": "up",
             "cor_valor": "green",
+            "cor_seta": "orange",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
             "referencia": "Jan/2021",
