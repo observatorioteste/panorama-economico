@@ -5,13 +5,13 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "2.2%",
+            "valor": "3.9%",
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "Jan/2021",
+            "referencia": "Jan-Fev/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -88,20 +88,25 @@
                 },
                 {
                     "x": "2021-01-01T00:00:00Z",
-                    "y": 2.2,
-                    "y2": "14.807.700.896,00"
+                    "y": 3.1,
+                    "y2": "14.947.570.374,00"
+                },
+                {
+                    "x": "2021-02-01T00:00:00Z",
+                    "y": 3.9,
+                    "y2": "16.182.710.993,00"
                 }
             ]
         },
         {
             "titulo": "Goiás",
-            "valor": "1.7%",
+            "valor": "16.0%",
             "direcao": "down",
             "cor_valor": "red",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "Jan/2021",
+            "referencia": "Jan-Fev/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -178,8 +183,13 @@
                 },
                 {
                     "x": "2021-01-01T00:00:00Z",
-                    "y": -1.7,
-                    "y2": "370.927.030,00"
+                    "y": -0.5,
+                    "y2": "375.510.421,00"
+                },
+                {
+                    "x": "2021-02-01T00:00:00Z",
+                    "y": -16.0,
+                    "y2": "364.037.433,00"
                 }
             ]
         }
