@@ -6,7 +6,7 @@
         {
             "titulo": "Brasil",
             "valor": "87.162",
-            "direcao": "down",
+            "direcao": "up",
             "cor_valor": "red",
             "referencia": "Jan/2021",
             "desc_serie": "Saldo de empregados por mês",
@@ -77,7 +77,7 @@
         {
             "titulo": "Goiás",
             "valor": 2576,
-            "direcao": "down",
+            "direcao": "up",
             "cor_valor": "red",
             "referencia": "Jan/2021",
             "desc_serie": "Saldo de empregados por mês",
