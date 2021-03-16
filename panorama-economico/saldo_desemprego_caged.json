@@ -76,7 +76,7 @@
         },
         {
             "titulo": "Goiás",
-            "valor": 2576,
+            "valor": 2.576,
             "direcao": "up",
             "cor_valor": "green",
             "referencia": "Jan/2021",
