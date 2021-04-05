@@ -5,7 +5,7 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "3.9%",
+            "valor": "3,5%",
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
@@ -100,7 +100,7 @@
         },
         {
             "titulo": "Goiás",
-            "valor": "16.0%",
+            "valor": "-8,8%",
             "direcao": "down",
             "cor_valor": "red",
             "cor_seta": "orange",
