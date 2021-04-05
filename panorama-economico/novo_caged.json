@@ -4,16 +4,16 @@
         "nome": "Cadastro Geral de Empregados e Desempregados - CAGED",
         "descricao": "-",
         "fonte": "Ministério do Trabalho",
-        "referencia": "202101",
+        "referencia": "202102",
         "saldo_ultimo_mes_br": {
-            "saldo": 87162,
-            "desligamentos": -192100,
-            "admissoes": 279262
+            "saldo": 88208,
+            "desligamentos": -215584,
+            "admissoes": 303792
         },
         "saldo_ultimo_mes_go": {
-            "saldo": 2576,
-            "desligamentos": -7014,
-            "admissoes": 9590
+            "saldo": 3767,
+            "desligamentos": -7135,
+            "admissoes": 10902
         },
         "periodicidade": "mensal"
     }
