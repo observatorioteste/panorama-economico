@@ -5,12 +5,12 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "2.53%",
+            "valor": "2.94%",
             "direcao": "up",
             "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Fev/2021",
+            "referencia": "Mar/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -75,6 +75,10 @@
                 {
                     "x": "2021-02-01T00:00:00Z",
                     "y": 2.53
+                },
+                {
+                    "x": "2021-03-01T00:00:00Z",
+                    "y": 2.94
                 }
             ]
         }
