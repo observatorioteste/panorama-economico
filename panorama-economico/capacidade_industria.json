@@ -7,11 +7,11 @@
             "titulo": "Brasil",
             "valor": 69.0,
             "cor_seta": "orange",
-            "direcao": "down",
+            "direcao": "rigth",
             "cor_valor": "green",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
-            "referencia": "Jan/2021",
+            "referencia": "Fev/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": ""
@@ -71,6 +71,10 @@
                 },
                 {
                     "x": "2021-01-01T00:00:00Z",
+                    "y": 69.0
+                },
+                {
+                    "x": "2021-02-01T00:00:00Z",
                     "y": 69.0
                 }
             ]
