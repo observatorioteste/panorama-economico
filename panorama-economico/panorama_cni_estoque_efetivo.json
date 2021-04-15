@@ -1,0 +1,83 @@
+{
+    "nome": "Estoque efetivo em relação ao planejado da Indústria",
+    "descricao": "O índice varia de 0 a 100. Quanto mais próximo de 0, maior o estoques vendido, mais próximo de 100, maior o estoque mantido.",
+    "fonte": "CNI",
+    "stats": [
+        {
+            "titulo": "Brasil",
+            "valor": 47,
+            "direcao": "down",
+            "cor_valor": "green",
+            "cor_seta": "orange",
+            "desc_serie": "Número índice mês a mês",
+            "serie_tipo": "data",
+            "referencia": "Fev/2021",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": ""
+            },
+            "serie_labels": {
+                "x": "Data",
+                "y": "Índice"
+            },
+            "serie": [
+                {
+                    "x": "2020-01-01T00:00:00Z",
+                    "y": 49.1
+                },
+                {
+                    "x": "2020-02-01T00:00:00Z",
+                    "y": 49.6
+                },
+                {
+                    "x": "2020-03-01T00:00:00Z",
+                    "y": 49.9
+                },
+                {
+                    "x": "2020-04-01T00:00:00Z",
+                    "y": 49.8
+                },
+                {
+                    "x": "2020-05-01T00:00:00Z",
+                    "y": 47.4
+                },
+                {
+                    "x": "2020-06-01T00:00:00Z",
+                    "y": 46
+                },
+                {
+                    "x": "2020-07-01T00:00:00Z",
+                    "y": 46
+                },
+                {
+                    "x": "2020-08-01T00:00:00Z",
+                    "y": 45.2
+                },
+                {
+                    "x": "2020-09-01T00:00:00Z",
+                    "y": 43.4
+                },
+                {
+                    "x": "2020-10-01T00:00:00Z",
+                    "y": 43.3
+                },
+                {
+                    "x": "2020-11-01T00:00:00Z",
+                    "y": 44.1
+                },
+                {
+                    "x": "2020-12-01T00:00:00Z",
+                    "y": 45.5
+                },
+                {
+                    "x": "2021-01-01T00:00:00Z",
+                    "y": 47.3
+                },
+                {
+                    "x": "2021-02-01T00:00:00Z",
+                    "y": 47
+                }
+            ]
+        }
+    ]
+}
