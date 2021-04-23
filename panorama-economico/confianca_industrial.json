@@ -9,7 +9,7 @@
             "direcao": "down",
             "cor_valor": "green",
             "cor_seta": "orange",
-            "desc_serie": "Número índice mês a mês",
+            "desc_serie": "Número índice mês a mês.",
             "serie_tipo": "data",
             "referencia": "Mar/2021",
             "y_label": {
