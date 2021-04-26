@@ -45,7 +45,7 @@
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
-            "desc_serie": "Variação. percentual trimestral",
+            "desc_serie": "Variação percentual trimestral",
             "serie_tipo": "data",
             "referencia": "Out-Dez/2020",
             "y_label": {
