@@ -1,0 +1,79 @@
+{
+    "nome": "Taxa de Desocupação",
+    "descricao": "Variação Trimestral",
+    "fonte": "IBGE/PNADC",
+    "stats": [
+        {
+            "titulo": "Brasil",
+            "valor": "13.9%",
+            "direcao": "up",
+            "cor_valor": "green",
+            "cor_seta": "orange",
+            "desc_serie": "Variação percentual trimestral",
+            "serie_tipo": "data",
+            "referencia": "Out-Dez/2020",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": "%"
+            },
+            "serie_labels": {
+                "x": "Data",
+                "y": "Variação"
+            },
+            "serie": [
+                {
+                    "x": "2020-01-01T00:00:00Z",
+                    "y": 12.2
+                },
+                {
+                    "x": "2020-04-01T00:00:00Z",
+                    "y": 13.3
+                },
+                {
+                    "x": "2020-07-01T00:00:00Z",
+                    "y": 14.6
+                },
+                {
+                    "x": "2020-10-01T00:00:00Z",
+                    "y": 13.9
+                }
+            ]
+        },
+        {
+            "titulo": "Goiás",
+            "valor": "12.4%",
+            "direcao": "up",
+            "cor_valor": "green",
+            "cor_seta": "orange",
+            "desc_serie": "Variação. percentual trimestral",
+            "serie_tipo": "data",
+            "referencia": "Out-Dez/2020",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": "%"
+            },
+            "serie_labels": {
+                "x": "Data",
+                "y": "Variação"
+            },
+            "serie": [
+                {
+                    "x": "2020-01-01T00:00:00Z",
+                    "y": 11.3
+                },
+                {
+                    "x": "2020-04-01T00:00:00Z",
+                    "y": 12.8
+                },
+                {
+                    "x": "2020-07-01T00:00:00Z",
+                    "y": 13.2
+                },
+                {
+                    "x": "2020-10-01T00:00:00Z",
+                    "y": 12.4
+                }
+            ]
+        }
+    ]
+}
