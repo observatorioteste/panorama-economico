@@ -1,6 +1,6 @@
 {
     "nome": "Estoque efetivo em relação ao planejado da Indústria",
-    "descricao": "O díndice varia de 0 a 100. Quanto mais próximo de 0, maior o estoques vendido, mais próximo de 100, maior o estoque mantido.",
+    "descricao": "O índice varia de 0 a 100. Quanto mais próximo de 0, maior o estoques vendido, mais próximo de 100, maior o estoque mantido.",
     "fonte": "CNI",
     "stats": [
         {
