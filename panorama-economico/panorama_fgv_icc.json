@@ -1,81 +1,80 @@
 {
-    "nome": "Estoque efetivo em relação ao planejado da Indústria",
-    "descricao": "O índice varia de 0 a 100. Quanto mais próximo de 0, maior o estoques vendido, mais próximo de 100, maior o estoque mantido.",
-    "fonte": "CNI",
+    "nome": "Índice de Confiança do Consumidor",
+    "descricao": "Variação mensal.",
+    "fonte": "FGV",
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 47,
-            "direcao": "down",
+            "valor": "2.9%",
+            "direcao": "up",
             "cor_valor": "green",
-            "cor_seta": "orange",
-            "desc_serie": "Número índice mês a mês",
+            "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
             "referencia": "Fev/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
-                "label": ""
+                "label": "%"
             },
             "serie_labels": {
                 "x": "Data",
-                "y": "Índice"
+                "y": "Variação"
             },
             "serie": [
                 {
                     "x": "2020-01-01T00:00:00Z",
-                    "y": 49.1
+                    "y": -1.31
                 },
                 {
                     "x": "2020-02-01T00:00:00Z",
-                    "y": 49.6
+                    "y": -2.88
                 },
                 {
                     "x": "2020-03-01T00:00:00Z",
-                    "y": 49.9
+                    "y": -8.66
                 },
                 {
                     "x": "2020-04-01T00:00:00Z",
-                    "y": 49.8
+                    "y": -27.43
                 },
                 {
                     "x": "2020-05-01T00:00:00Z",
-                    "y": 47.4
+                    "y": 6.7
                 },
                 {
                     "x": "2020-06-01T00:00:00Z",
-                    "y": 46
+                    "y": 14.49
                 },
                 {
                     "x": "2020-07-01T00:00:00Z",
-                    "y": 46
+                    "y": 10.83
                 },
                 {
                     "x": "2020-08-01T00:00:00Z",
-                    "y": 45.2
+                    "y": 1.78
                 },
                 {
                     "x": "2020-09-01T00:00:00Z",
-                    "y": 43.4
+                    "y": 3.99
                 },
                 {
                     "x": "2020-10-01T00:00:00Z",
-                    "y": 43.3
+                    "y": -1.2
                 },
                 {
                     "x": "2020-11-01T00:00:00Z",
-                    "y": 44.1
+                    "y": -0.85
                 },
                 {
                     "x": "2020-12-01T00:00:00Z",
-                    "y": 45.5
+                    "y": -3.92
                 },
                 {
                     "x": "2021-01-01T00:00:00Z",
-                    "y": 47.3
+                    "y": -3.44
                 },
                 {
                     "x": "2021-02-01T00:00:00Z",
-                    "y": 47
+                    "y": 2.9
                 }
             ]
         }
