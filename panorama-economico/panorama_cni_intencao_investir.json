@@ -1,6 +1,6 @@
 {
     "nome": "Intenção de Investir na Indústria",
-    "descricao": "O índice varia de 0 a 100.. Quanto maior é o índice, maior a intenção de investir.",
+    "descricao": "O índice varia de 0 a 100. Quanto maior é o índice, maior a intenção de investir.",
     "fonte": "CNI",
     "stats": [
         {
