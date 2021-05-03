@@ -1,7 +1,7 @@
 {
     "nome": "Utilização da Capacidade Instalada da Indústria",
     "descricao": "O índice varik0 a 100. Valores acima de 50 pontos indicam que a capacidade ficou acima do usual para o mês.",
-    "fonte": "CNI",klk
+    "fonte": "CNI", 
     "stats": [
         {
             "titulo": "Brasil",
