@@ -1,6 +1,6 @@
 {
     "nome": "Exportações",
-    "descricao": "Variação percentual em relação ao mesmo período do ano anterior",
+    "descricao": "Variação percentual em relação ao mesmo período do ano anterior.",
     "fonte": "ME",
     "stats": [
         {
