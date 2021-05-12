@@ -1,16 +1,16 @@
 {
     "nome": "Índice Nacional de Preços ao Consumidor Amplo- IPCA",
-    "descricao": "Variação mensal",
+    "descricao": "Variação percentual mensal",
     "fonte": "IBGE",
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "0.93%",
+            "valor": "0.31%",
             "direcao": "up",
             "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Jan-Mar/2021",
+            "referencia": "Abr/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -79,17 +79,21 @@
                 {
                     "x": "2021-03-01T00:00:00Z",
                     "y": 0.93
+                },
+                {
+                    "x": "2021-04-01T00:00:00Z",
+                    "y": 0.31
                 }
             ]
         },
         {
             "titulo": "Goiás",
-            "valor": "1.46%",
+            "valor": "0.2%",
             "direcao": "up",
             "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Jan-Mar/2021",
+            "referencia": "Abr/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -158,6 +162,10 @@
                 {
                     "x": "2021-03-01T00:00:00Z",
                     "y": 1.46
+                },
+                {
+                    "x": "2021-04-01T00:00:00Z",
+                    "y": 0.2
                 }
             ]
         }
