@@ -5,13 +5,13 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "33.2%",
+            "valor": "50.5%",
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "Jan-Mar/2021",
+            "referencia": "Jan-Abr/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -89,29 +89,34 @@
                 {
                     "x": "2021-01-01T00:00:00Z",
                     "y": 3.5,
-                    "y2": "14.937.183.891,00"
+                    "y2": "14.936.602.807,00"
                 },
                 {
                     "x": "2021-02-01T00:00:00Z",
-                    "y": 6.3,
-                    "y2": "16.325.829.580,00"
+                    "y": 6.5,
+                    "y2": "16.351.767.724,00"
                 },
                 {
                     "x": "2021-03-01T00:00:00Z",
-                    "y": 33.2,
-                    "y2": "24.386.335.078,00"
+                    "y": 33.0,
+                    "y2": "24.347.732.803,00"
+                },
+                {
+                    "x": "2021-04-01T00:00:00Z",
+                    "y": 50.5,
+                    "y2": "26.480.766.246,00"
                 }
             ]
         },
         {
             "titulo": "Goiás",
-            "valor": "18.8%",
+            "valor": "37.4%",
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "Jan-Mar/2021",
+            "referencia": "Jan-Abr/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -188,18 +193,23 @@
                 },
                 {
                     "x": "2021-01-01T00:00:00Z",
-                    "y": -0.3,
-                    "y2": "376.304.471,00"
+                    "y": -0.2,
+                    "y2": "376.421.774,00"
                 },
                 {
                     "x": "2021-02-01T00:00:00Z",
-                    "y": -11.7,
-                    "y2": "382.814.959,00"
+                    "y": -11.5,
+                    "y2": "383.640.567,00"
                 },
                 {
                     "x": "2021-03-01T00:00:00Z",
-                    "y": 18.8,
-                    "y2": "986.509.340,00"
+                    "y": 23.5,
+                    "y2": "1.025.010.512,00"
+                },
+                {
+                    "x": "2021-04-01T00:00:00Z",
+                    "y": 37.4,
+                    "y2": "962.150.857,00"
                 }
             ]
         }
