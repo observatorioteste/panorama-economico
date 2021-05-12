@@ -1,6 +1,6 @@
 {
     "nome": "Índice Nacional de Preços ao Consumidor - INPC",
-    "descricao": "Variação mensal",
+    "descricao": "Variação percentual mensal",
     "fonte": "IBGE",
     "stats": [
         {
@@ -8,7 +8,7 @@
             "valor": "0.38%",
             "direcao": "up",
             "cor_valor": "green",
-            "desc_serie": "Variação mensal",
+            "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
             "referencia": "Abr/2021",
             "y_label": {
