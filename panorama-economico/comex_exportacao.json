@@ -5,13 +5,13 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "50.5%",
+            "valor": "53.8%",
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "Jan-Abr/2021",
+            "referencia": "Jan-Mai/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -88,35 +88,40 @@
                 },
                 {
                     "x": "2021-01-01T00:00:00Z",
-                    "y": 3.5,
-                    "y2": "14.936.602.807,00"
+                    "y": 3.6,
+                    "y2": "14.943.309.366,00"
                 },
                 {
                     "x": "2021-02-01T00:00:00Z",
                     "y": 6.5,
-                    "y2": "16.351.767.724,00"
+                    "y2": "16.355.968.775,00"
                 },
                 {
                     "x": "2021-03-01T00:00:00Z",
-                    "y": 33.0,
-                    "y2": "24.347.732.803,00"
+                    "y": 32.7,
+                    "y2": "24.308.137.572,00"
                 },
                 {
                     "x": "2021-04-01T00:00:00Z",
-                    "y": 50.5,
-                    "y2": "26.480.766.246,00"
+                    "y": 48.2,
+                    "y2": "26.082.699.620,00"
+                },
+                {
+                    "x": "2021-05-01T00:00:00Z",
+                    "y": 53.8,
+                    "y2": "26.948.280.926,00"
                 }
             ]
         },
         {
             "titulo": "Goiás",
-            "valor": "37.4%",
-            "direcao": "up",
-            "cor_valor": "green",
+            "valor": "1.1%",
+            "direcao": "down",
+            "cor_valor": "red",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "Jan-Abr/2021",
+            "referencia": "Jan-Mai/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -194,22 +199,27 @@
                 {
                     "x": "2021-01-01T00:00:00Z",
                     "y": -0.2,
-                    "y2": "376.421.774,00"
+                    "y2": "376.430.730,00"
                 },
                 {
                     "x": "2021-02-01T00:00:00Z",
                     "y": -11.5,
-                    "y2": "383.640.567,00"
+                    "y2": "383.695.537,00"
                 },
                 {
                     "x": "2021-03-01T00:00:00Z",
-                    "y": 23.5,
-                    "y2": "1.025.010.512,00"
+                    "y": 25.6,
+                    "y2": "1.042.857.630,00"
                 },
                 {
                     "x": "2021-04-01T00:00:00Z",
-                    "y": 37.4,
-                    "y2": "962.150.857,00"
+                    "y": 52.8,
+                    "y2": "1.069.670.546,00"
+                },
+                {
+                    "x": "2021-05-01T00:00:00Z",
+                    "y": -1.1,
+                    "y2": "934.688.294,00"
                 }
             ]
         }
