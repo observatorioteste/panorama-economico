@@ -5,13 +5,13 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "41.1%",
+            "valor": "65.3%",
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "Jan-Abr/2021",
+            "referencia": "Jan-Mai/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -89,34 +89,39 @@
                 {
                     "x": "2021-01-01T00:00:00Z",
                     "y": -10.7,
-                    "y2": "15.351.627.871,00"
+                    "y2": "15.351.146.698,00"
                 },
                 {
                     "x": "2021-02-01T00:00:00Z",
-                    "y": 4.9,
-                    "y2": "14.533.736.111,00"
+                    "y": 5.0,
+                    "y2": "14.539.954.689,00"
                 },
                 {
                     "x": "2021-03-01T00:00:00Z",
                     "y": 25.2,
-                    "y2": "17.861.574.696,00"
+                    "y2": "17.863.405.573,00"
                 },
                 {
                     "x": "2021-04-01T00:00:00Z",
-                    "y": 41.1,
-                    "y2": "16.131.639.156,00"
+                    "y": 40.9,
+                    "y2": "16.102.433.906,00"
+                },
+                {
+                    "x": "2021-05-01T00:00:00Z",
+                    "y": 65.3,
+                    "y2": "17.657.415.132,00"
                 }
             ]
         },
         {
             "titulo": "Goiás",
-            "valor": "64.2%",
+            "valor": "20.0%",
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "Jan-Abr/2021",
+            "referencia": "Jan-Mai/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -204,12 +209,17 @@
                 {
                     "x": "2021-03-01T00:00:00Z",
                     "y": 53.6,
-                    "y2": "428.163.463,00"
+                    "y2": "428.067.371,00"
                 },
                 {
                     "x": "2021-04-01T00:00:00Z",
-                    "y": 64.2,
-                    "y2": "328.673.815,00"
+                    "y": 64.1,
+                    "y2": "328.672.677,00"
+                },
+                {
+                    "x": "2021-05-01T00:00:00Z",
+                    "y": 20.0,
+                    "y2": "335.115.920,00"
                 }
             ]
         }
