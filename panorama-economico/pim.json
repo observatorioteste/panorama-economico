@@ -11,7 +11,7 @@
             "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Jan-Abr/2021",
+            "referencia": "Abr/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -94,7 +94,7 @@
             "cor_valor": "red",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Jan-Abr/2021",
+            "referencia": "Abr/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
