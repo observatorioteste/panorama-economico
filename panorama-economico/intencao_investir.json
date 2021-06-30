@@ -5,12 +5,12 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 55.8,
+            "valor": 57,
             "direcao": "up",
             "cor_valor": "green",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
-            "referencia": "Mai/2021",
+            "referencia": "Jun/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": ""
@@ -87,6 +87,10 @@
                 {
                     "x": "2021-05-01T00:00:00Z",
                     "y": 55.8
+                },
+                {
+                    "x": "2021-06-01T00:00:00Z",
+                    "y": 57
                 }
             ]
         }
