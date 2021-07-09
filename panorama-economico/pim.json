@@ -1,6 +1,6 @@
 {
     "nome": "Produção Física Industrial",
-    "descricao": "Variação percentual em relação ao mesmo período do ano anterior",
+    "descricao": "Variação percentual mensal",
     "fonte": "IBGE - PIM-PF",
     "stats": [
         {
