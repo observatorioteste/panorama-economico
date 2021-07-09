@@ -1,11 +1,11 @@
 {
     "nome": "Produção Física Industrial",
-    "descricao": "Variação percentual mensal",
+    "descricao": "Variação percentual em relação ao mesmo período do ano anterior",
     "fonte": "IBGE - PIM-PF",
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "1.4%",
+            "valor": "13.1%",
             "direcao": "up",
             "cor_seta": "orange",
             "cor_valor": "green",
@@ -93,9 +93,9 @@
         },
         {
             "titulo": "Goiás",
-            "valor": "4.8%",
-            "direcao": "up",
-            "cor_valor": "green",
+            "valor": "4.2%",
+            "direcao": "down",
+            "cor_valor": "red",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
             "referencia": "Mai/2021",
