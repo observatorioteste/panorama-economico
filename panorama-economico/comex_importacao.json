@@ -5,13 +5,13 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "62.6%",
+            "valor": "53.5%",
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "Jun 2020 - Jun 2021",
+            "referencia": "Jul 2020 - Jul 2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -89,44 +89,49 @@
                 {
                     "x": "2021-01-01T00:00:00Z",
                     "y": -11.8,
-                    "y2": "15.166.333.789,00"
+                    "y2": "15.166.723.343,00"
                 },
                 {
                     "x": "2021-02-01T00:00:00Z",
                     "y": 5.0,
-                    "y2": "14.538.616.098,00"
+                    "y2": "14.538.843.888,00"
                 },
                 {
                     "x": "2021-03-01T00:00:00Z",
                     "y": 25.2,
-                    "y2": "17.861.757.751,00"
+                    "y2": "17.862.188.052,00"
                 },
                 {
                     "x": "2021-04-01T00:00:00Z",
                     "y": 40.8,
-                    "y2": "16.096.137.815,00"
+                    "y2": "16.096.421.678,00"
                 },
                 {
                     "x": "2021-05-01T00:00:00Z",
                     "y": 65.2,
-                    "y2": "17.648.883.441,00"
+                    "y2": "17.648.154.734,00"
                 },
                 {
                     "x": "2021-06-01T00:00:00Z",
                     "y": 62.6,
-                    "y2": "17.844.452.107,00"
+                    "y2": "17.844.290.909,00"
+                },
+                {
+                    "x": "2021-07-01T00:00:00Z",
+                    "y": 53.5,
+                    "y2": "18.133.285.711,00"
                 }
             ]
         },
         {
             "titulo": "Goiás",
-            "valor": "34.4%",
+            "valor": "40.1%",
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "Jun 2020 - Jun 2021",
+            "referencia": "Jul 2020 - Jul 2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -224,12 +229,17 @@
                 {
                     "x": "2021-05-01T00:00:00Z",
                     "y": 20.0,
-                    "y2": "335.085.004,00"
+                    "y2": "335.082.874,00"
                 },
                 {
                     "x": "2021-06-01T00:00:00Z",
                     "y": 34.4,
-                    "y2": "346.661.119,00"
+                    "y2": "346.674.046,00"
+                },
+                {
+                    "x": "2021-07-01T00:00:00Z",
+                    "y": 40.1,
+                    "y2": "368.434.531,00"
                 }
             ]
         }
