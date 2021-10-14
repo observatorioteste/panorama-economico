@@ -5,7 +5,7 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "7.95%",
+            "valor": "7.95",
             "direcao": "down",
             "cor_valor": "red",
             "desc_serie": "Variação percentual mensal",
@@ -13,7 +13,7 @@
             "referencia": "Set/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
-                "label": "%"
+                "label": ""
             },
             "serie_labels": {
                 "x": "Data",
