@@ -5,12 +5,12 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "7.95%",
-            "direcao": "o",
-            "cor_valor": "red",
+            "valor": "1.33%",
+            "direcao": "up",
+            "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Set/2021",
+            "referencia": "Out/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -103,6 +103,10 @@
                 {
                     "x": "2021-09-01T00:00:00Z",
                     "y": -7.95
+                },
+                {
+                    "x": "2021-10-01T00:00:00Z",
+                    "y": 1.33
                 }
             ]
         }
