@@ -10,7 +10,7 @@
             "cor_valor": "green",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
-            "referencia": "Ot/2021",
+            "referencia": "Out/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": ""
