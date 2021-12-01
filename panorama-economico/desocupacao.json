@@ -5,13 +5,13 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "14.1%",
+            "valor": "12.6%",
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual trimestral",
             "serie_tipo": "data",
-            "referencia": "Abr-Jun/2021",
+            "referencia": "Jul-Set/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -23,39 +23,43 @@
             "serie": [
                 {
                     "x": "2020-01-01T00:00:00Z",
-                    "y": 12.2
+                    "y": 12.4
                 },
                 {
                     "x": "2020-04-01T00:00:00Z",
-                    "y": 13.3
+                    "y": 13.6
                 },
                 {
                     "x": "2020-07-01T00:00:00Z",
-                    "y": 14.6
+                    "y": 14.9
                 },
                 {
                     "x": "2020-10-01T00:00:00Z",
-                    "y": 13.9
+                    "y": 14.2
                 },
                 {
                     "x": "2021-01-01T00:00:00Z",
-                    "y": 14.7
+                    "y": 14.9
                 },
                 {
                     "x": "2021-04-01T00:00:00Z",
-                    "y": 14.1
+                    "y": 14.2
+                },
+                {
+                    "x": "2021-07-01T00:00:00Z",
+                    "y": 12.6
                 }
             ]
         },
         {
             "titulo": "Goiás",
-            "valor": "12.4%",
+            "valor": "10.0%",
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual trimestral",
             "serie_tipo": "data",
-            "referencia": "Abr-Jun/2021",
+            "referencia": "Jul-Set/2021",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -67,27 +71,31 @@
             "serie": [
                 {
                     "x": "2020-01-01T00:00:00Z",
-                    "y": 11.3
+                    "y": 11.5
                 },
                 {
                     "x": "2020-04-01T00:00:00Z",
-                    "y": 12.8
+                    "y": 13.0
                 },
                 {
                     "x": "2020-07-01T00:00:00Z",
-                    "y": 13.2
+                    "y": 13.5
                 },
                 {
                     "x": "2020-10-01T00:00:00Z",
-                    "y": 12.4
+                    "y": 12.7
                 },
                 {
                     "x": "2021-01-01T00:00:00Z",
-                    "y": 13.5
+                    "y": 13.9
                 },
                 {
                     "x": "2021-04-01T00:00:00Z",
                     "y": 12.4
+                },
+                {
+                    "x": "2021-07-01T00:00:00Z",
+                    "y": 10.0
                 }
             ]
         }
