@@ -5,10 +5,10 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "5.932",
-            "direcao": "up",
-            "cor_valor": "green",
-            "referencia": "Nov/2021",
+            "valor": "88.296",
+            "direcao": "down",
+            "cor_valor": "red",
+            "referencia": "Dez/2021",
             "desc_serie": "Saldo de empregados por mês",
             "serie_tipo": "data",
             "y_label": {
@@ -20,6 +20,10 @@
                 "y": "Valor"
             },
             "serie": [
+                {
+                    "x": "2021-12-01T00:00:00Z",
+                    "y": -88296
+                },
                 {
                     "x": "2021-11-01T00:00:00Z",
                     "y": 5932
@@ -68,10 +72,10 @@
         },
         {
             "titulo": "Goiás",
-            "valor": "1.812",
+            "valor": "2.438",
             "direcao": "down",
             "cor_valor": "red",
-            "referencia": "Nov/2021",
+            "referencia": "Dez/2021",
             "desc_serie": "Saldo de empregados por mês",
             "serie_tipo": "data",
             "y_label": {
@@ -83,6 +87,10 @@
                 "y": "Valor"
             },
             "serie": [
+                {
+                    "x": "2021-12-01T00:00:00Z",
+                    "y": -2438
+                },
                 {
                     "x": "2021-11-01T00:00:00Z",
                     "y": -1812
