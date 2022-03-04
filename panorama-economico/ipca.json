@@ -5,12 +5,12 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "0.73%",
+            "valor": "0.54%",
             "direcao": "up",
             "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Dez/2021",
+            "referencia": "Jan/2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -115,17 +115,21 @@
                 {
                     "x": "2021-12-01T00:00:00Z",
                     "y": 0.73
+                },
+                {
+                    "x": "2022-01-01T00:00:00Z",
+                    "y": 0.54
                 }
             ]
         },
         {
             "titulo": "Goiás",
-            "valor": "0.58%",
+            "valor": "0.74%",
             "direcao": "up",
             "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Dez/2021",
+            "referencia": "Jan/2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -230,6 +234,10 @@
                 {
                     "x": "2021-12-01T00:00:00Z",
                     "y": 0.58
+                },
+                {
+                    "x": "2022-01-01T00:00:00Z",
+                    "y": 0.74
                 }
             ]
         }
