@@ -6,12 +6,12 @@
         {
             "titulo": "Brasil",
             "valor": 51.6,
-            "direcao": "up",
+            "direcao": "down",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
-            "referencia": "Jan/2022",
+            "referencia": "Mar/2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": ""
@@ -71,6 +71,14 @@
                 },
                 {
                     "x": "2022-01-01T00:00:00Z",
+                    "y": 51.6
+                },
+                {
+                    "x": "2022-02-01T00:00:00Z",
+                    "y": 52.1
+                },
+                {
+                    "x": "2022-03-01T00:00:00Z",
                     "y": 51.6
                 }
             ]
