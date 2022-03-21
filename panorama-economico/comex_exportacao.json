@@ -5,13 +5,13 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "31.4%",
+            "valor": "39.9%",
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "ar. Jan 2021 - ar. Jan 2022",
+            "referencia": "Fev 2021 - Fev 2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -88,20 +88,25 @@
                 },
                 {
                     "x": "2022-01-01T00:00:00Z",
-                    "y": 31.4,
-                    "y2": "19.634.994.299,00"
+                    "y": 32.0,
+                    "y2": "19.730.909.095,00"
+                },
+                {
+                    "x": "2022-02-01T00:00:00Z",
+                    "y": 39.9,
+                    "y2": "22.912.399.583,00"
                 }
             ]
         },
         {
             "titulo": "Goiás",
-            "valor": "96.0%",
+            "valor": "111.3%",
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "ar. Jan 2021 - ar. Jan 2022",
+            "referencia": "Fev 2021 - Fev 2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -178,8 +183,13 @@
                 },
                 {
                     "x": "2022-01-01T00:00:00Z",
-                    "y": 96.0,
-                    "y2": "742.768.546,00"
+                    "y": 104.2,
+                    "y2": "773.823.546,00"
+                },
+                {
+                    "x": "2022-02-01T00:00:00Z",
+                    "y": 111.3,
+                    "y2": "811.557.541,00"
                 }
             ]
         }
