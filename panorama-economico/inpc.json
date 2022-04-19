@@ -5,9 +5,14 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "alor%",
+            "valor": {
+                "valor": "Valor",
+                "direcao_seta": "right",
+                "cor_valor": "green",
+                "referencia": "Abr/2022"
+            },
             "direcao": "right",
-            "cor_valor": "red",
+            "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
             "referencia": "Abr/2022",
@@ -136,9 +141,14 @@
         },
         {
             "titulo": "Goiás",
-            "valor": "alor%",
+            "valor": {
+                "valor": "Valor",
+                "direcao_seta": "right",
+                "cor_valor": "green",
+                "referencia": "Abr/2022"
+            },
             "direcao": "right",
-            "cor_valor": "red",
+            "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
             "referencia": "Abr/2022",
