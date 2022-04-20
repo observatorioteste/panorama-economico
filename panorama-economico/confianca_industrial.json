@@ -5,8 +5,8 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 55.4,
-            "direcao": "down",
+            "valor": 56.8,
+            "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Número índice mês a mês",
@@ -80,6 +80,10 @@
                 {
                     "x": "2022-03-01T00:00:00Z",
                     "y": 55.4
+                },
+                {
+                    "x": "2022-03-01T00:00:00Z",
+                    "y": 56.8
                 }
             ]
         }
