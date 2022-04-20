@@ -1,11 +1,11 @@
 {
-    "nome": "Índice Nacional de Preços ao Consumidor Amplo- IPCA",
+    "nome": "Índice Nacional de Preços ao Consumidor - INPC",
     "descricao": "Variação percentual mensal",
     "fonte": "IBGE",
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "1.01%",
+            "valor": "1.62%",
             "direcao": "up",
             "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
@@ -132,7 +132,7 @@
         },
         {
             "titulo": "Goiás",
-            "valor": "0.91%",
+            "valor": "2.1%",
             "direcao": "up",
             "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
