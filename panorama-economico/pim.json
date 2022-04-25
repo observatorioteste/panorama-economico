@@ -11,7 +11,7 @@
             "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Jan/2022",
+            "referencia": "Fev/2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -134,7 +134,7 @@
             "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Jan/2022",
+            "referencia": "Fev/2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
