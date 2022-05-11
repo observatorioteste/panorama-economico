@@ -5,7 +5,7 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "1.62%",
+            "valor": "1.01%",
             "direcao": "up",
             "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
@@ -132,7 +132,7 @@
         },
         {
             "titulo": "Goiás",
-            "valor": "2.1%",
+            "valor": "0.91%",
             "direcao": "up",
             "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
