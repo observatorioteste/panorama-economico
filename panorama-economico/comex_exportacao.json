@@ -5,13 +5,13 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "19.4%",
+            "valor": "10.7%",
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "Mar 2021 - Mar 2022",
+            "referencia": "Abr 2021 - Abr 2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -88,30 +88,35 @@
                 },
                 {
                     "x": "2022-01-01T00:00:00Z",
-                    "y": 32.0,
-                    "y2": "19.733.637.743,00"
+                    "y": 32.1,
+                    "y2": "19.749.478.984,00"
                 },
                 {
                     "x": "2022-02-01T00:00:00Z",
-                    "y": 43.4,
-                    "y2": "23.490.314.664,00"
+                    "y": 43.5,
+                    "y2": "23.505.785.560,00"
                 },
                 {
                     "x": "2022-03-01T00:00:00Z",
-                    "y": 19.4,
-                    "y2": "29.059.111.830,00"
+                    "y": 20.6,
+                    "y2": "29.338.311.472,00"
+                },
+                {
+                    "x": "2022-04-01T00:00:00Z",
+                    "y": 10.7,
+                    "y2": "28.845.057.642,00"
                 }
             ]
         },
         {
             "titulo": "Goiás",
-            "valor": "35.8%",
+            "valor": "15.1%",
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "Mar 2021 - Mar 2022",
+            "referencia": "Abr 2021 - Abr 2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -188,18 +193,23 @@
                 },
                 {
                     "x": "2022-01-01T00:00:00Z",
-                    "y": 104.8,
-                    "y2": "775.982.649,00"
+                    "y": 105.0,
+                    "y2": "776.792.490,00"
                 },
                 {
                     "x": "2022-02-01T00:00:00Z",
-                    "y": 126.0,
-                    "y2": "868.018.958,00"
+                    "y": 127.0,
+                    "y2": "871.534.585,00"
                 },
                 {
                     "x": "2022-03-01T00:00:00Z",
-                    "y": 35.8,
-                    "y2": "1.420.532.902,00"
+                    "y": 42.2,
+                    "y2": "1.487.610.849,00"
+                },
+                {
+                    "x": "2022-04-01T00:00:00Z",
+                    "y": 15.1,
+                    "y2": "1.291.909.100,00"
                 }
             ]
         }
