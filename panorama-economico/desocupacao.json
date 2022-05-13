@@ -11,7 +11,7 @@
             "cor_seta": "orange",
             "desc_serie": "Variação percentual trimestral",
             "serie_tipo": "data",
-            "referencia": "Out-Dez/2021",
+            "referencia": "Jan-Mar/2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -52,18 +52,22 @@
                 {
                     "x": "2021-10-01T00:00:00Z",
                     "y": 11.1
+                },
+                {
+                    "x": "2022-01-01T00:00:00Z",
+                    "y": 11.1
                 }
             ]
         },
         {
             "titulo": "Goiás",
-            "valor": "8.7%",
+            "valor": "8.9%",
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual trimestral",
             "serie_tipo": "data",
-            "referencia": "Out-Dez/2021",
+            "referencia": "Jan-Mar/2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -104,6 +108,10 @@
                 {
                     "x": "2021-10-01T00:00:00Z",
                     "y": 8.7
+                },
+                {
+                    "x": "2022-01-01T00:00:00Z",
+                    "y": 8.9
                 }
             ]
         }
