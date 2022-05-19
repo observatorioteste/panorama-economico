@@ -7,11 +7,11 @@
             "titulo": "Brasil",
             "valor": 69.0,
             "cor_seta": "orange",
-            "direcao": "up",
+            "direcao": "rigth",
             "cor_valor": "green",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
-            "referencia": "Mar/2022",
+            "referencia": "Abr/2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": ""
@@ -79,6 +79,10 @@
                 },
                 {
                     "x": "2022-03-01T00:00:00Z",
+                    "y": 69.0
+                },
+                {
+                    "x": "2022-04-01T00:00:00Z",
                     "y": 69.0
                 }
             ]
