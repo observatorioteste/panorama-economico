@@ -15,7 +15,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Brasil",
-            "valor": 12088,
+            "valor": 12.088,
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
@@ -33,7 +33,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Goi\u00e1s",
-            "valor": 1310,
+            "valor": 1.31,
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
