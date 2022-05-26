@@ -1,7 +1,7 @@
 {
     "descricao": "Saldo de empregados = Admitidos - Desligados",
     "fonte": "MTE",
-    "nome": "Saldo de Empregados da Ind. de Transforma\u00e7\u00e3o",
+    "nome": "<h1>Saldo de Empregados da Ind. de Transforma\u00e7\u00e3o</h1>",
     "stats": [
         {
             "cor_valor": "red",
