@@ -1,11 +1,11 @@
 {
     "descricao": "Varia\u00e7\u00e3o 12 Meses - Anual",
     "fonte": " Sinduscon - GO",
-    "nome": "Cube Varia\u00e7\u00e3o Anual",
+    "nome": "Custo Unit\u00e1rio B\u00e1sico de Constru\u00e7\u00e3o - Varia\u00e7\u00e3o Anual",
     "stats": [
         {
             "cor_valor": "green",
-            "desc_serie": "Saldo de empregados por m\u00eas",
+            "desc_serie": "Varia\u00e7\u00e3o nos \u00faltimos 12 meses",
             "direcao": "up",
             "referencia": "Abr/2022",
             "serie": [
@@ -132,7 +132,7 @@
         },
         {
             "cor_valor": "green",
-            "desc_serie": "Varia\u00e7\u00e3o Mensal",
+            "desc_serie": "Varia\u00e7\u00e3o Anual",
             "direcao": "up",
             "referencia": "Abr/2022",
             "serie": [
