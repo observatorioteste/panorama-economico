@@ -1,6 +1,6 @@
 {
     "descricao": "Varia\u00e7\u00e3o 12 Meses - Anual",
-    "fonte": "MTE",
+    "fonte": " Sinduscon - GO",
     "nome": "Cube Varia\u00e7\u00e3o Anual",
     "stats": [
         {
@@ -123,7 +123,7 @@
                 "y": "Valor"
             },
             "serie_tipo": "data",
-            "titulo": "Brasil",
+            "titulo": "Varia\u00e7\u00e3o 12 Meses",
             "valor": "13.746%",
             "y_label": {
                 "label": "",
@@ -132,7 +132,7 @@
         },
         {
             "cor_valor": "green",
-            "desc_serie": "Saldo de empregados por m\u00eas",
+            "desc_serie": "Varia\u00e7\u00e3o Mensal",
             "direcao": "up",
             "referencia": "Mar/2022",
             "serie": [
@@ -250,7 +250,7 @@
                 "y": "Valor"
             },
             "serie_tipo": "data",
-            "titulo": "Goi\u00e1s",
+            "titulo": "Varia\u00e7\u00e3o Anual",
             "valor": "5.951%",
             "y_label": {
                 "label": "",
