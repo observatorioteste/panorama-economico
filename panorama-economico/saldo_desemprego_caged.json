@@ -120,7 +120,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Brasil",
-            "valor": "12088%",
+            "valor": "12088",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
@@ -243,7 +243,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Goi\u00e1s",
-            "valor": "1310%",
+            "valor": "1310",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
