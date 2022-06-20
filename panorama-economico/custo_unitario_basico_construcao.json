@@ -5,7 +5,7 @@
     "stats": [
         {
             "cor_valor": "green",
-            "desc_serie": "Varia\u00e7\u00e3o mensal em reais m\u00b2",
+            "desc_serie": "Custo M\u00e9dio por m\u00b2 (R$)",
             "direcao": "up",
             "referencia": "Abr/2022",
             "serie": [
