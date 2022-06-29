@@ -5,12 +5,12 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "0.52%",
+            "valor": "0.59%",
             "direcao": "up",
             "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Mai/2022",
+            "referencia": "Jun/2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -135,6 +135,10 @@
                 {
                     "x": "2022-05-01T00:00:00Z",
                     "y": 0.52
+                },
+                {
+                    "x": "2022-06-01T00:00:00Z",
+                    "y": 0.59
                 }
             ]
         }
