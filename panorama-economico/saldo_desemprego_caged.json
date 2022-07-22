@@ -7,7 +7,7 @@
             "cor_valor": "red",
             "desc_serie": "Saldo de empregados por m\u00eas",
             "direcao": "down",
-            "referencia": "Fev/2022",
+            "referencia": "Abr/2022",
             "serie": [
                 {
                     "x": "2020-01-01T00:00:00Z",
@@ -107,11 +107,19 @@
                 },
                 {
                     "x": "2022-01-01T00:00:00Z",
-                    "y": 49743
+                    "y": 52381
                 },
                 {
                     "x": "2022-02-01T00:00:00Z",
-                    "y": 37878
+                    "y": 43197
+                },
+                {
+                    "x": "2022-03-01T00:00:00Z",
+                    "y": 5859
+                },
+                {
+                    "x": "2022-04-01T00:00:00Z",
+                    "y": 26369
                 }
             ],
             "serie_labels": {
@@ -120,7 +128,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Brasil",
-            "valor": "12088",
+            "valor": "46975",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
@@ -130,7 +138,7 @@
             "cor_valor": "red",
             "desc_serie": "Saldo de empregados por m\u00eas",
             "direcao": "down",
-            "referencia": "Fev/2022",
+            "referencia": "Abr/2022",
             "serie": [
                 {
                     "x": "2020-01-01T00:00:00Z",
@@ -230,11 +238,19 @@
                 },
                 {
                     "x": "2022-01-01T00:00:00Z",
-                    "y": 1381
+                    "y": 1380
                 },
                 {
                     "x": "2022-02-01T00:00:00Z",
-                    "y": 2008
+                    "y": 2013
+                },
+                {
+                    "x": "2022-03-01T00:00:00Z",
+                    "y": 1099
+                },
+                {
+                    "x": "2022-04-01T00:00:00Z",
+                    "y": 2523
                 }
             ],
             "serie_labels": {
@@ -243,7 +259,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Goi\u00e1s",
-            "valor": "1310",
+            "valor": "2519",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
