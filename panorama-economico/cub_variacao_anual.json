@@ -7,7 +7,7 @@
             "cor_valor": "green",
             "desc_serie": "Varia\u00e7\u00e3o nos \u00faltimos 12 meses",
             "direcao": "up",
-            "referencia": "Mai/2022",
+            "referencia": "Jun/2022",
             "serie": [
                 {
                     "x": "2020-01-01T00:00:00Z",
@@ -142,7 +142,7 @@
             "cor_valor": "green",
             "desc_serie": "Varia\u00e7\u00e3o Anual",
             "direcao": "up",
-            "referencia": "Mai/2022",
+            "referencia": "Jun/2022",
             "serie": [
                 {
                     "x": "2020-01-01T00:00:00Z",
