@@ -5,12 +5,12 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 55.9,
-            "direcao": "down",
+            "valor": 59,
+            "direcao": "up",
             "cor_valor": "green",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
-            "referencia": "Jul/2022",
+            "referencia": "Set/2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": ""
@@ -95,6 +95,14 @@
                 {
                     "x": "2022-07-01T00:00:00Z",
                     "y": 55.9
+                },
+                {
+                    "x": "2022-08-01T00:00:00Z",
+                    "y": 56.9
+                },
+                {
+                    "x": "2022-09-01T00:00:00Z",
+                    "y": 59
                 }
             ]
         }
