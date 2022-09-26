@@ -5,13 +5,13 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 49.2,
+            "valor": 51.4,
             "direcao": "up",
-            "cor_valor": "green",
+            "cor_valor": "red",
             "cor_seta": "orange",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
-            "referencia": "Jun/2022",
+            "referencia": "Ago/2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": ""
@@ -92,6 +92,14 @@
                 {
                     "x": "2022-06-01T00:00:00Z",
                     "y": 49.2
+                },
+                {
+                    "x": "2022-07-01T00:00:00Z",
+                    "y": 50.1
+                },
+                {
+                    "x": "2022-08-01T00:00:00Z",
+                    "y": 51.4
                 }
             ]
         }
