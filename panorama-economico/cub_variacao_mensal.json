@@ -5,7 +5,7 @@
     "stats": [
         {
             "cor_valor": "green",
-            "desc_serie": "Custo B\u00e1sico de contru\u00e7\u00e3o - Varia\u00e7\u00e3o Anual",
+            "desc_serie": "Custo B\u00e1sico de constru\u00e7\u00e3o - Varia\u00e7\u00e3o Anual",
             "direcao": "up",
             "referencia": "Jun/2022",
             "serie": [
@@ -124,6 +124,14 @@
                 {
                     "x": "2022-05-01T00:00:00Z",
                     "y": 3.188
+                },
+                {
+                    "x": "2022-06-01T00:00:00Z",
+                    "y": 0.985
+                },
+                {
+                    "x": "2022-07-01T00:00:00Z",
+                    "y": 0.585
                 }
             ],
             "serie_labels": {
@@ -132,7 +140,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Goi\u00e1s",
-            "valor": "0.98%",
+            "valor": "0.024%",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
