@@ -124,6 +124,10 @@
                 {
                     "x": "2022-05-01T00:00:00Z",
                     "y": 46975
+                },
+                {
+                    "x": "2022-06-01T00:00:00Z",
+                    "y": 41517
                 }
             ],
             "serie_labels": {
@@ -132,7 +136,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Brasil",
-            "valor": "41517",
+            "valor": "50503",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
@@ -259,6 +263,10 @@
                 {
                     "x": "2022-05-01T00:00:00Z",
                     "y": 2519
+                },
+                {
+                    "x": "2022-06-01T00:00:00Z",
+                    "y": 2966
                 }
             ],
             "serie_labels": {
@@ -267,7 +275,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Goi\u00e1s",
-            "valor": "2966",
+            "valor": "1385",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
