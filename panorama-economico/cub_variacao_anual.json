@@ -124,6 +124,14 @@
                 {
                     "x": "2022-05-01T00:00:00Z",
                     "y": 14.123
+                },
+                {
+                    "x": "2022-06-01T00:00:00Z",
+                    "y": 13.771
+                },
+                {
+                    "x": "2022-07-01T00:00:00Z",
+                    "y": 13.807
                 }
             ],
             "serie_labels": {
@@ -132,7 +140,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Varia\u00e7\u00e3o 12 Meses",
-            "valor": "13.77%",
+            "valor": "14.4%",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
@@ -259,6 +267,14 @@
                 {
                     "x": "2022-05-01T00:00:00Z",
                     "y": 9.329
+                },
+                {
+                    "x": "2022-06-01T00:00:00Z",
+                    "y": 10.406
+                },
+                {
+                    "x": "2022-07-01T00:00:00Z",
+                    "y": 11.051
                 }
             ],
             "serie_labels": {
@@ -267,7 +283,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Varia\u00e7\u00e3o Anual",
-            "valor": "10.4%",
+            "valor": "11.08%",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
