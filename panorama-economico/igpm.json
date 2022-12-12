@@ -8,7 +8,7 @@
             "valor": "0.96%",
             "direcao": "up",
             "cor_valor": "green",
-            "desc_serie": "Variação percentual mensal - <small style=\"color: red;>(Em correção!)</small>",
+            "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
             "referencia": "Dez/2020",
             "y_label": {
