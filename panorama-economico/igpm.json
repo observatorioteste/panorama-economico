@@ -8,7 +8,7 @@
             "valor": "0.96%",
             "direcao": "up",
             "cor_valor": "green",
-            "desc_serie": "Variação percentual mensal",
+            "desc_serie": "Variação percentual mensal(Em atualização)",
             "serie_tipo": "data",
             "referencia": "Dez/2020",
             "y_label": {
