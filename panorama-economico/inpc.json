@@ -1,16 +1,16 @@
 {
     "nome": "Índice Nacional de Preços ao Consumidor - INPC",
-    "descricao": "Variação percentual mensal",
+    "descricao": "Variação mensal.",
     "fonte": "IBGE",
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "0.38%",
+            "valor": "0.69%",
             "direcao": "up",
             "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Nov/2022",
+            "referencia": "Jan-Dez/2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -159,17 +159,21 @@
                 {
                     "x": "2022-11-01T00:00:00Z",
                     "y": 0.38
+                },
+                {
+                    "x": "2022-12-01T00:00:00Z",
+                    "y": 0.69
                 }
             ]
         },
         {
             "titulo": "Goiás",
-            "valor": "0.95%",
+            "valor": "0.75%",
             "direcao": "up",
             "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Nov/2022",
+            "referencia": "Jan-Dez/2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -318,6 +322,10 @@
                 {
                     "x": "2022-11-01T00:00:00Z",
                     "y": 0.95
+                },
+                {
+                    "x": "2022-12-01T00:00:00Z",
+                    "y": 0.75
                 }
             ]
         }
