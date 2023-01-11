@@ -1,1 +1,67 @@
-"capacidade_industria"
+{
+    "nome": "Utilização da Capacidade Instalada da Indústria",
+    "descricao": "O índice varia de 0 a 100. Valores acima de 50 pontos indicam que a capacidade ficou acima do usual para o mês.",
+    "fonte": "CNI",
+    "stats": [
+        {
+            "titulo": "Brasil",
+            "valor": 71.0,
+            "cor_seta": "orange",
+            "direcao": "up",
+            "cor_valor": "green",
+            "desc_serie": "Número índice mês a mês",
+            "serie_tipo": "data",
+            "referencia": "Out/2022",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": ""
+            },
+            "serie_labels": {
+                "x": "Data",
+                "y": "Índice"
+            },
+            "serie": [
+                {
+                    "x": "2022-01-01T00:00:00Z",
+                    "y": 67.0
+                },
+                {
+                    "x": "2022-02-01T00:00:00Z",
+                    "y": 68.0
+                },
+                {
+                    "x": "2022-03-01T00:00:00Z",
+                    "y": 69.0
+                },
+                {
+                    "x": "2022-04-01T00:00:00Z",
+                    "y": 69.0
+                },
+                {
+                    "x": "2022-05-01T00:00:00Z",
+                    "y": 70.0
+                },
+                {
+                    "x": "2022-06-01T00:00:00Z",
+                    "y": 70.0
+                },
+                {
+                    "x": "2022-07-01T00:00:00Z",
+                    "y": 71.0
+                },
+                {
+                    "x": "2022-08-01T00:00:00Z",
+                    "y": 73.0
+                },
+                {
+                    "x": "2022-09-01T00:00:00Z",
+                    "y": 72.0
+                },
+                {
+                    "x": "2022-10-01T00:00:00Z",
+                    "y": 71.0
+                }
+            ]
+        }
+    ]
+}
