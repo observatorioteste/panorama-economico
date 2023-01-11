@@ -1,1 +1,71 @@
-"expectativa_emprego"
+{
+    "nome": "Perspectiva do Emprego da Indústria",
+    "descricao": "O índice varia de 0 a 100. Acima de 50 pontos indica expectativa de crescimento do emprego.",
+    "fonte": "CNI",
+    "stats": [
+        {
+            "titulo": "Brasil",
+            "valor": 49,
+            "direcao": "down",
+            "cor_valor": "red",
+            "cor_seta": "orange",
+            "desc_serie": "Número índice mês a mês",
+            "serie_tipo": "data",
+            "referencia": "Nov/2022",
+            "y_label": {
+                "prefixo_sufixo": "sufixo",
+                "label": ""
+            },
+            "serie_labels": {
+                "x": "Data",
+                "y": "Índice"
+            },
+            "serie": [
+                {
+                    "x": "2022-01-01T00:00:00Z",
+                    "y": 51.6
+                },
+                {
+                    "x": "2022-02-01T00:00:00Z",
+                    "y": 52.1
+                },
+                {
+                    "x": "2022-03-01T00:00:00Z",
+                    "y": 51.6
+                },
+                {
+                    "x": "2022-04-01T00:00:00Z",
+                    "y": 52.9
+                },
+                {
+                    "x": "2022-05-01T00:00:00Z",
+                    "y": 52.8
+                },
+                {
+                    "x": "2022-06-01T00:00:00Z",
+                    "y": 53.4
+                },
+                {
+                    "x": "2022-07-01T00:00:00Z",
+                    "y": 53.2
+                },
+                {
+                    "x": "2022-08-01T00:00:00Z",
+                    "y": 53.7
+                },
+                {
+                    "x": "2022-09-01T00:00:00Z",
+                    "y": 53.9
+                },
+                {
+                    "x": "2022-10-01T00:00:00Z",
+                    "y": 52.3
+                },
+                {
+                    "x": "2022-11-01T00:00:00Z",
+                    "y": 49
+                }
+            ]
+        }
+    ]
+}
