@@ -5,13 +5,13 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "0.3%",
-            "direcao": "up",
+            "valor": "0.1%",
+            "direcao": "down",
             "cor_seta": "orange",
-            "cor_valor": "green",
+            "cor_valor": "red",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Out/2022",
+            "referencia": "Nov/2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -156,6 +156,10 @@
                 {
                     "x": "2022-10-01T00:00:00Z",
                     "y": 0.3
+                },
+                {
+                    "x": "2022-11-01T00:00:00Z",
+                    "y": -0.1
                 }
             ]
         },
@@ -166,7 +170,7 @@
             "cor_valor": "green",
             "desc_serie": "Variação percentual mensal",
             "serie_tipo": "data",
-            "referencia": "Out/2022",
+            "referencia": "Nov/2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
