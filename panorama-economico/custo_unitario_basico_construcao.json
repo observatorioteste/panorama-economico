@@ -144,6 +144,10 @@
                 {
                     "x": "2022-10-01T00:00:00Z",
                     "y": 2300.84
+                },
+                {
+                    "x": "2022-11-01T00:00:00Z",
+                    "y": 2297.8
                 }
             ],
             "serie_labels": {
@@ -152,7 +156,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Goi\u00e1s",
-            "valor": 2297.8,
+            "valor": 2300.39,
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
