@@ -7,11 +7,11 @@
             "titulo": "Brasil",
             "valor": 71.0,
             "cor_seta": "orange",
-            "direcao": "up",
+            "direcao": "rigth",
             "cor_valor": "green",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
-            "referencia": "Out/2022",
+            "referencia": "Nov/2022",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": ""
@@ -59,6 +59,10 @@
                 },
                 {
                     "x": "2022-10-01T00:00:00Z",
+                    "y": 71.0
+                },
+                {
+                    "x": "2022-11-01T00:00:00Z",
                     "y": 71.0
                 }
             ]
