@@ -1,14 +1,13 @@
 {
     "nome": "Taxa de Desocupação",
-    "descricao": "Variação Trimestral",
-    "fonte": "IBGE/PNADC",
+    "descricao": "Variação percentual trimestral",
+    "fonte": "IBGE",
     "stats": [
         {
             "titulo": "Brasil",
             "valor": "8.7%",
-            "direcao": "up",
+            "direcao": "down",
             "cor_valor": "green",
-            "cor_seta": "orange",
             "desc_serie": "Variação percentual trimestral",
             "serie_tipo": "data",
             "referencia": "Jul-Set/2022",
@@ -70,9 +69,8 @@
         {
             "titulo": "Goiás",
             "valor": "6.1%",
-            "direcao": "up",
+            "direcao": "down",
             "cor_valor": "green",
-            "cor_seta": "orange",
             "desc_serie": "Variação percentual trimestral",
             "serie_tipo": "data",
             "referencia": "Jul-Set/2022",
