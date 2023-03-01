@@ -5,13 +5,13 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 50.8,
+            "valor": 50.6,
             "direcao": "down",
             "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
-            "referencia": "Dez/2022",
+            "referencia": "Fev/2023",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": ""
@@ -68,6 +68,10 @@
                 {
                     "x": "2022-12-01T00:00:00Z",
                     "y": 50.8
+                },
+                {
+                    "x": "2023-02-01T00:00:00Z",
+                    "y": 50.6
                 }
             ]
         }
