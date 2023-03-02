@@ -6,12 +6,12 @@
         {
             "titulo": "Brasil",
             "valor": 51.6,
-            "direcao": "up",
+            "direcao": "down",
             "cor_valor": "red",
             "cor_seta": "orange",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
-            "referencia": "Fev/2023",
+            "referencia": "Jan/2023",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": ""
@@ -66,7 +66,11 @@
                     "y": 51.3
                 },
                 {
-                    "x": "2023-02-01T00:00:00Z",
+                    "x": "2022-12-01T00:00:00Z",
+                    "y": 51.7
+                },
+                {
+                    "x": "2023-01-01T00:00:00Z",
                     "y": 51.6
                 }
             ]
