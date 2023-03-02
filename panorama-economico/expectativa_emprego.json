@@ -5,7 +5,7 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": 54.2,
+            "valor": 50.7,
             "direcao": "up",
             "cor_valor": "green",
             "cor_seta": "orange",
@@ -70,8 +70,12 @@
                     "y": 49
                 },
                 {
+                    "x": "2023-01-01T00:00:00Z",
+                    "y": 49
+                },
+                {
                     "x": "2023-02-01T00:00:00Z",
-                    "y": 54.2
+                    "y": 50.7
                 }
             ]
         }
