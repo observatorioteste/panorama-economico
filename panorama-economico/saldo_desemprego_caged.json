@@ -7,7 +7,7 @@
             "cor_valor": "red",
             "desc_serie": "Saldo de empregados por m\u00eas",
             "direcao": "down",
-            "referencia": "Nov/2022",
+            "referencia": "Jan/2023",
             "serie": [
                 {
                     "x": "2020-01-01T00:00:00Z",
@@ -144,6 +144,10 @@
                 {
                     "x": "2022-10-01T00:00:00Z",
                     "y": 14.891
+                },
+                {
+                    "x": "2022-11-01T00:00:00Z",
+                    "y": -25.707
                 }
             ],
             "serie_labels": {
@@ -152,7 +156,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Brasil",
-            "valor": "-25.707",
+            "valor": "34.023",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
@@ -162,7 +166,7 @@
             "cor_valor": "red",
             "desc_serie": "Saldo de empregados por m\u00eas",
             "direcao": "down",
-            "referencia": "Nov/2022",
+            "referencia": "Jan/2023",
             "serie": [
                 {
                     "x": "2020-01-01T00:00:00Z",
@@ -299,6 +303,10 @@
                 {
                     "x": "2022-10-01T00:00:00Z",
                     "y": -1.004
+                },
+                {
+                    "x": "2022-11-01T00:00:00Z",
+                    "y": -2.923
                 }
             ],
             "serie_labels": {
@@ -307,7 +315,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Goi\u00e1s",
-            "valor": "-2.923",
+            "valor": "870.0",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
