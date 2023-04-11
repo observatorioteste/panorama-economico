@@ -5,13 +5,13 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "6.1%",
-            "direcao": "down",
-            "cor_valor": "red",
+            "valor": "1.4%",
+            "direcao": "up",
+            "cor_valor": "green",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "Fev 2022 - Fev 2023",
+            "referencia": "Mar 2022 - Mar 2023",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -89,24 +89,29 @@
                 {
                     "x": "2023-01-01T00:00:00Z",
                     "y": 3.5,
-                    "y2": "20.532.718.837,00"
+                    "y2": "20.528.685.863,00"
                 },
                 {
                     "x": "2023-02-01T00:00:00Z",
-                    "y": -6.1,
-                    "y2": "17.726.445.555,00"
+                    "y": -6.3,
+                    "y2": "17.696.099.857,00"
+                },
+                {
+                    "x": "2023-03-01T00:00:00Z",
+                    "y": 1.4,
+                    "y2": "22.104.279.995,00"
                 }
             ]
         },
         {
             "titulo": "Goiás",
-            "valor": "29.2%",
+            "valor": "0.5%",
             "direcao": "down",
             "cor_valor": "red",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "Fev 2022 - Fev 2023",
+            "referencia": "Mar 2022 - Mar 2023",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -184,12 +189,17 @@
                 {
                     "x": "2023-01-01T00:00:00Z",
                     "y": -23.6,
-                    "y2": "423.713.375,00"
+                    "y2": "423.718.436,00"
                 },
                 {
                     "x": "2023-02-01T00:00:00Z",
                     "y": -29.2,
-                    "y2": "298.343.436,00"
+                    "y2": "298.493.074,00"
+                },
+                {
+                    "x": "2023-03-01T00:00:00Z",
+                    "y": -0.5,
+                    "y2": "514.054.065,00"
                 }
             ]
         }
