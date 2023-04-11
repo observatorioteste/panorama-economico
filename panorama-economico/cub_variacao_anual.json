@@ -7,8 +7,12 @@
             "cor_valor": "green",
             "desc_serie": "Varia\u00e7\u00e3o nos \u00faltimos 12 meses",
             "direcao": "up",
-            "referencia": "Fev/2023",
+            "referencia": "Jan/2023",
             "serie": [
+                {
+                    "x": "2020-01-01T00:00:00Z",
+                    "y": 5.64
+                },
                 {
                     "x": "2020-02-01T00:00:00Z",
                     "y": 4.89
@@ -152,10 +156,6 @@
                 {
                     "x": "2023-01-01T00:00:00Z",
                     "y": 8.51
-                },
-                {
-                    "x": "2023-02-01T00:00:00Z",
-                    "y": 7.78
                 }
             ],
             "serie_labels": {
@@ -164,7 +164,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Varia\u00e7\u00e3o 12 Meses",
-            "valor": "5.64%",
+            "valor": "7.78%",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
@@ -174,8 +174,12 @@
             "cor_valor": "green",
             "desc_serie": "Varia\u00e7\u00e3o Anual",
             "direcao": "up",
-            "referencia": "Fev/2023",
+            "referencia": "Jan/2023",
             "serie": [
+                {
+                    "x": "2020-01-01T00:00:00Z",
+                    "y": 0.01
+                },
                 {
                     "x": "2020-02-01T00:00:00Z",
                     "y": -0.05
@@ -319,10 +323,6 @@
                 {
                     "x": "2023-01-01T00:00:00Z",
                     "y": 0.53
-                },
-                {
-                    "x": "2023-02-01T00:00:00Z",
-                    "y": -0.327
                 }
             ],
             "serie_labels": {
@@ -331,7 +331,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Varia\u00e7\u00e3o Anual",
-            "valor": "0.01%",
+            "valor": "-0.327%",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
