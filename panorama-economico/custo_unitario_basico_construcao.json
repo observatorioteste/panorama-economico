@@ -7,7 +7,7 @@
             "cor_valor": "green",
             "desc_serie": "Custo M\u00e9dio por m\u00b2 (R$)",
             "direcao": "up",
-            "referencia": "Jan/2023",
+            "referencia": "Mar/2023",
             "serie": [
                 {
                     "x": "2020-01-01T00:00:00Z",
@@ -156,6 +156,10 @@
                 {
                     "x": "2023-01-01T00:00:00Z",
                     "y": 2301.6
+                },
+                {
+                    "x": "2023-02-01T00:00:00Z",
+                    "y": 2292.87
                 }
             ],
             "serie_labels": {
@@ -164,7 +168,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Goi\u00e1s",
-            "valor": 2292.87,
+            "valor": 2301.85,
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
