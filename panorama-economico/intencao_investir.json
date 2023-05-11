@@ -6,7 +6,7 @@
         {
             "titulo": "Brasil",
             "valor": 53.6,
-            "direcao": "rigth",
+            "direcao": "down",
             "cor_valor": "green",
             "desc_serie": "Número índice mês a mês",
             "serie_tipo": "data",
