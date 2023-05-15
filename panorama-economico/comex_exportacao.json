@@ -5,13 +5,13 @@
     "stats": [
         {
             "titulo": "Brasil",
-            "valor": "12.3%",
-            "direcao": "up",
-            "cor_valor": "green",
+            "valor": "5.5%",
+            "direcao": "down",
+            "cor_valor": "red",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "Mar 2022 - Mar 2023",
+            "referencia": "Abr 2022 - Abr 2023",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -88,30 +88,35 @@
                 },
                 {
                     "x": "2023-01-01T00:00:00Z",
-                    "y": 15.3,
-                    "y2": "22.812.549.761,00"
+                    "y": 15.4,
+                    "y2": "22.824.990.694,00"
                 },
                 {
                     "x": "2023-02-01T00:00:00Z",
-                    "y": -13.6,
-                    "y2": "20.314.894.265,00"
+                    "y": -13.8,
+                    "y2": "20.261.992.331,00"
                 },
                 {
                     "x": "2023-03-01T00:00:00Z",
-                    "y": 12.3,
-                    "y2": "33.045.497.054,00"
+                    "y": 11.7,
+                    "y2": "32.876.505.209,00"
+                },
+                {
+                    "x": "2023-04-01T00:00:00Z",
+                    "y": -5.5,
+                    "y2": "27.362.183.372,00"
                 }
             ]
         },
         {
             "titulo": "Goiás",
-            "valor": "10.0%",
+            "valor": "9.0%",
             "direcao": "down",
             "cor_valor": "red",
             "cor_seta": "orange",
             "desc_serie": "Variação percentual em relação ao mesmo mês do ano anterior e Valor FOB por mês",
             "serie_tipo": "data",
-            "referencia": "Mar 2022 - Mar 2023",
+            "referencia": "Abr 2022 - Abr 2023",
             "y_label": {
                 "prefixo_sufixo": "sufixo",
                 "label": "%"
@@ -188,18 +193,23 @@
                 },
                 {
                     "x": "2023-01-01T00:00:00Z",
-                    "y": -14.0,
-                    "y2": "668.750.600,00"
+                    "y": -14.2,
+                    "y2": "666.931.596,00"
                 },
                 {
                     "x": "2023-02-01T00:00:00Z",
-                    "y": -16.5,
-                    "y2": "731.226.414,00"
+                    "y": -16.0,
+                    "y2": "735.485.524,00"
                 },
                 {
                     "x": "2023-03-01T00:00:00Z",
-                    "y": -10.0,
-                    "y2": "1.366.718.743,00"
+                    "y": -3.1,
+                    "y2": "1.470.191.345,00"
+                },
+                {
+                    "x": "2023-04-01T00:00:00Z",
+                    "y": -9.0,
+                    "y2": "1.295.975.786,00"
                 }
             ]
         }
