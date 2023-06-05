@@ -7,7 +7,7 @@
             "cor_valor": "green",
             "desc_serie": "Varia\u00e7\u00e3o nos \u00faltimos 12 meses",
             "direcao": "up",
-            "referencia": "Abr/2023",
+            "referencia": "Mai/2023",
             "serie": [
                 {
                     "x": "2020-01-01T00:00:00Z",
@@ -164,6 +164,10 @@
                 {
                     "x": "2023-03-01T00:00:00Z",
                     "y": 7.258
+                },
+                {
+                    "x": "2023-04-01T00:00:00Z",
+                    "y": 5.341
                 }
             ],
             "serie_labels": {
@@ -172,7 +176,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Varia\u00e7\u00e3o 12 Meses",
-            "valor": "5.341%",
+            "valor": "3.068%",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
@@ -182,7 +186,7 @@
             "cor_valor": "green",
             "desc_serie": "Varia\u00e7\u00e3o Anual",
             "direcao": "up",
-            "referencia": "Abr/2023",
+            "referencia": "Mai/2023",
             "serie": [
                 {
                     "x": "2020-01-01T00:00:00Z",
@@ -339,6 +343,10 @@
                 {
                     "x": "2023-03-01T00:00:00Z",
                     "y": 0.063
+                },
+                {
+                    "x": "2023-04-01T00:00:00Z",
+                    "y": 0.01
                 }
             ],
             "serie_labels": {
@@ -347,7 +355,7 @@
             },
             "serie_tipo": "data",
             "titulo": "Varia\u00e7\u00e3o Anual",
-            "valor": "0.01%",
+            "valor": "1.061%",
             "y_label": {
                 "label": "",
                 "prefixo_sufixo": "sufixo"
